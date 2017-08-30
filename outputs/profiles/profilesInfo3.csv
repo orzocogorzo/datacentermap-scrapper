@@ -1,0 +1,995 @@
+description,title,country,region,postal code,locality,extend address,name
+"
+	Bharti Airtel - Chennai DC is located in the area Chennai, India, and the colocation data center is  carrier neutral. The data center was last updated on 12-03-2010.",Bharti Airtel - Chennai DC,India,Tamilnadu,603103,Chennai,Bharti Airtel - Chennai DC,Bharti Airtel Ltd.
+"
+	Bharti Airtel - Bangalore DC is located in the area Bangalore (Bengaluru), India, and the colocation data center is  carrier neutral. The data center was last updated on 12-03-2010.",Bharti Airtel - Bangalore DC,India,Karnataka,560066,Bangalore,Bharti Airtel - Bangalore DC,Bharti Airtel Ltd.
+"
+	Omnilogic Data Center is located in the area Bucharest, Romania, and the colocation data center is  carrier neutral. The data center was last updated on 21-07-2010.",Omnilogic Data Center,Romania,,075100,Otopeni,Omnilogic Data Center,Omnilogic
+"
+	Bharti Airtel - Noida Sector-62 DC is located in the area New Delhi, India, and the colocation data center is  carrier neutral. The data center was last updated on 12-03-2010.",Bharti Airtel - Noida Sector-62 DC,India,NCR,201307,Noida,Bharti Airtel - Noida Sector-62 DC,Bharti Airtel Ltd.
+"
+	DC Tajov is located in the area Banska Bystrica, Slovakia (Slovak Republic), and the colocation data center is not  carrier neutral. The data center was last updated on 11-05-2012.",DC Tajov,Slovakia,,976 34,Tajov,DC Tajov,Slovak Telekom
+"
+	DC Bzenov is located in the area Presov, Slovakia (Slovak Republic), and the colocation data center is not  carrier neutral. The data center was last updated on 11-05-2012.",DC Bzenov,Slovakia,,082 42,Bzenov,DC Bzenov,Slovak Telekom
+"
+	ESDS - Fully Managed Data Center is located in the area Nashik, India, and the colocation data center is not  carrier neutral. The data center was last updated on 05-06-2010.",ESDS - Fully Managed Data Center,India,Maharashtra,422 007,Nashik,ESDS - Fully Managed Data Center,ESDS Software Solution Pvt. Ltd.
+"
+	DC Jarosova is located in the area Bratislava, Slovakia (Slovak Republic), and the colocation data center is not  carrier neutral. The data center was last updated on 11-05-2012.",DC Jarosova,Slovakia,,830 08,Bratislava,DC Jarosova,Slovak Telekom
+"
+	Bharti Airtel - Pune DC is located in the area Pune, India, and the colocation data center is  carrier neutral. The data center was last updated on 12-03-2010.",Bharti Airtel - Pune DC,India,Maharashtra,411014,Pune,Bharti Airtel - Pune DC,Bharti Airtel Ltd.
+"
+	DC Kosice is located in the area Kosice, Slovakia (Slovak Republic), and the colocation data center is not  carrier neutral. The data center was last updated on 11-05-2012.",DC Kosice,Slovakia,,043 06,Kosice,DC Kosice,Slovak Telekom
+"
+	Bharti Airtel - Noida Phase II DC is located in the area New Delhi, India, and the colocation data center is  carrier neutral. The data center was last updated on 12-03-2010.",Bharti Airtel - Noida Phase II DC,India,NCR,201301,Noida,Bharti Airtel - Noida Phase II DC,Bharti Airtel Ltd.
+"
+	IP eXchange Melbourne IDC is located in the area Melbourne (Victoria), Australia, and the colocation data center is not  carrier neutral. The data center was last updated on 15-03-2010.",IP eXchange Melbourne IDC,Australia,VIC,3000,Melbourne,IP eXchange Melbourne IDC,IP Exchange
+"
+	Vtesse Locate is located in the area Hertford, United Kingdom (UK), and the colocation data center is not  carrier neutral. The data center was last updated on 15-03-2010.",Vtesse Locate,United Kingdom,Hertfordshire,SG13 7DT,Hertford,Vtesse Locate,Vtesse Networks Ltd
+"
+	HostExpress is located in the area Adelaide (South Australia), Australia, and the colocation data center is  carrier neutral. The data center was last updated on 25-09-2012.",HostExpress,Australia,South Australia,5000,Adelaide,,HostExpress
+"
+	Talex Data Center is located in the area Poznan, Poland (Polska), and the colocation data center is not  carrier neutral. The data center was last updated on 18-03-2010.",Talex Data Center,Poland,,61-619,Poznan,Talex Data Center,Talex SA
+"
+	BT Services Paris is located in the area Paris, France (Française), and the colocation data center is not  carrier neutral. The data center was last updated on 18-03-2010.",BT Services Paris,France,,75013,Paris,BT Services Paris,BT Services
+"
+	NumeriParc Télépôle is located in the area Roanne, France (Française), and the colocation data center is  carrier neutral. The data center was last updated on 02-10-2010.",NumeriParc Télépôle,France,,42300,Roanne,NumeriParc Télépôle,NUMERIPARC TELPOLE
+"
+	Net4 Data Center Delhi is located in the area New Delhi, India, and the colocation data center is not  carrier neutral. The data center was last updated on 22-03-2010.",Net4 Data Center Delhi,India,Delhi,110029,New Delhi,Net4 Data Center Delhi,Net4india
+"
+	Net4 Data Center Bangalore is located in the area Bangalore (Bengaluru), India, and the colocation data center is not  carrier neutral. The data center was last updated on 22-03-2010.",Net4 Data Center Bangalore,India,Karnataka,560 001,Bangalore,Net4 Data Center Bangalore,Net4india
+"
+	Net4 Data Center Chennai is located in the area Chennai, India, and the colocation data center is not  carrier neutral. The data center was last updated on 06-04-2010.",Net4 Data Center Chennai,India,Tamilnadu,600006,Chennai,Net4 Data Center Chennai,Net4india
+"
+	Net4 Data Center Kolkatta is located in the area Kolkata, India, and the colocation data center is not  carrier neutral. The data center was last updated on 22-03-2010.",Net4 Data Center Kolkatta,India,West Bengal,700069,Kolkata,Net4 Data Center Kolkatta,Net4india
+"
+	Parsec Data Center is located in the area Billings, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 13-06-2013.",Parsec Data Center,USA,Montana,59102,Billings,Parsec Data Center,Parsec Data Management
+"
+	Net4 Data Center Mumbai is located in the area Mumbai, India, and the colocation data center is not  carrier neutral. The data center was last updated on 06-04-2010.",Net4 Data Center Mumbai,India,Maharashtra,400018,Mumbai,Net4 Data Center Mumbai,Net4india
+"
+	nGenx - Lafayette is located in the area Indianapolis, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 23-03-2010.",nGenx - Lafayette,USA,Indiana,47909,Lafayette,nGenx - Lafayette,nGenX
+"
+	nGenX - Louisville, KY is located in the area Louisville, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 23-03-2010.","nGenX - Louisville, KY",USA,Kentucky,40204,Louisville,"nGenX - Louisville, KY",nGenX
+"
+	Net4 Data Center Pune is located in the area Pune, India, and the colocation data center is not  carrier neutral. The data center was last updated on 06-04-2010.",Net4 Data Center Pune,India,Maharashtra,411005,Pune,Net4 Data Center Pune,Net4india
+"
+	DC74 Datacenters is located in the area Charlotte, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 16-07-2013.",DC74 Datacenters,USA,North Carolina,28208,Charlotte,DC74 Datacenters,DC74
+"
+	HITS Datacenter is located in the area Nantes, France (Française), and the colocation data center is  carrier neutral. The data center was last updated on 20-09-2013.",HITS Datacenter,France,,44800,Saint-Herblain,HITS Datacenter,NeoCenter Ouest by HITS Datacenter
+"
+	Kedia Data Center is located in the area Hyderabad, India, and the colocation data center is not  carrier neutral. The data center was last updated on 26-03-2010.",Kedia Data Center,India,AP,500003,Secunderabad,Kedia Data Center,Kedia Technologies Limited
+"
+	Datacenter Locaweb JK is located in the area Sao Paulo (São Paulo), Brazil (Brasil), and the colocation data center is  carrier neutral. The data center was last updated on 26-03-2010.",Datacenter Locaweb JK,Brazil,São Paulo,04543-900,São Paulo,Datacenter Locaweb JK,Locaweb S/A
+"
+	Datacenter Locaweb Itapaiuna is located in the area Sao Paulo (São Paulo), Brazil (Brasil), and the colocation data center is  carrier neutral. The data center was last updated on 26-03-2010.",Datacenter Locaweb Itapaiuna,Brazil,São Paulo,05707-001,Sao Paulo,Datacenter Locaweb Itapaiuna,Locaweb S/A
+"
+	CX2 Data Center is located in the area Cyberjaya, Malaysia, and the colocation data center is  carrier neutral. The data center was last updated on 30-03-2010.",CX2 Data Center,Malaysia,Selangor,63000,Cyberjaya,CX2 Data Center,CSF Group
+"
+	Cogent Orange County is located in the area Irvine, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 30-07-2012.",Cogent Orange County,USA,California,92805,Anaheim,Cogent Orange County,"Cogent Communications, Inc."
+"
+	Cogent Boca Raton is located in the area Boca Raton, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 27-01-2012.",Cogent Boca Raton,USA,Florida,33431,Boca Raton,Cogent Boca Raton,"Cogent Communications, Inc."
+"
+	Internetworking Atlantic Inc is located in the area Halifax, Canada, and the colocation data center is  carrier neutral. The data center was last updated on 30-03-2010.",Internetworking Atlantic Inc,Canada,NS,B3K 1L1,Halifax,,Internetworking Atlantic Inc
+"
+	VTEL Jordan Data Center is located in the area Amman (Ammann), Jordan (Hashemite Kingdom of Jordan), and the colocation data center is not  carrier neutral. The data center was last updated on 04-04-2010.",VTEL Jordan Data Center,Jordan,,P.O BOX 2833 Amman 11181,Amman,VTEL Jordan Data Center,VTEL Jordan
+"
+	TusHosting is located in the area Ljubljana, Slovenia (Republika Slovenija), and the colocation data center is not  carrier neutral. The data center was last updated on 01-04-2010.",TusHosting,Slovenia,,1231,Ljubljana-Crnuce,TusHosting,Tusmobil d.o.o.
+"
+	TulsaConnect (DC2) Oklahoma is located in the area Tulsa, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 03-03-2012.",TulsaConnect (DC2) Oklahoma,USA,Oklahoma,74119,Tulsa,TulsaConnect (DC2) Oklahoma,TulsaConnect
+"
+	iNES Data Center is located in the area Bucharest, Romania, and the colocation data center is not  carrier neutral. The data center was last updated on 06-04-2010.",iNES Data Center,Romania,,014135,Bucharest,iNES Data Center,iNES Group
+"
+	Ikoula Data Center 01 (IKC01) is located in the area Reims, France (Française), and the colocation data center is  carrier neutral. The data center was last updated on 13-04-2010.",Ikoula Data Center 01 (IKC01),France,,51100,Reims,Ikoula Data Center 01 (IKC01),Ikoula
+"
+	Constellate LA is located in the area Los Angeles, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 08-04-2010.",Constellate LA,USA,California,90010,los angeles,Constellate LA,Constellate
+"
+	Lauttasaari is located in the area Helsinki, Finland (Suomi), and the colocation data center is  carrier neutral. The data center was last updated on 15-04-2010.",Lauttasaari,Finland,,00130,Helsinki,Lauttasaari,Sigmatic Oy
+"
+	SBP1 is located in the area San Luis Obispo, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 15-04-2010.",SBP1,USA,California,93401,San Luis Obispo,SBP1,Digital West Networks
+"
+	Mount Pleasant is located in the area Gibraltar, Gibraltar, and the colocation data center is not  carrier neutral. The data center was last updated on 22-04-2010.",Mount Pleasant,Gibraltar,,N/A,Gibraltar,Mount Pleasant,Gibtelecom
+"
+	Baltneta is located in the area Vilnius, Lithuania (Republic of Lithuania), and the colocation data center is  carrier neutral. The data center was last updated on 24-10-2012.",Baltneta,Lithuania,,03209,Vilnius,Baltneta,"Baltnetos komunikacijos, UAB"
+"
+	Pirsenteret is located in the area Trondheim, Norway (Norge).",Pirsenteret,,,,,,
+"
+	ADDIX DC2 is located in the area Kiel, Germany (Deutschland), and the colocation data center is not  carrier neutral. The data center was last updated on 19-04-2010.",ADDIX DC2,Germany,,24114,Kiel,ADDIX DC2,ADDIX Internet Services GmbH
+"
+	IC2NET Tustin Data Center is located in the area Tustin, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 05-05-2015.",IC2NET Tustin Data Center,USA,California,92780,Tustin,IC2NET Tustin Data Center,"IC2 Holdings, Inc."
+"
+	Nethome DataCenter 2 is located in the area Trondheim, Norway (Norge), and the colocation data center is  carrier neutral. The data center was last updated on 23-04-2010.",Nethome DataCenter 2,Norway,,7010,Trondheim,Nethome DataCenter 2,ITsjefen AS
+"
+	Expedient Indianapolis is located in the area Indianapolis, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 28-04-2010.",Expedient Indianapolis,USA,Indiana,46032,Indianapolis,Expedient Indianapolis,Expedient Data Centers
+"
+	Clear Rate Battle Creek POP is located in the area Battle Creek, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 27-04-2010.",Clear Rate Battle Creek POP,USA,Michigan,49017,Battle Creek,Clear Rate Battle Creek POP,Clear Rate Communications
+"
+	NDS Sheffield is located in the area Sheffield, United Kingdom (UK), and the colocation data center is not  carrier neutral. The data center was last updated on 03-05-2010.",NDS Sheffield,United Kingdom,South Yorkshire,S6 2FH,Sheffield,NDS Sheffield,Northern Data Solutions Ltd
+"
+	DataCenter Fryslân is located in the area Leeuwarden, The Netherlands (Holland), and the colocation data center is  carrier neutral. The data center was last updated on 02-05-2010.",DataCenter Fryslân,The Netherlands,Friesland,8914BC,Leeuwarden,DataCenter Fryslân,DataCenter Fryslân BV
+"
+	RACK59 is located in the area Oklahoma City, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 11-05-2010.",RACK59,USA,Oklahoma,73127,Oklahoma City,,RACK59
+"
+	Swiss Data Center is located in the area Uri, Switzerland (Schweiz), and the colocation data center is  carrier neutral. The data center was last updated on 10-05-2010.",Swiss Data Center,Switzerland,,6474,Amsteg,Swiss Data Center,Swiss Data Safe AG
+"
+	JT - Five Oaks DC is located in the area St Saviour, Jersey (Bailiwick of Jersey), and the colocation data center is not  carrier neutral. The data center was last updated on 19-10-2011.",JT - Five Oaks DC,Jersey,,JE2 7GS,St Saviour,JT - Five Oaks DC,JT
+"
+	Tyler Vault.com is located in the area Tyler, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 13-05-2010.",Tyler Vault.com,USA,Texas,75702,Tyler,,Tyler Vault.com
+"
+	JT- new Feb 2011 is located in the area St Saviour, Jersey (Bailiwick of Jersey), and the colocation data center is not  carrier neutral. The data center was last updated on 19-10-2011.",JT- new Feb 2011,Jersey,,JE2 7QT,St Saviour,JT- new Feb 2011,JT
+"
+	Rechenzentrum Zuerich is located in the area Zürich, Switzerland (Schweiz), and the colocation data center is  carrier neutral. The data center was last updated on 19-10-2011.",Rechenzentrum Zuerich,Switzerland,,8052,Zuerich,Rechenzentrum Zuerich,NETBONE DIGITAL AG
+"
+	JT - First Tower Lane DC is located in the area St Peter Port, Guernsey (Bailiwick of Guernsey), and the colocation data center is not  carrier neutral. The data center was last updated on 30-05-2012.",JT - First Tower Lane DC,Guernsey,,GY1 2RZ,St Peter Port,JT - First Tower Lane DC,JT
+"
+	First National Technology Solutions is located in the area Omaha, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 14-05-2010.",First National Technology Solutions,USA,Nebraska,68197,Omaha,,First National Technology Solutions
+"
+	JT - St Georges Hall is located in the area St Peter Port, Guernsey (Bailiwick of Guernsey), and the colocation data center is not  carrier neutral. The data center was last updated on 30-05-2012.",JT - St Georges Hall,Guernsey,,GY1 2BH,St Peter Port,JT - St Georges Hall,JT
+"
+	JT - Central DC is located in the area St Helier, Jersey (Bailiwick of Jersey), and the colocation data center is not  carrier neutral. The data center was last updated on 19-10-2011.",JT - Central DC,Jersey,,JE2 4WR,St Helier,JT - Central DC,JT
+"
+	VeriTeknik Sunucu Merkezi Ankara is located in the area Ankara, Turkey (Türkiye), and the colocation data center is  carrier neutral. The data center was last updated on 16-10-2015.",VeriTeknik Sunucu Merkezi Ankara,Turkey,,06770,Ankara,VeriTeknik Sunucu Merkezi Ankara,VeriTeknik Bilisim Ltd.
+"
+	JT - East DC is located in the area Grouville, Jersey (Bailiwick of Jersey), and the colocation data center is not  carrier neutral. The data center was last updated on 19-10-2011.",JT - East DC,Jersey,,JE3 9AR,Grouville,JT - East DC,JT
+"
+	ADP DataCenter Atieh Dadeh Pardaz is located in the area Tehran, Iran, and the colocation data center is not  carrier neutral. The data center was last updated on 30-04-2011.",ADP DataCenter Atieh Dadeh Pardaz,Iran,Tehran,1991916713,Tehran,ADP DataCenter Atieh Dadeh Pardaz,Atieh Dadeh Pardaz
+"
+	Data Center BEMOBILE is located in the area Kiev, Ukraine (Ukrayina), and the colocation data center is not  carrier neutral. The data center was last updated on 25-05-2010.",Data Center BEMOBILE,Ukraine,,04073,Kiev,Data Center BEMOBILE,BEMOBAIL
+"
+	Somerset NJ III is located in the area New Brunswick, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 27-05-2010.",Somerset NJ III,USA,New Jersey,08873,Somerset,Somerset NJ III,"Datapipe, Inc."
+"
+	TelecityGroup DUB3 is located in the area Dublin, Ireland (Éire), and the colocation data center is  carrier neutral. The data center was last updated on 01-10-2015.",TelecityGroup DUB3,Ireland,,+ 353 1 4611200,Dublin,TelecityGroup DUB3,TelecityGroup
+"
+	Quickline Datacenter is located in the area Basel, Switzerland (Schweiz), and the colocation data center is  carrier neutral. The data center was last updated on 24-05-2016.",Quickline Datacenter,Switzerland,Switzerland,4142,Munchenstein,Quickline Datacenter,Quickline Business AG
+"
+	Ehiweb.it is located in the area Bologna, Italy (Italia), and the colocation data center is not  carrier neutral. The data center was last updated on 19-01-2012.",Ehiweb.it,Italy,,40127,Bologna,,Ehiweb.it
+"
+	AtaCenter is located in the area Carcassonne, France (Française), and the colocation data center is  carrier neutral. The data center was last updated on 07-03-2013.",AtaCenter,France,Aude,11000,Carcassonne,AtaCenter,Ataraxie
+"
+	D3 Toronto IDC is located in the area Toronto, Canada, and the colocation data center is  carrier neutral. The data center was last updated on 06-06-2010.",D3 Toronto IDC,Canada,Ontario,M3K1E2,Toronto,D3 Toronto IDC,D3 Networks Inc.
+"
+	Wateen Hosted Data Center is located in the area Lahore, Pakistan (Islamic Republic of Pakistan), and the colocation data center is  carrier neutral. The data center was last updated on 02-06-2010.",Wateen Hosted Data Center,Pakistan,Punjab,54500,Lahore,Wateen Hosted Data Center,Wateen Telecom
+"
+	Cirrus9 - DC2 is located in the area Saint John, Canada, and the colocation data center is  carrier neutral. The data center was last updated on 13-01-2017.",Cirrus9 - DC2,Canada,New Brunswick,E2L 2B1,Saint John,Cirrus9 - DC2,Cirrus9 Inc
+"
+	Philcade Data Center is located in the area Tulsa, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 06-01-2011.",Philcade Data Center,USA,Oklahoma,74103,Tulsa,Philcade Data Center,Kanbar Properties
+"
+	TelecityGroup HEL1 Hiomo is located in the area Helsinki, Finland (Suomi), and the colocation data center is  carrier neutral. The data center was last updated on 22-10-2014.",TelecityGroup HEL1 Hiomo,Finland,,00380,Helsinki,TelecityGroup HEL1 Hiomo,TelecityGroup Finland
+"
+	LBJ Data Center is located in the area Dallas, USA (America).",LBJ Data Center,,,,,,
+"
+	WebDC is located in the area Moscow, Russia, and the colocation data center is not  carrier neutral. The data center was last updated on 04-06-2010.",WebDC,Russia,,141400,Himki,,WebDC
+"
+	Delme Place is located in the area Portsmouth, United Kingdom (UK), and the colocation data center is  carrier neutral. The data center was last updated on 19-01-2012.",Delme Place,United Kingdom,Hampshire,PO16 8UX,Fareham,Delme Place,ServerHouse Ltd
+"
+	Walled Garden is located in the area Portsmouth, United Kingdom (UK), and the colocation data center is  carrier neutral. The data center was last updated on 19-01-2012.",Walled Garden,United Kingdom,Hampshire,PO16 8AB,Fareham,Walled Garden,ServerHouse Ltd
+"
+	West Barn is located in the area Portsmouth, United Kingdom (UK), and the colocation data center is  carrier neutral. The data center was last updated on 19-01-2012.",West Barn,United Kingdom,Hampshire,PO16 8UT,Fareham,West Barn,ServerHouse Ltd
+"
+	Cyber 2 Data Center is located in the area Jakarta (Djakarta), Indonesia, and the colocation data center is  carrier neutral. The data center was last updated on 09-11-2010.",Cyber 2 Data Center,Indonesia,DKI Jakarta,12950,Jakarta,Cyber 2 Data Center,PT CBN Nusantara
+"
+	Go4Hosting is located in the area New Delhi, India, and the colocation data center is not  carrier neutral. The data center was last updated on 27-02-2014.",Go4Hosting,India,Delhi,201305,Noida,,Go4Hosting
+"
+	Go4Hosting Jaipur is located in the area Jaipur, India, and the colocation data center is  carrier neutral. The data center was last updated on 27-02-2014.",Go4Hosting Jaipur,India,Rajasthan,302022,Jaipur,Go4Hosting Jaipur,Go4Hosting
+"
+	CentriLogic is located in the area Mississauga, Canada, and the colocation data center is  carrier neutral. The data center was last updated on 22-03-2016.",CentriLogic,Canada,Ontario,L4Z 1H8,Mississauga,CentriLogic,Centrilogic
+"
+	Chattanooga is located in the area Chattanooga, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 15-06-2010.",Chattanooga,USA,Tennessee,37404,Chattanooga,Chattanooga,Peacecom
+"
+	Latisys-Ashburn is located in the area Ashburn, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 16-06-2010.",Latisys-Ashburn,USA,Virginia,20147,Ashburn,Latisys-Ashburn,Latisys
+"
+	Telsist Communications is located in the area Montreal, Canada, and the colocation data center is  carrier neutral. The data center was last updated on 11-02-2014.",Telsist Communications,Canada,QC,H8T 3J8,Montreal,,Telsist Communications
+"
+	LTT Internet Data Center is located in the area Tripoli, Libya (Libyan Arab Jamahiriya), and the colocation data center is not  carrier neutral. The data center was last updated on 23-06-2010.",LTT Internet Data Center,Libya,,91612,Tripoli,LTT Internet Data Center,Libya Telecom and Technology
+"
+	Fiberhub LAS1 is located in the area Las Vegas, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 23-04-2012.",Fiberhub LAS1,USA,Nevada,89119,Las Vegas,Fiberhub LAS1,Fiberhub
+"
+	Ultra Green Center is located in the area Hickory, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 22-01-2011.",Ultra Green Center,USA,North Carolina,28658,Newton,Ultra Green Center,Crackers
+"
+	Datatech Hosting Tampa is located in the area Tampa, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 15-04-2015.",Datatech Hosting Tampa,USA,Florida,33634,Tampa,Datatech Hosting Tampa,Data-Tech
+"
+	EscapeNet is located in the area Melbourne (Victoria), Australia, and the colocation data center is  carrier neutral. The data center was last updated on 27-06-2010.",EscapeNet,Australia,VIC,3000,North Melbourne,,EscapeNet
+"
+	Hong Kong (Global Gateway) is located in the area Tsuen Wan, Hong Kong (Hong Kong, SAR of China), and the colocation data center is  carrier neutral. The data center was last updated on 29-06-2010.",Hong Kong (Global Gateway),Hong Kong,Hong Kong,NA,Tsuen Wan,Hong Kong (Global Gateway),Diyixian.com Limited
+"
+	Beijing (Oriental Plaza) is located in the area Beijing, China, and the colocation data center is  carrier neutral. The data center was last updated on 29-06-2010.",Beijing (Oriental Plaza),China,,100738,Beijing,Beijing (Oriental Plaza),Diyixian.com Limited
+"
+	Cavalier Innsbrook Data Center is located in the area Richmond, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 28-06-2010.",Cavalier Innsbrook Data Center,USA,Virginia,23060,Richmond,Cavalier Innsbrook Data Center,Cavalier
+"
+	FIBERTOWN - Bryan, Texas is located in the area Bryan, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 29-06-2010.","FIBERTOWN - Bryan, Texas",USA,Texas,77803,Bryan,"FIBERTOWN - Bryan, Texas",FIBERTOWN
+"
+	Shanghai (Pudong) is located in the area Shanghai, China, and the colocation data center is  carrier neutral. The data center was last updated on 29-06-2010.",Shanghai (Pudong),China,,200081,Shanghai,Shanghai (Pudong),Diyixian.com Limited
+"
+	Aeneas Internet & Telephone is located in the area Jackson, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 18-01-2012.",Aeneas Internet & Telephone,USA,Tennessee,38301,Jackson,,Aeneas Internet & Telephone
+"
+	IXTech Main Data Center is located in the area Hong Kong, Hong Kong (Hong Kong, SAR of China), and the colocation data center is  carrier neutral. The data center was last updated on 23-07-2010.",IXTech Main Data Center,Hong Kong,,N/A,"Kwai Chung, N.T.",IXTech Main Data Center,IXTech Limited
+"
+	TCCT Empire Tower Data Center is located in the area Bangkok, Thailand (Ratcha Anachak Thai), and the colocation data center is  carrier neutral. The data center was last updated on 19-12-2013.",TCCT Empire Tower Data Center,Thailand,Sathorn,10120,Bangkok,TCCT Empire Tower Data Center,"T.C.C.Technology Co.,Ltd."
+"
+	TCCT Bangna Data Center (BNDC) is located in the area Bangkok, Thailand (Ratcha Anachak Thai), and the colocation data center is  carrier neutral. The data center was last updated on 03-02-2014.",TCCT Bangna Data Center (BNDC),Thailand,,10260,Bangkok,TCCT Bangna Data Center (BNDC),"T.C.C.Technology Co.,Ltd."
+"
+	Kozma DC is located in the area Budapest, Hungary, and the colocation data center is not  carrier neutral. The data center was last updated on 06-07-2010.",Kozma DC,Hungary,,1108,Budapest,Kozma DC,Invitel Telecommunication Inc.
+"
+	Hosting UK - North Wales DC is located in the area North Wales, United Kingdom (UK), and the colocation data center is not  carrier neutral. The data center was last updated on 14-07-2010.",Hosting UK - North Wales DC,United Kingdom,Denbighshire,LL17 0LJ,St Asaph,Hosting UK - North Wales DC,Hosting UK
+"
+	Welltech Centre is located in the area Hong Kong, Hong Kong (Hong Kong, SAR of China).",Welltech Centre,,,,,,
+"
+	TierPoint Philadelphia- Navy Yard is located in the area Philadelphia, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 23-02-2017.",TierPoint Philadelphia- Navy Yard,USA,Pennsylvania,Philadelphia,Pennsylvania,TierPoint Philadelphia- Navy Yard,TierPoint
+"
+	OneNeck IT Solutions, A TDS Company is located in the area Des Moines, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 28-09-2015.","OneNeck IT Solutions, A TDS Company",USA,Iowa,50263,Des Moines,"OneNeck IT Solutions, A TDS Company",OneNeck IT Solutions
+"
+	OneNeck IT Solutions is located in the area Cedar Falls, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 28-09-2015.",OneNeck IT Solutions,USA,Iowa,50613,Cedar Falls,,OneNeck IT Solutions
+"
+	OneNeck IT Solutions, A TDS Company is located in the area Madison, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 28-09-2015.","OneNeck IT Solutions, A TDS Company",USA,Wisconsin,53711,Madison,"OneNeck IT Solutions, A TDS Company",OneNeck IT Solutions
+"
+	Datatelekom.com is located in the area Istanbul, Turkey (Türkiye), and the colocation data center is  carrier neutral. The data center was last updated on 10-07-2010.",Datatelekom.com,Turkey,Sisli,34000,Istanbul,Datatelekom.com,Datatelekom Telekomunikasyon Hizmetleri Ltd Sti
+"
+	AFRANET is located in the area Tehran, Iran, and the colocation data center is not  carrier neutral. The data center was last updated on 12-07-2010.",AFRANET,Iran,Tehran,1959836111,Tehran,,AFRANET
+"
+	Comarch Data Center is located in the area Warsaw (Warszawa), Poland (Polska), and the colocation data center is not  carrier neutral. The data center was last updated on 12-07-2010.",Comarch Data Center,Poland,mazowieckie,02-844,Warsaw,Comarch Data Center,Comarch
+"
+	QTS Richmond is located in the area Richmond, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 04-10-2010.",QTS Richmond,USA,Virginia,23150,Richmond,QTS Richmond,QTS (Quality Technology Services)
+"
+	QTS Jersey City is located in the area Hudson County, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 04-10-2010.",QTS Jersey City,USA,New Jersey,07302,Jersey City,QTS Jersey City,QTS (Quality Technology Services)
+"
+	QTS Lenexa is located in the area Kansas City KS, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 04-10-2010.",QTS Lenexa,USA,Kansas,66215,Lenexa,QTS Lenexa,QTS (Quality Technology Services)
+"
+	QTS Witchita is located in the area Wichita, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 04-10-2010.",QTS Witchita,USA,Kansas,67202,Wichita,QTS Witchita,QTS (Quality Technology Services)
+"
+	Onyx Group Edinburgh Data Centre is located in the area Edinburgh (Scotland), United Kingdom (UK), and the colocation data center is not  carrier neutral. The data center was last updated on 25-06-2012.",Onyx Group Edinburgh Data Centre,United Kingdom,,EH12 9LB,Edinburgh,Onyx Group Edinburgh Data Centre,Onyx Group
+"
+	Taipei (Neihu) is located in the area Taipei, Taiwan (Formosa), and the colocation data center is  carrier neutral. The data center was last updated on 13-07-2010.",Taipei (Neihu),Taiwan,,114,Taipei,Taipei (Neihu),Diyixian.com Limited
+"
+	QTS Overland Park is located in the area Kansas City KS, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 04-10-2010.",QTS Overland Park,USA,Kansas,66213,Overland Park,QTS Overland Park,QTS (Quality Technology Services)
+"
+	Untangled Technology is located in the area Canton, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 16-07-2010.",Untangled Technology,USA,Ohio,44702,Canton,,Untangled Technology
+"
+	Ch-center is located in the area Bucharest, Romania, and the colocation data center is not  carrier neutral. The data center was last updated on 18-07-2013.",Ch-center,Romania,Ilfov,077040,Chiajna,Ch-center,Ch-net S.R.L.
+"
+	Beijing IDC-1 is located in the area Beijing, China, and the colocation data center is not  carrier neutral. The data center was last updated on 23-07-2010.",Beijing IDC-1,China,,N/A,Beijing,Beijing IDC-1,IXTech Limited
+"
+	Neutral Data Center is located in the area Warsaw (Warszawa), Poland (Polska), and the colocation data center is  carrier neutral. The data center was last updated on 23-07-2010.",Neutral Data Center,Poland,,05-800,Pruszkow,Neutral Data Center,PLIX DC
+"
+	Cgest DC Porto is located in the area Porto, Portugal, and the colocation data center is not  carrier neutral. The data center was last updated on 24-07-2010.",Cgest DC Porto,Portugal,Porto,4350-059,Porto,Cgest DC Porto,Cgest S.A.
+"
+	Absolut OK Data Center is located in the area Belgrade, Serbia (Republic of Serbia), and the colocation data center is  carrier neutral. The data center was last updated on 15-01-2013.",Absolut OK Data Center,Serbia,,11070,Belgrade,Absolut OK Data Center,Absolut OK
+"
+	ColoCAT DC is located in the area Moscow, Russia, and the colocation data center is  carrier neutral. The data center was last updated on 22-12-2011.",ColoCAT DC,Russia,,121609,Moscow,ColoCAT DC,"JSC ""System-Service"""
+"
+	RelAix Networks Aachen-1 is located in the area Aachen, Germany (Deutschland), and the colocation data center is not  carrier neutral. The data center was last updated on 03-08-2010.",RelAix Networks Aachen-1,Germany,,52072,Aachen,RelAix Networks Aachen-1,RelAix Networks GmbH
+"
+	Damamax DC is located in the area Amman (Ammann), jordan (Hashemite Kingdom of Jordan), and the colocation data center is not  carrier neutral. The data center was last updated on 03-08-2010.",Damamax DC,jordan,,11953,Amman,Damamax DC,Damamax
+"
+	CoLouisiana DC1 is located in the area Alexandria, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 03-08-2010.",CoLouisiana DC1,USA,Louisiana,71301,Alexandria,CoLouisiana DC1,"CoLouisiana, LLC"
+"
+	EDPnet RU is located in the area Saint Petersburg (Sankt-Peterburg), Russia, and the colocation data center is not  carrier neutral. The data center was last updated on 06-08-2010.",EDPnet RU,Russia,,191186,St. Petersburg,EDPnet RU,EDPnet
+"
+	EDPnet BE is located in the area Antwerp (Antwerpen), Belgium, and the colocation data center is not  carrier neutral. The data center was last updated on 06-08-2010.",EDPnet BE,Belgium,,9100,Sint-Niklaas,EDPnet BE,EDPnet
+"
+	SunGard Sacramento Data Center is located in the area Sacramento, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 09-08-2010.",SunGard Sacramento Data Center,USA,California,95670,Rancho Cordova,SunGard Sacramento Data Center,Sungard Availability Services
+"
+	Sotea DC is located in the area Silkeborg, Denmark (Danmark), and the colocation data center is not  carrier neutral. The data center was last updated on 13-08-2010.",Sotea DC,Denmark,,8600,Silkeborg,Sotea DC,Sotea
+"
+	Gaydara Str. 50 is located in the area Kiev, Ukraine (Ukrayina).",Gaydara Str. 50,,,,,,
+"
+	Hanel-CSF Data Center is located in the area Hanoi (Hà N?i), Vietnam (Socialist Republic of Vietnam), and the colocation data center is  carrier neutral. The data center was last updated on 18-10-2010.",Hanel-CSF Data Center,Vietnam,Hanoi,70000,Hanoi,Hanel-CSF Data Center,Hanel-CSF Co. Ltd.
+"
+	SyT Datacenter Carrier Neutral is located in the area Buenos Aires, Argentina (Argentine Republic), and the colocation data center is  carrier neutral. The data center was last updated on 05-11-2013.",SyT Datacenter Carrier Neutral,Argentina,Buenos Aires,C1008AAD,Capital Federal,SyT Datacenter Carrier Neutral,Servicios y Telecomunicaciones SA
+"
+	Bank of Data is located in the area Lugano, Switzerland (Schweiz), and the colocation data center is  carrier neutral. The data center was last updated on 30-05-2014.",Bank of Data,Switzerland,TI,6818,Melano,Bank of Data,Moresi.Com SA
+"
+	Teraco Johannesburg is located in the area Johannesburg (Jozi), South Africa, and the colocation data center is  carrier neutral. The data center was last updated on 25-06-2014.",Teraco Johannesburg,South Africa,,1600,Johannesburg,Teraco Johannesburg,Teraco Data Environments (Pty) Ltd
+"
+	Billings - Central is located in the area Billings, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 19-08-2010.",Billings - Central,USA,Montana,59102,Billings,Billings - Central,iConnect Montana
+"
+	Netmagic Solutions is located in the area Mumbai, India, and the colocation data center is  carrier neutral. The data center was last updated on 19-08-2010.",Netmagic Solutions,India,Maharashtra,400072,Andheri (E),,Netmagic Solutions
+"
+	Netmagic Solutions is located in the area Mumbai, India, and the colocation data center is  carrier neutral. The data center was last updated on 19-08-2010.",Netmagic Solutions,India,Maharashtra,400079,Vikhroli (W),,Netmagic Solutions
+"
+	Netmagic Solutions is located in the area Chennai, India, and the colocation data center is  carrier neutral. The data center was last updated on 19-08-2010.",Netmagic Solutions,India,Tamil Nadu,600077,Chennai,,Netmagic Solutions
+"
+	Netmagic Solutions is located in the area Bangalore (Bengaluru), India, and the colocation data center is  carrier neutral. The data center was last updated on 19-08-2010.",Netmagic Solutions,India,Karnataka,560066,Bangalore,,Netmagic Solutions
+"
+	Bplus Datacenter is located in the area Trabzon, Turkey (Türkiye), and the colocation data center is not  carrier neutral. The data center was last updated on 21-08-2010.",Bplus Datacenter,Turkey,,61040,Trabzon,,Bplus Datacenter
+"
+	Netinternet Datacenter is located in the area Denizli, Turkey (Türkiye), and the colocation data center is  carrier neutral. The data center was last updated on 17-06-2016.",Netinternet Datacenter,Turkey,,20070,Denizli,Netinternet Datacenter,Netinternet Bilisim Teknolojileri AS
+"
+	VeratNet is located in the area Belgrade, Serbia (Republic of Serbia), and the colocation data center is not  carrier neutral. The data center was last updated on 24-08-2010.",VeratNet,Serbia,,11000,Belgrade,VeratNet,Verat
+"
+	Radore Hosting is located in the area Istanbul, Turkey (Türkiye), and the colocation data center is  carrier neutral. The data center was last updated on 27-08-2010.",Radore Hosting,Turkey,,34330,Levent,,Radore Hosting
+"
+	Capital Court is located in the area North Wales, United Kingdom (UK), and the colocation data center is not  carrier neutral. The data center was last updated on 20-10-2010.",Capital Court,United Kingdom,Denbighshire,LL17 0JG,St Asaph Business Park,Capital Court,NW Colo Ltd
+"
+	Intero Systems is located in the area Atlanta, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 11-05-2012.",Intero Systems,USA,Georgia,30349,College Park,,Intero Systems
+"
+	Franklin Datacenter is located in the area Milwaukee, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 30-08-2010.",Franklin Datacenter,USA,Wisconsin,53132,Franklin,Franklin Datacenter,CyberLynk Network Inc
+"
+	Pioneer Broadband DataCenter is located in the area Northern Maine, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 02-09-2010.",Pioneer Broadband DataCenter,USA,Maine,04769,Presque Isle,Pioneer Broadband DataCenter,Pioneer Broadband
+"
+	BrainServe is located in the area Lausanne, Switzerland (Schweiz), and the colocation data center is  carrier neutral. The data center was last updated on 08-08-2014.",BrainServe,Switzerland,,1023,Crissier,BrainServe,BrainServe Ltd
+"
+	Latechco Torre 4 is located in the area Montevideo, Uruguay (Oriental Republic of Uruguay), and the colocation data center is  carrier neutral. The data center was last updated on 11-08-2014.",Latechco Torre 4,Uruguay,Montevideo,11300,Montevideo,Latechco Torre 4,Latechco
+"
+	i-Dash Ltd is located in the area Cambridge, United Kingdom (UK), and the colocation data center is not  carrier neutral. The data center was last updated on 11-08-2014.",i-Dash Ltd,United Kingdom,,PE19 8EL,St Neots,,i-Dash Ltd
+"
+	IELO is located in the area Marseille, France (Française), and the colocation data center is  carrier neutral. The data center was last updated on 09-09-2010.",IELO,France,,13008,Marseille,,IELO
+"
+	DATAWIRE DATACENTER ZG01 is located in the area Zug, Switzerland (Schweiz), and the colocation data center is  carrier neutral. The data center was last updated on 18-08-2012.",DATAWIRE DATACENTER ZG01,Switzerland,Zug,6330,Cham,DATAWIRE DATACENTER ZG01,DATAWIRE AG
+"
+	SteepHost DC-UA is located in the area Kharkov, Ukraine (Ukrayina), and the colocation data center is not  carrier neutral. The data center was last updated on 13-09-2010.",SteepHost DC-UA,Ukraine,,61023,Kharkiv,,SteepHost DC-UA
+"
+	Quest McClellan BRC is located in the area Sacramento, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 22-08-2016.",Quest McClellan BRC,USA,California,95652,Sacramento,Quest McClellan BRC,Quest
+"
+	DartPoints FTW.01 is located in the area Dallas, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 25-03-2015.",DartPoints FTW.01,USA,Texas,76102,Fort Worth,DartPoints FTW.01,DartPoints
+"
+	Servers Lodge is located in the area San Jose CR, Costa Rica (Republic of Costa Rica), and the colocation data center is  carrier neutral. The data center was last updated on 04-12-2015.",Servers Lodge,Costa Rica,San Jose,06155,Santa Ana,Servers Lodge,Cyberfuel
+"
+	DATAFLEX is located in the area Kiev, Ukraine (Ukrayina), and the colocation data center is  carrier neutral. The data center was last updated on 21-09-2010.",DATAFLEX,Ukraine,,03680,Kyiv,DATAFLEX,FLEX-Integration
+"
+	FirstLight Williston VT is located in the area Burlington, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 27-02-2015.",FirstLight Williston VT,USA,Vermont,05495,Williston,FirstLight Williston VT,Firstlight Fiber
+"
+	FirstLight Lebanon NH is located in the area Lebanon NH, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 27-02-2015.",FirstLight Lebanon NH,USA,New Hampshire,03766,Lebanon,FirstLight Lebanon NH,Firstlight Fiber
+"
+	CNS Colo is located in the area Long Island, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 28-09-2010.",CNS Colo,USA,New York,11749,Islandia,,CNS Colo
+"
+	Data Node SRL is located in the area Timisoara, Romania, and the colocation data center is not  carrier neutral. The data center was last updated on 30-09-2010.",Data Node SRL,Romania,Timis,300283,Timisoara,,Data Node SRL
+"
+	The Energy Data Center is located in the area Jakarta (Djakarta), Indonesia, and the colocation data center is  carrier neutral. The data center was last updated on 11-01-2012.",The Energy Data Center,Indonesia,,12190,Jakarta,The Energy Data Center,PT API METRA GRAHA
+"
+	Internet House is located in the area Portsmouth, United Kingdom (UK), and the colocation data center is not  carrier neutral. The data center was last updated on 06-10-2010.",Internet House,United Kingdom,Hampshire,PO2 8AA,Portsmouth,Internet House,Elite Limited
+"
+	VIa-Numerica ARC1 is located in the area Archamps, France (Française), and the colocation data center is not  carrier neutral. The data center was last updated on 17-01-2014.",VIa-Numerica ARC1,France,,74160,Archamps,VIa-Numerica ARC1,via-numerica sas
+"
+	Tellurian Datacenter is located in the area Newton, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 07-10-2010.",Tellurian Datacenter,USA,New Jersey,07860,Newton,Tellurian Datacenter,"Tellurian Networks, Inc."
+"
+	Spirit Telecom Data Center is located in the area Columbia, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 07-10-2010.",Spirit Telecom Data Center,USA,South Carolina,29201,Columbia,Spirit Telecom Data Center,Spirit Telecom
+"
+	internet solutions Cape Town is located in the area Cape Town, South Africa, and the colocation data center is not  carrier neutral. The data center was last updated on 07-10-2010.",internet solutions Cape Town,South Africa,,8001,Cape Town,internet solutions Cape Town,Internet Solutions
+"
+	internet solutions Johannesburg #2 is located in the area Johannesburg (Jozi), South Africa, and the colocation data center is not  carrier neutral. The data center was last updated on 07-10-2010.",internet solutions Johannesburg #2,South Africa,,2196,Johannesburg,internet solutions Johannesburg #2,Internet Solutions
+"
+	internet solutions Durban is located in the area Durban, South Africa, and the colocation data center is not  carrier neutral. The data center was last updated on 07-10-2010.",internet solutions Durban,South Africa,,0,Umhlanga,internet solutions Durban,Internet Solutions
+"
+	MTN Johannesburg is located in the area Johannesburg (Jozi), South Africa, and the colocation data center is not  carrier neutral. The data center was last updated on 07-10-2010.",MTN Johannesburg,South Africa,,2191,Sandton,MTN Johannesburg,MTN Business
+"
+	Neotel Data Center is located in the area Johannesburg (Jozi), South Africa, and the colocation data center is not  carrier neutral. The data center was last updated on 07-10-2010.",Neotel Data Center,South Africa,,0,Midrand,Neotel Data Center,Neotel
+"
+	Vox DataPro Cape Town is located in the area Cape Town, South Africa, and the colocation data center is not  carrier neutral. The data center was last updated on 07-10-2010.",Vox DataPro Cape Town,South Africa,,7700,Newlands,Vox DataPro Cape Town,Vox Datapro
+"
+	Vox DataPro Johannesburg is located in the area Johannesburg (Jozi), South Africa, and the colocation data center is not  carrier neutral. The data center was last updated on 07-10-2010.",Vox DataPro Johannesburg,South Africa,,2090,Waverley,Vox DataPro Johannesburg,Vox Datapro
+"
+	BCX Midrand NDC1 is located in the area Johannesburg (Jozi), South Africa, and the colocation data center is  carrier neutral. The data center was last updated on 10-11-2016.",BCX Midrand NDC1,South Africa,,0,Midrand,BCX Midrand NDC1,Business Connexion
+"
+	Vodacom Johannesburg is located in the area Johannesburg (Jozi), South Africa, and the colocation data center is not  carrier neutral. The data center was last updated on 07-10-2010.",Vodacom Johannesburg,South Africa,,0,Midrand,Vodacom Johannesburg,Vodacom Business
+"
+	HOSTING - Denver is located in the area Denver, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 12-08-2013.",HOSTING - Denver,USA,Colorado,80209,Denver,HOSTING - Denver,HOSTING
+"
+	HOSTING - Newark is located in the area Newark DE, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 12-08-2013.",HOSTING - Newark,USA,Delaware,19702,Newark,HOSTING - Newark,HOSTING
+"
+	Selfservis Ivancice is located in the area Ivancice, Czech republic, and the colocation data center is  carrier neutral. The data center was last updated on 11-12-2010.",Selfservis Ivancice,Czech republic,,664 91,Ivancice,Selfservis Ivancice,Selfservis
+"
+	Selfservis Ostrava is located in the area Ostrava, Czech republic, and the colocation data center is  carrier neutral. The data center was last updated on 11-12-2010.",Selfservis Ostrava,Czech republic,,702 00,Ostrava,Selfservis Ostrava,Selfservis
+"
+	Selfservis Brno is located in the area Brno, Czech republic, and the colocation data center is  carrier neutral. The data center was last updated on 11-12-2010.",Selfservis Brno,Czech republic,,62800,Brno,Selfservis Brno,Selfservis
+"
+	KAMP Rechenzentrum is located in the area Oberhausen, Germany (Deutschland), and the colocation data center is  carrier neutral. The data center was last updated on 18-10-2010.",KAMP Rechenzentrum,Germany,Nordrhein-Westfalen,46117,Oberhausen,KAMP Rechenzentrum,KAMP
+"
+	XMEDIA - MAKASSAR is located in the area Makassar, Indonesia, and the colocation data center is not  carrier neutral. The data center was last updated on 19-10-2010.",XMEDIA - MAKASSAR,Indonesia,Sulawesi Selatan,90234,Makassar,XMEDIA - MAKASSAR,Media Inter Data
+"
+	Netservers Signet Court is located in the area Cambridge, United Kingdom (UK), and the colocation data center is  carrier neutral. The data center was last updated on 23-11-2016.",Netservers Signet Court,United Kingdom,,CB5 8LA,Cambridge,Netservers Signet Court,Netservers Ltd
+"
+	bridge2cloud is located in the area Vilnius, Lithuania (Republic of Lithuania), and the colocation data center is  carrier neutral. The data center was last updated on 20-10-2010.",bridge2cloud,Lithuania,,LT-01112,Vilnius,bridge2cloud,Blue Bridge
+"
+	Anadolu Bilisim Data Center is located in the area Istanbul, Turkey (Türkiye), and the colocation data center is not  carrier neutral. The data center was last updated on 21-10-2010.",Anadolu Bilisim Data Center,Turkey,,34583,Istanbul,Anadolu Bilisim Data Center,ANADOLU BILISIM HIZMETLERI A.S.
+"
+	Indiana Data center is located in the area Fort Wayne, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 21-10-2010.",Indiana Data center,USA,Indiana,46808,Fort Wayne,Indiana Data center,"Indiana Data Center, LLC."
+"
+	InAsset Udine is located in the area Udine, Italy (Italia), and the colocation data center is  carrier neutral. The data center was last updated on 07-02-2013.",InAsset Udine,Italy,UD,33037,PASIAN DI PRATO,InAsset Udine,InAsset Srl
+"
+	East Breckinridge is located in the area Louisville, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 26-10-2010.",East Breckinridge,USA,Kentucky,40203,Louisville,East Breckinridge,BluegrassNet
+"
+	DataBank - North Dallas is located in the area Dallas, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 20-09-2016.",DataBank - North Dallas,USA,Texas,75801,Dallas,DataBank - North Dallas,DataBank
+"
+	Entel Central is located in the area Santiago, Chile (República de Chile), and the colocation data center is not  carrier neutral. The data center was last updated on 26-10-2010.",Entel Central,Chile,Santiago,8320255,Santiago,Entel Central,Entel
+"
+	Clear Channel Satellite is located in the area Denver, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 29-10-2010.",Clear Channel Satellite,USA,Colorado,80112,Englewood,,Clear Channel Satellite
+"
+	Zenvoo is located in the area Lugano, Switzerland (Schweiz), and the colocation data center is not  carrier neutral. The data center was last updated on 27-10-2010.",Zenvoo,Switzerland,,6900,Lugano,,Zenvoo
+"
+	Dataspace Putalisadak (PTS) is located in the area Kathmandu, Nepal (Federal Democratic Republic of Nepal), and the colocation data center is  carrier neutral. The data center was last updated on 28-10-2010.",Dataspace Putalisadak (PTS),Nepal,,13655,Kathmandu,Dataspace Putalisadak (PTS),Dataspace Pvt. Ltd
+"
+	ETC-LITH is located in the area Chicago, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 05-11-2010.",ETC-LITH,USA,Illinois,60156,Lake in the Hills,ETC-LITH,Excalibur Technology Corp
+"
+	AISO Solar Powered Data Center is located in the area Riverside, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 22-05-2015.",AISO Solar Powered Data Center,USA,California,92585,Romoland,AISO Solar Powered Data Center,AISO.Net
+"
+	Datacenter NedZone is located in the area Steenbergen, The Netherlands (Holland), and the colocation data center is  carrier neutral. The data center was last updated on 16-12-2010.",Datacenter NedZone,The Netherlands,,4651SL,Steenbergen,,Datacenter NedZone
+"
+	NOC Telesmart Telekom is located in the area Skopje, Macedonia (Republic of Macedonia), and the colocation data center is not  carrier neutral. The data center was last updated on 04-11-2010.",NOC Telesmart Telekom,Macedonia,,1000,Skopje,NOC Telesmart Telekom,Telesmart Telekom
+"
+	Linxdatacenter St.Petersburg is located in the area Saint Petersburg (Sankt-Peterburg), Russia, and the colocation data center is  carrier neutral. The data center was last updated on 11-11-2010.",Linxdatacenter St.Petersburg,Russia,,197375,Saint Petersburg,Linxdatacenter St.Petersburg,Linxdatacenter
+"
+	Linxdatacenter Warsaw is located in the area Warsaw (Warszawa), Poland (Polska), and the colocation data center is  carrier neutral. The data center was last updated on 11-11-2010.",Linxdatacenter Warsaw,Poland,,02-001,Warsaw,Linxdatacenter Warsaw,Linxdatacenter
+"
+	PDC2 is located in the area Overijssel, The Netherlands (Holland), and the colocation data center is  carrier neutral. The data center was last updated on 30-03-2015.",PDC2,The Netherlands,Overijssel,7554 TC,Hengelo,PDC2,Previder
+"
+	Cosmonova Data Center is located in the area Kiev, Ukraine (Ukrayina), and the colocation data center is not  carrier neutral. The data center was last updated on 28-12-2012.",Cosmonova Data Center,Ukraine,,03680,Kiev,Cosmonova Data Center,Cosmonova LLC
+"
+	USNX Data Center is located in the area Jackson MS, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 19-12-2014.",USNX Data Center,USA,Mississippi,39211,Jackson,USNX Data Center,U.S.NEXT
+"
+	Pixel Factory Data Center is located in the area Richmond, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 05-05-2016.",Pixel Factory Data Center,USA,Virginia,23005,Ashland,,Pixel Factory Data Center
+"
+	MegaFon Samara Data Center is located in the area Samara, Russia, and the colocation data center is not  carrier neutral. The data center was last updated on 26-11-2010.",MegaFon Samara Data Center,Russia,Samarskaya oblast,446087,Samara,MegaFon Samara Data Center,OJSC «MegaFon»
+"
+	Canhost is located in the area Kelowna, Canada, and the colocation data center is  carrier neutral. The data center was last updated on 30-11-2010.",Canhost,Canada,British Columbia,V1Y2E4,Kelowna,Canhost,Canhost Inc.
+"
+	Matrix is located in the area Sao Paulo (São Paulo), Brazil (Brasil), and the colocation data center is  carrier neutral. The data center was last updated on 01-12-2010.",Matrix,Brazil,SP,04756-010,Sao Paulo,Matrix,Matrix Internet S/A
+"
+	Netspace is located in the area Wellington, New Zealand, and the colocation data center is not  carrier neutral. The data center was last updated on 03-12-2010.",Netspace,New Zealand,,6012,Wellington,Netspace,Netspace Limited
+"
+	Appnor MSP is located in the area Bucharest, Romania, and the colocation data center is  carrier neutral. The data center was last updated on 26-11-2012.",Appnor MSP,Romania,Sector 1,014013,Bucharest,,Appnor MSP
+"
+	Sandbrook Park Data Centre is located in the area Manchester, United Kingdom (UK), and the colocation data center is not  carrier neutral. The data center was last updated on 07-12-2010.",Sandbrook Park Data Centre,United Kingdom,,OL11 1RY,Rochdale,Sandbrook Park Data Centre,Zen Internet
+"
+	Synergy Broadband State Street is located in the area Ann Arbor, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 06-12-2010.",Synergy Broadband State Street,USA,Michigan,48108,Ann Arbor,Synergy Broadband State Street,Synergy Broadband
+"
+	datasource 1 is located in the area Zug, Switzerland (Schweiz), and the colocation data center is not  carrier neutral. The data center was last updated on 06-12-2010.",datasource 1,Switzerland,Zug,6300,Zug,datasource 1,datasource schweiz
+"
+	Intiland Tower is located in the area Surabaya, Indonesia.",Intiland Tower,,,,,,
+"
+	Riaydh T2 is located in the area Riyadh (ar-Riya?), Saudi Arabia (Kingdom of Saudi Arabia (KSA)), and the colocation data center is not  carrier neutral. The data center was last updated on 11-12-2010.",Riaydh T2,Saudi Arabia,,8732 / 11492,Riyadh,Riaydh T2,Integrated Telecom Company Ltd.
+"
+	Jeddah T2 is located in the area Jeddah, Saudi arabia (Kingdom of Saudi Arabia (KSA)), and the colocation data center is not  carrier neutral. The data center was last updated on 11-12-2010.",Jeddah T2,Saudi arabia,,8732/ 11492,Jeddah,Jeddah T2,Integrated Telecom Company Ltd.
+"
+	PCPD is located in the area Trojmiasto, Poland (Polska), and the colocation data center is  carrier neutral. The data center was last updated on 14-12-2010.",PCPD,Poland,,80-299,Gdansk,,PCPD
+"
+	Khobar CLS is located in the area Khobar, Saudi arabia (Kingdom of Saudi Arabia (KSA)), and the colocation data center is not  carrier neutral. The data center was last updated on 11-12-2010.",Khobar CLS,Saudi arabia,,8732,Khobar,Khobar CLS,Integrated Telecom Company Ltd.
+"
+	datasource 2 is located in the area Zug, Switzerland (Schweiz), and the colocation data center is  carrier neutral. The data center was last updated on 06-12-2010.",datasource 2,Switzerland,Baar,6340,Baar,datasource 2,datasource schweiz
+"
+	Syptec - Salt Lake City is located in the area Salt Lake City, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 23-04-2015.",Syptec - Salt Lake City,USA,Utah,84111,Salt Lake City,Syptec - Salt Lake City,Syptec
+"
+	Syptec - Vegas is located in the area Las Vegas, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 23-04-2015.",Syptec - Vegas,USA,Nevada,89101,Las Vegas,Syptec - Vegas,Syptec
+"
+	Syptec - Phoenix is located in the area Phoenix, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 23-04-2015.",Syptec - Phoenix,USA,Arizona,85003,Phoenix,Syptec - Phoenix,Syptec
+"
+	Syptec - San Jose is located in the area San Jose, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 23-04-2015.",Syptec - San Jose,USA,California,95054,San Jose,Syptec - San Jose,Syptec
+"
+	DataCloud is located in the area Aalst, Belgium, and the colocation data center is  carrier neutral. The data center was last updated on 17-12-2010.",DataCloud,Belgium,,9320,Erembodegem,DataCloud,LCL Belgium n.v. / s.a.
+"
+	MCS Datacenter 02 is located in the area Port Louis, Mauritius (Republic of Mauritius), and the colocation data center is  carrier neutral. The data center was last updated on 28-08-2012.",MCS Datacenter 02,Mauritius,,230,Port Louis,MCS Datacenter 02,Mauritius Computing Services Ltd
+"
+	BSH is located in the area Moscow, Russia, and the colocation data center is not  carrier neutral. The data center was last updated on 29-08-2011.",BSH,Russia,,123242,Moscow,BSH,Business Svyaz Holding
+"
+	NTP is located in the area Jakarta (Djakarta), Indonesia, and the colocation data center is  carrier neutral. The data center was last updated on 06-07-2011.",NTP,Indonesia,dki jakarta,12950,Jakarta Selatan,NTP,nexis inti persada
+"
+	Oceanet Technology is located in the area Nantes, France (Française), and the colocation data center is  carrier neutral. The data center was last updated on 30-01-2014.",Oceanet Technology,France,,44800,Saint-Herblain,,Oceanet Technology
+"
+	StratITsphere - Alpha is located in the area Houston, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 21-12-2010.",StratITsphere - Alpha,USA,Texas,77449,Katy,StratITsphere - Alpha,StratITsphere
+"
+	StratITsphere - Echo is located in the area Houston, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 21-12-2010.",StratITsphere - Echo,USA,Texas,77070,Houston,StratITsphere - Echo,StratITsphere
+"
+	DataLine/Borovaya is located in the area Moscow, Russia, and the colocation data center is not  carrier neutral. The data center was last updated on 20-01-2011.",DataLine/Borovaya,Russia,,111020,Moscow,DataLine/Borovaya,DataLine
+"
+	Data Ark - Stamford is located in the area Stamford, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 25-12-2010.",Data Ark - Stamford,USA,Connecticut,06902,Stamford,Data Ark - Stamford,"Data Ark Systems, LLC"
+"
+	Cyberneticos CPD is located in the area Cadiz, Spain (España), and the colocation data center is not  carrier neutral. The data center was last updated on 18-10-2012.",Cyberneticos CPD,Spain,Cádiz,11500,El Puerto de Santa María,,Cyberneticos CPD
+"
+	Datazone Datacenter Hasselt is located in the area Hasselt, Belgium, and the colocation data center is  carrier neutral. The data center was last updated on 02-01-2011.",Datazone Datacenter Hasselt,Belgium,,3500,Hasselt,Datazone Datacenter Hasselt,Datazone
+"
+	Lightower Farmingdale, NY is located in the area Long Island, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 03-01-2011.","Lightower Farmingdale, NY",USA,New York,11735,Farmingdale,"Lightower Farmingdale, NY",Lightower Fiber Networks
+"
+	RACK.BG is located in the area Sofia, Bulgaria, and the colocation data center is  carrier neutral. The data center was last updated on 18-05-2013.",RACK.BG,Bulgaria,,1407,Sofia,,RACK.BG
+"
+	HKCOLO.NET Cloud Computing Complex is located in the area Hong Kong, Hong Kong (Hong Kong, SAR of China), and the colocation data center is  carrier neutral. The data center was last updated on 18-07-2011.",HKCOLO.NET Cloud Computing Complex,Hong Kong,,-,Hong Kong,HKCOLO.NET Cloud Computing Complex,HKCOLO
+"
+	Artnet Data Center is located in the area Gdansk, Poland (Polska), and the colocation data center is  carrier neutral. The data center was last updated on 12-09-2016.",Artnet Data Center,Poland,Trojmiasto,80-557,Gdansk,Artnet Data Center,Artnet Sp. z o.o.
+"
+	ZitCom Datacenter is located in the area Skanderborg, Denmark (Danmark), and the colocation data center is not  carrier neutral. The data center was last updated on 07-01-2011.",ZitCom Datacenter,Denmark,,8660,Skanderborg,ZitCom Datacenter,ZitCom A/S
+"
+	StoweVT is located in the area Stowe, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 07-01-2011.",StoweVT,USA,Vermont,05672,Stowe,StoweVT,Power shift
+"
+	Data Foundry - Texas 1 Data Center is located in the area Austin, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 13-07-2016.",Data Foundry - Texas 1 Data Center,USA,Texas,78744,Austin,Data Foundry - Texas 1 Data Center,Data Foundry
+"
+	InfiumDC is located in the area Kharkov, Ukraine (Ukrayina), and the colocation data center is not  carrier neutral. The data center was last updated on 08-01-2011.",InfiumDC,Ukraine,,61129,Kharkov,InfiumDC,Infiumhost
+"
+	200 South 10th Street is located in the area McAllen, USA (America).",200 South 10th Street,,,,,,
+"
+	Data Foundry - Houston Data Center is located in the area Houston, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 10-01-2011.",Data Foundry - Houston Data Center,USA,Texas,77056,Houston,Data Foundry - Houston Data Center,Data Foundry
+"
+	Global Iletisim DudulluDatacenter is located in the area Istanbul, Turkey (Türkiye), and the colocation data center is not  carrier neutral. The data center was last updated on 13-01-2011.",Global Iletisim DudulluDatacenter,Turkey,,34775,Istanbul,Global Iletisim DudulluDatacenter,Global Iletisim Hizmetleri A.S.
+"
+	Cizgi Telekomunikasyon A.S. is located in the area ISTANBUL, Turkey (Türkiye), and the colocation data center is  carrier neutral. The data center was last updated on 10-12-2013.",Cizgi Telekomunikasyon A.S.,Turkey,Mecidiyekoy,34390,Istanbul,Cizgi Telekomunikasyon A.S.,Cizgi Telekom A.S.
+"
+	Cizgi Telekomunikasyon A.S. is located in the area ISTANBUL, Turkey (Türkiye), and the colocation data center is  carrier neutral. The data center was last updated on 10-12-2013.",Cizgi Telekomunikasyon A.S.,Turkey,Mecidiyekoy,34390,Istanbul,Cizgi Telekomunikasyon A.S.,Cizgi Telekom A.S.
+"
+	Atlasa is located in the area Riga, Latvia (Latvija), and the colocation data center is  carrier neutral. The data center was last updated on 17-01-2011.",Atlasa,Latvia,,LV-1006,Riga,Atlasa,"Telia Latvija, SIA"
+"
+	Pascal de Rienzo is located in the area Le Mans, France (Française), and the colocation data center is  carrier neutral. The data center was last updated on 16-01-2011.",Pascal de Rienzo,France,Sarthe,72650,Saint Saturnin,Pascal de Rienzo,Datagrex
+"
+	Thor Data Center is located in the area Reykjavik, Iceland (Island), and the colocation data center is  carrier neutral. The data center was last updated on 18-01-2011.",Thor Data Center,Iceland,IS,221,Hafnarfjordur,,Thor Data Center
+"
+	DataLine/Korovinskoe is located in the area Moscow, Russia, and the colocation data center is not  carrier neutral. The data center was last updated on 20-01-2011.",DataLine/Korovinskoe,Russia,,125 412,Moscow,DataLine/Korovinskoe,DataLine
+"
+	Doncater Datacentre - Hansen Tech is located in the area Melbourne (Victoria), Australia, and the colocation data center is not  carrier neutral. The data center was last updated on 27-01-2011.",Doncater Datacentre - Hansen Tech,Australia,VIC,3108,Melbourne,Doncater Datacentre - Hansen Tech,Hansen Technologies
+"
+	South Melb Datacentre - Hansen Tech is located in the area Melbourne (Victoria), Australia, and the colocation data center is not  carrier neutral. The data center was last updated on 27-01-2011.",South Melb Datacentre - Hansen Tech,Australia,VIC,3205,Melbourne,South Melb Datacentre - Hansen Tech,Hansen Technologies
+"
+	Perpetuus DC / DCP1 is located in the area Bratislava, Slovakia (Slovak Republic), and the colocation data center is  carrier neutral. The data center was last updated on 01-02-2011.",Perpetuus DC / DCP1,Slovakia,,84107,Bratislava,Perpetuus DC / DCP1,"CNC, a.s."
+"
+	Alternative Data Center is located in the area Lille, France (Française), and the colocation data center is  carrier neutral. The data center was last updated on 31-01-2011.",Alternative Data Center,France,Nord 59,59262,Sainghin en Mélantois,Alternative Data Center,CIV / Alternative Data Center
+"
+	Grupo SMS is located in the area Irvine, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 09-01-2014.",Grupo SMS,USA,california,92614,Irvine,,Grupo SMS
+"
+	AA Telekom is located in the area Istanbul, Turkey (Türkiye), and the colocation data center is  carrier neutral. The data center was last updated on 05-02-2011.",AA Telekom,Turkey,Esenler,34235,Istanbul,AA Telekom,AA TELEKOM
+"
+	GWeb Data Center is located in the area Richmond, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 06-02-2011.",GWeb Data Center,USA,Virginia,23111,Mechanicsville,GWeb Data Center,Global Web Solutions Inc.
+"
+	Advance2000 is located in the area Buffalo, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 10-02-2011.",Advance2000,USA,New York,14221,Williamsville,,Advance2000
+"
+	OMNICONNECT (OCDC) is located in the area Melbourne (Victoria), Australia, and the colocation data center is  carrier neutral. The data center was last updated on 08-02-2016.",OMNICONNECT (OCDC),Australia,Victoria,3201,Carrum Downs,OMNICONNECT (OCDC),OMNICONNECT
+"
+	Parc Tecnologic is located in the area Valencia, Spain (España), and the colocation data center is not  carrier neutral. The data center was last updated on 09-02-2011.",Parc Tecnologic,Spain,,46980,paterna,Parc Tecnologic,TISSAT
+"
+	DCC-IDF is located in the area Paris, France (Française), and the colocation data center is not  carrier neutral. The data center was last updated on 11-02-2011.",DCC-IDF,France,,93300,Aubervilliers,DCC-IDF,Completel
+"
+	Abserver DataCenter is located in the area Alicante, Spain (España), and the colocation data center is not  carrier neutral. The data center was last updated on 06-06-2014.",Abserver DataCenter,Spain,,03203,Alicante,Abserver DataCenter,Access Basic Server
+"
+	NetDC IAD3 Data Center is located in the area Reston, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 18-08-2014.",NetDC IAD3 Data Center,USA,Virginia,20190,Reston,NetDC IAD3 Data Center,"Net Data Centers, Inc."
+"
+	GoRACK Data Center is located in the area Jacksonville, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 11-02-2011.",GoRACK Data Center,USA,Florida,32204,Jacksonville,,GoRACK Data Center
+"
+	DataFirst is located in the area Jaipur, India, and the colocation data center is not  carrier neutral. The data center was last updated on 19-03-2014.",DataFirst,India,Rajasthan,304025,Jaipur,DataFirst,Cloud Planet Technologies Pvt Ltd
+"
+	NASPLEX is located in the area Baton Rouge, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 10-02-2011.",NASPLEX,USA,Louisiana,70810,Baton Rouge,,NASPLEX
+"
+	Peak 10 Nashville 2 is located in the area Nashville, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 10-02-2011.",Peak 10 Nashville 2,USA,Tennessee,37067,Franklin,Peak 10 Nashville 2,"Peak 10, Inc."
+"
+	CyrusOne - Stamford, CT is located in the area Stamford, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 22-07-2015.","CyrusOne - Stamford, CT",USA,Connecticut,06902,Stamford,"CyrusOne - Stamford, CT",CyrusOne
+"
+	TIER is located in the area Craiova, Romania, and the colocation data center is not  carrier neutral. The data center was last updated on 11-02-2011.",TIER,Romania,Dolj,200621,Craiova,,TIER
+"
+	ClearBearing, Inc. is located in the area Burlington, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 29-08-2011.","ClearBearing, Inc.",USA,Vermont,05401,Burlington,,"ClearBearing, Inc."
+"
+	Jaipur DataCenter India is located in the area Jaipur, India, and the colocation data center is  carrier neutral. The data center was last updated on 16-05-2013.",Jaipur DataCenter India,India,Rajasthan,302018,Jaipur,Jaipur DataCenter India,HostRightNow Technologies
+"
+	Network Research Belgium (NRB) is located in the area Liege (Liège), Belgium, and the colocation data center is not  carrier neutral. The data center was last updated on 22-02-2011.",Network Research Belgium (NRB),Belgium,Liège,4040,Herstal,Network Research Belgium (NRB),NRB
+"
+	China Western Information Center is located in the area Chengdu, China, and the colocation data center is not  carrier neutral. The data center was last updated on 06-03-2012.",China Western Information Center,China,Sichuan,610041 TELE:+868008860163,Chengdu,China Western Information Center,China Telecom SiChuan Branch
+"
+	Public Square Tech Center is located in the area Cleveland, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 25-02-2011.",Public Square Tech Center,USA,Colorado,44114,Cleveland,Public Square Tech Center,Morgan Reed Group
+"
+	Thornton Colorado Data Center is located in the area Denver, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 24-02-2011.",Thornton Colorado Data Center,USA,Colorado,80241,Thornton,Thornton Colorado Data Center,Morgan Reed Group
+"
+	SKALI Internet Data Center is located in the area Selangor, Malaysia, and the colocation data center is  carrier neutral. The data center was last updated on 25-02-2011.",SKALI Internet Data Center,Malaysia,Selangor,43409,Serdang,SKALI Internet Data Center,SKALI
+"
+	One Market Center is located in the area Baltimore, USA (America).",One Market Center,,,,,,
+"
+	1220 L Street NW is located in the area Washington D.C., USA (America).",1220 L Street NW,,,,,,
+"
+	801 Main Street - Lenoir is located in the area Hickory, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 25-02-2011.",801 Main Street - Lenoir,USA,North Carolina,28645,Lenoir,801 Main Street - Lenoir,"Dacentec, Inc"
+"
+	Defense Datacenter is located in the area Paris, France (Française), and the colocation data center is  carrier neutral. The data center was last updated on 05-06-2013.",Defense Datacenter,France,,92000,Nanterre,,Defense Datacenter
+"
+	POP54 is located in the area Nancy, France (Française), and the colocation data center is  carrier neutral. The data center was last updated on 27-02-2011.",POP54,France,,54320,Maxeville,POP54,NEO CENTER EST
+"
+	POP57 is located in the area Metz, France (Française), and the colocation data center is  carrier neutral. The data center was last updated on 27-02-2011.",POP57,France,,57140,Woippy,POP57,NEO CENTER EST
+"
+	METMAN is located in the area Metz, France (Française).",METMAN,,,,,,
+"
+	TELEHOUSE Shanghai  Jinqiao - 2 is located in the area Shanghai, China, and the colocation data center is not  carrier neutral. The data center was last updated on 09-06-2015.",TELEHOUSE Shanghai  Jinqiao - 2,China,,Pudong,Shanghai,TELEHOUSE Shanghai  Jinqiao - 2,KDDI Corporation
+"
+	ZUGERNET Datacenter is located in the area Zug, Switzerland (Schweiz), and the colocation data center is  carrier neutral. The data center was last updated on 19-01-2012.",ZUGERNET Datacenter,Switzerland,ZG,6340,Baar,ZUGERNET Datacenter,ZUGERNET
+"
+	Granite Block Data is located in the area Fall River, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 28-02-2011.",Granite Block Data,USA,Massachusetts,02720,Fall River,Granite Block Data,"Granite Block Global Data Center, Inc."
+"
+	Ascenix is located in the area Singapore, Singapore, and the colocation data center is  carrier neutral. The data center was last updated on 28-02-2011.",Ascenix,Singapore,Singapore,339416,Singapore,Ascenix,Ascenix Pte Ptd
+"
+	IFB Union Street is located in the area Aberdeen, United Kingdom (UK), and the colocation data center is not  carrier neutral. The data center was last updated on 02-03-2011.",IFB Union Street,United Kingdom,,AB11 6BX,Aberdeen,IFB Union Street,IFB
+"
+	Scalis is located in the area Cluj Napoca, Romania, and the colocation data center is not  carrier neutral. The data center was last updated on 03-03-2011.",Scalis,Romania,Cluj,400592,Cluj-Napoca,Scalis,Webfactor
+"
+	Creative Network Innovations is located in the area Melbourne FL, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 07-03-2011.",Creative Network Innovations,USA,Florida,32935,Melbourne,,Creative Network Innovations
+"
+	Adam BCN is located in the area Barcelona, Spain (España), and the colocation data center is  carrier neutral. The data center was last updated on 23-04-2015.",Adam BCN,Spain,,08025,Barcelona,Adam BCN,Adam
+"
+	Adam MAD is located in the area Madrid, Spain (España), and the colocation data center is  carrier neutral. The data center was last updated on 23-04-2015.",Adam MAD,Spain,,28600,Navalcarnero,Adam MAD,Adam
+"
+	aql DC2 is located in the area Leeds, United Kingdom (UK), and the colocation data center is  carrier neutral. The data center was last updated on 24-12-2013.",aql DC2,United Kingdom,West Yorkshire,LS10 1JW,Leeds,aql DC2,aql
+"
+	Orbit Data Centre is located in the area Auckland, New Zealand, and the colocation data center is  carrier neutral. The data center was last updated on 07-01-2014.",Orbit Data Centre,New Zealand,,0632,Auckland,Orbit Data Centre,Datacom
+"
+	vCitadel Atlanta-Curran Street is located in the area Atlanta, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 29-01-2017.",vCitadel Atlanta-Curran Street,USA,Georgia,30318,Atlanta,vCitadel Atlanta-Curran Street,Virtual Citadel
+"
+	vCitadel Atlanta-Godby Road is located in the area Atlanta, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 29-01-2017.",vCitadel Atlanta-Godby Road,USA,Georgia,30349,Atlanta,vCitadel Atlanta-Godby Road,Virtual Citadel
+"
+	DCforDATA is located in the area Lyon, France (Française), and the colocation data center is  carrier neutral. The data center was last updated on 23-06-2015.",DCforDATA,France,,69760,Limonest,DCforDATA,DCforData
+"
+	CWCS Managed Hosting is located in the area Nottingham, United Kingdom (UK), and the colocation data center is  carrier neutral. The data center was last updated on 03-10-2016.",CWCS Managed Hosting,United Kingdom,Nottinghamshire,NG9 2LP,Nottingham,,CWCS Managed Hosting
+"
+	Internap Boston 50 Innerbelt Rd is located in the area Boston, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 27-07-2012.",Internap Boston 50 Innerbelt Rd,USA,Massachusetts,02143,Somerville,Internap Boston 50 Innerbelt Rd,Internap Network Services Corporation
+"
+	DCWest is located in the area Perth (Western Australia), Australia, and the colocation data center is not  carrier neutral. The data center was last updated on 14-03-2011.",DCWest,Australia,WA,6000,Perth,DCWest,DC West Pty. Ltd.
+"
+	GlobeOp is located in the area Yorktown Heights, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 14-03-2011.",GlobeOp,USA,New York,10598,Yorktown Heights,,GlobeOp
+"
+	Immedion is located in the area Columbia, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 04-08-2016.",Immedion,USA,South Carolina,29201,Columbia,,Immedion
+"
+	Deltalis DKII is located in the area Uri, Switzerland (Schweiz), and the colocation data center is  carrier neutral. The data center was last updated on 26-11-2011.",Deltalis DKII,Switzerland,,6468,Attinghausen,Deltalis DKII,Deltalis SA
+"
+	Teraco Durban is located in the area Durban, South Africa, and the colocation data center is  carrier neutral. The data center was last updated on 25-06-2014.",Teraco Durban,South Africa,KwaZulu Natal,4001,Durban,Teraco Durban,Teraco Data Environments (Pty) Ltd
+"
+	Park Royal is located in the area London, United Kingdom (UK), and the colocation data center is  carrier neutral. The data center was last updated on 22-03-2011.",Park Royal,United Kingdom,,NW107PH,London,Park Royal,Vital Group
+"
+	US Internet is located in the area Minneapolis, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 08-10-2015.",US Internet,USA,Minnesota,55305,Minnetonka,,US Internet
+"
+	Dubai Silicon Oasis Data Center is located in the area Dubai (Dubai Internet City), United Arab Emirates (UAE), and the colocation data center is not  carrier neutral. The data center was last updated on 08-03-2012.",Dubai Silicon Oasis Data Center,United Arab Emirates,,6009,Dubai,Dubai Silicon Oasis Data Center,Dubai Silicon Oasis Authority - Government of Dubai
+"
+	CTSI is located in the area Richmond, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 28-03-2011.",CTSI,USA,virginia,23237,Richmond,CTSI,"Commonwealth Technical Services, Inc."
+"
+	Spectra Access is located in the area Manchester NH, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 29-03-2011.",Spectra Access,USA,New Hampshire,03101,Manchester,,Spectra Access
+"
+	PhotonLink DataCenter is located in the area Hong Kong, Hong Kong (Hong Kong, SAR of China), and the colocation data center is not  carrier neutral. The data center was last updated on 07-06-2011.",PhotonLink DataCenter,Hong Kong,,000000,Hong Kong,PhotonLink DataCenter,Photon Link Limited
+"
+	Cogent Phoenix is located in the area Phoenix, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 25-06-2012.",Cogent Phoenix,USA,Arizona,85034,Phoenix,Cogent Phoenix,"Cogent Communications, Inc."
+"
+	TELEHOUSE ISTANBUL is located in the area Istanbul, TURKEY (Türkiye), and the colocation data center is  carrier neutral. The data center was last updated on 09-09-2011.",TELEHOUSE ISTANBUL,TURKEY,,34742,Istanbul,TELEHOUSE ISTANBUL,Teknotel Telekomunikasyon A.S
+"
+	TEKNOTEL Datacenter is located in the area Istanbul, TURKEY (Türkiye), and the colocation data center is not  carrier neutral. The data center was last updated on 09-09-2011.",TEKNOTEL Datacenter,TURKEY,,34841,Istanbul,TEKNOTEL Datacenter,Teknotel Telekomunikasyon A.S
+"
+	Virtustream SF is located in the area San Francisco, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 14-09-2011.",Virtustream SF,USA,California,94013,San Francisco,Virtustream SF,Virtustream
+"
+	DataCenter SYSTEM-CLINCH is located in the area Winterthur, Switzerland (Schweiz), and the colocation data center is not  carrier neutral. The data center was last updated on 04-03-2014.",DataCenter SYSTEM-CLINCH,Switzerland,ZH,8400,Winterthur,DataCenter SYSTEM-CLINCH,SYSTEM-CLINCH Internet Services GmbH
+"
+	Densitas is located in the area Zürich, Switzerland (Schweiz), and the colocation data center is  carrier neutral. The data center was last updated on 05-06-2013.",Densitas,Switzerland,GL,8752,Näfels,Densitas,Densitas AG
+"
+	Southern Union Data Center is located in the area Houston, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 19-01-2012.",Southern Union Data Center,USA,Texas,77054,Houston,Southern Union Data Center,Southern Union
+"
+	MigSolv Data Centre is located in the area Norwich, United kingdom (UK), and the colocation data center is  carrier neutral. The data center was last updated on 16-03-2013.",MigSolv Data Centre,United kingdom,Norfolk,NR5 9JB,Norwich,,MigSolv Data Centre
+"
+	Borman Data Center is located in the area St. Louis, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 05-04-2011.",Borman Data Center,USA,Missouri,63146,St. Louis,Borman Data Center,Hostirian LLC
+"
+	Fiber Fortress is located in the area Winnipeg, Canada, and the colocation data center is  carrier neutral. The data center was last updated on 19-08-2014.",Fiber Fortress,Canada,Manitoba,R3H 0L2,Winnipeg,,Fiber Fortress
+"
+	Kapitan Andreevo is located in the area Kapitan Andreevo, Bulgaria, and the colocation data center is  carrier neutral. The data center was last updated on 08-04-2011.",Kapitan Andreevo,Bulgaria,,6530,Kapitan Andreevo,Kapitan Andreevo,TSBG
+"
+	Marina Towers is located in the area Los Angeles, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 09-04-2011.",Marina Towers,USA,California,90292,Marina Del Rey,Marina Towers,"DigiLink, Inc."
+"
+	Webair NY1 is located in the area Long Island, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 09-04-2011.",Webair NY1,USA,New York,11530,Garden City,Webair NY1,"Webair Internet Development, inc."
+"
+	TelCo Center is located in the area Paris, France (Française), and the colocation data center is  carrier neutral. The data center was last updated on 24-09-2012.",TelCo Center,France,,92400,Courbevoie,TelCo Center,Alphalink
+"
+	MTC is located in the area Buffalo, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 11-04-2011.",MTC,USA,New York,14228,Amherst,MTC,Matrix Telecommunications
+"
+	Ativas Data Center S.A is located in the area Belo Horizonte, Brazil (Brasil), and the colocation data center is  carrier neutral. The data center was last updated on 25-04-2011.",Ativas Data Center S.A,Brazil,MG,30140090,Belo Horizonte,,Ativas Data Center S.A
+"
+	EDIS Datacenter is located in the area Graz, Austria (Österreich), and the colocation data center is not  carrier neutral. The data center was last updated on 21-08-2011.",EDIS Datacenter,Austria,Styria,8042,Graz,EDIS Datacenter,EDIS GmbH
+"
+	PLEXVAL is located in the area Valencia, Spain (España), and the colocation data center is  carrier neutral. The data center was last updated on 14-04-2011.",PLEXVAL,Spain,,46980,Paterna,PLEXVAL,Plexval Valencia Datos S.L.
+"
+	next layer Datacenter is located in the area Vienna (Wien), Austria (Österreich), and the colocation data center is  carrier neutral. The data center was last updated on 03-12-2015.",next layer Datacenter,Austria,,1010,Vienna,next layer Datacenter,next layer gmbh
+"
+	HDDC is located in the area Auckland, New Zealand, and the colocation data center is  carrier neutral. The data center was last updated on 04-03-2015.",HDDC,New Zealand,North Shore City,0632,Auckland,HDDC,HD
+"
+	Columbia 1 is located in the area Bend, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 04-03-2015.",Columbia 1,USA,Oregon,97702,Bend,Columbia 1,Cascade Divide
+"
+	Vastnet - Denver, CO is located in the area Denver, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 25-10-2013.","Vastnet - Denver, CO",USA,Colorado,80229,Denver,"Vastnet - Denver, CO",Vastnet
+"
+	44 Victoria St / 25 Adelaide St East is located in the area Toronto, Canada.",44 Victoria St / 25 Adelaide St East,,,,,,
+"
+	Cybernet is located in the area Karachi, Pakistan (Islamic Republic of Pakistan), and the colocation data center is not  carrier neutral. The data center was last updated on 29-04-2011.",Cybernet,Pakistan,Sind,74200,Karachi,,Cybernet
+"
+	The Datacenter Group is located in the area Amsterdam, The Netherlands (Holland), and the colocation data center is  carrier neutral. The data center was last updated on 10-04-2012.",The Datacenter Group,The Netherlands,,1014BB,Amsterdam,,The Datacenter Group
+"
+	DC 1 is located in the area Catania, Italy (Italia), and the colocation data center is not  carrier neutral. The data center was last updated on 10-04-2012.",DC 1,Italy,Italy,95027,San Gregorio di Catania,DC 1,Sielte S.p.A.
+"
+	Dataware, LLC is located in the area Sioux Falls, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 03-05-2011.","Dataware, LLC",USA,South Dakota,57104,Sioux Falls,"Dataware, LLC","Dataware Services, LLC"
+"
+	Razor Data Center is located in the area Philadelphia, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 05-05-2011.",Razor Data Center,USA,Pennsylvania,19123,Philadelphia,Razor Data Center,"Razor, Inc."
+"
+	ServerBank is located in the area Manchester, United Kingdom (UK), and the colocation data center is not  carrier neutral. The data center was last updated on 05-05-2011.",ServerBank,United Kingdom,,M1 4EH,Manchester,ServerBank,Daisy Communications Ltd
+"
+	YesUp Carrier Neutral Datacenter is located in the area toronto, canada, and the colocation data center is  carrier neutral. The data center was last updated on 06-05-2011.",YesUp Carrier Neutral Datacenter,canada,ontario,m2h2w2,toronto,YesUp Carrier Neutral Datacenter,YesUp
+"
+	NCC Balcan-IX Dacia is located in the area Bucharest, Romania, and the colocation data center is  carrier neutral. The data center was last updated on 06-05-2011.",NCC Balcan-IX Dacia,Romania,,020053,Bucharest,NCC Balcan-IX Dacia,Telekom Romania Communications
+"
+	NCC Balcan-IX Piscului is located in the area Bucharest, Romania, and the colocation data center is  carrier neutral. The data center was last updated on 16-05-2011.",NCC Balcan-IX Piscului,Romania,District 4,040437,Bucharest,NCC Balcan-IX Piscului,Telekom Romania Communications
+"
+	NCC Balcan-IX Galati is located in the area Galati, Romania, and the colocation data center is  carrier neutral. The data center was last updated on 06-05-2011.",NCC Balcan-IX Galati,Romania,Galati,800306,Galati,NCC Balcan-IX Galati,Telekom Romania Communications
+"
+	6-7 Harbour Exchange (Docklands) is located in the area London, United Kingdom (UK).",6-7 Harbour Exchange (Docklands),,,,,,
+"
+	IPC 3 is located in the area Karlsruhe, Germany (Deutschland), and the colocation data center is  carrier neutral. The data center was last updated on 10-05-2011.",IPC 3,Germany,,76227,Karlsruhe,IPC 3,TelemaxX Telekommunikation GmbH
+"
+	NCC Balcan-IX Iasi is located in the area Iasi, Romania, and the colocation data center is  carrier neutral. The data center was last updated on 16-05-2011.",NCC Balcan-IX Iasi,Romania,Iasi,700057,Iasi,NCC Balcan-IX Iasi,Telekom Romania Communications
+"
+	Datacell is located in the area Reykjavik, Iceland (Island), and the colocation data center is not  carrier neutral. The data center was last updated on 18-05-2011.",Datacell,Iceland,IS,101,Reykjavik,,Datacell
+"
+	Redwire DC is located in the area London, United Kingdom (UK), and the colocation data center is  carrier neutral. The data center was last updated on 20-05-2011.",Redwire DC,United Kingdom,,W5 2ST,London,,Redwire DC
+"
+	GRVXHost is located in the area Joinville, Brazil (Brasil), and the colocation data center is not  carrier neutral. The data center was last updated on 05-10-2011.",GRVXHost,Brazil,Santa Catarina,89248000,Garuva,GRVXHost,GRVX Servidor de Internet e Multimidia Ltda
+"
+	SHC III is located in the area Bratislava, Slovakia (Slovak Republic), and the colocation data center is not  carrier neutral. The data center was last updated on 11-04-2014.",SHC III,Slovakia,,85103,Bratislava,SHC III,VNET a.s.
+"
+	SHC II is located in the area Bratislava, Slovakia (Slovak Republic), and the colocation data center is not  carrier neutral. The data center was last updated on 11-04-2014.",SHC II,Slovakia,,82108,Bratislava,SHC II,VNET a.s.
+"
+	Bush Terminal is located in the area New York, USA (America).",Bush Terminal,,,,,,
+"
+	EIS Datacenter is located in the area Port Louis, Mauritius (Republic of Mauritius), and the colocation data center is not  carrier neutral. The data center was last updated on 24-05-2011.",EIS Datacenter,Mauritius,,NA,Port Louis,EIS Datacenter,Enterprise Information Solutions
+"
+	EIS High Availability Site is located in the area Port Louis, Mauritius (Republic of Mauritius), and the colocation data center is not  carrier neutral. The data center was last updated on 25-05-2011.",EIS High Availability Site,Mauritius,,NA,Port Louis,EIS High Availability Site,Enterprise Information Solutions
+"
+	EIS Disaster Recovery Centre is located in the area Port Louis, Mauritius (Republic of Mauritius), and the colocation data center is not  carrier neutral. The data center was last updated on 25-05-2011.",EIS Disaster Recovery Centre,Mauritius,Port Louis,NA,Port Louis,EIS Disaster Recovery Centre,Enterprise Information Solutions
+"
+	WRN Broadcast is located in the area London, United Kingdom (UK), and the colocation data center is  carrier neutral. The data center was last updated on 25-05-2011.",WRN Broadcast,United Kingdom,London,SW8 2TG,London,,WRN Broadcast
+"
+	NEXTDC - M1 is located in the area Melbourne (Victoria), Australia, and the colocation data center is  carrier neutral. The data center was last updated on 18-04-2012.",NEXTDC - M1,Australia,Victoria,3207,Port Melbourne,NEXTDC - M1,NEXTDC
+"
+	Iserv Company is located in the area Grand Rapids, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 27-05-2011.",Iserv Company,USA,Michigan,49512,Grand Rapids,Iserv Company,"OXFORD Partners, Inc."
+"
+	WDC is located in the area Liege (Liège), Belgium, and the colocation data center is  carrier neutral. The data center was last updated on 31-05-2011.",WDC,Belgium,,4530,Villers-le-Bouillet,,WDC
+"
+	IPswiTch Group is located in the area Ipswich, United Kingdom (UK), and the colocation data center is not  carrier neutral. The data center was last updated on 31-05-2011.",IPswiTch Group,United Kingdom,Suffolk,IP4 1AQ,Ipswich,IPswiTch Group,Ipswitch Group
+"
+	Cogent London is located in the area London, United Kingdom (UK), and the colocation data center is not  carrier neutral. The data center was last updated on 30-07-2012.",Cogent London,United Kingdom,,E149 UB,London,Cogent London,"Cogent Communications, Inc."
+"
+	City Reach is located in the area London, United Kingdom (UK).",City Reach,,,,,,
+"
+	AIMES DC1 Baird House is located in the area Liverpool, United Kingdom (UK), and the colocation data center is  carrier neutral. The data center was last updated on 31-10-2012.",AIMES DC1 Baird House,United Kingdom,,L7 9NJ,Liverpool,AIMES DC1 Baird House,AIMES Grid Services CIC
+"
+	Distinct is located in the area Bucharest, Romania, and the colocation data center is not  carrier neutral. The data center was last updated on 03-06-2011.",Distinct,Romania,,031212,Bucharest,,Distinct
+"
+	zColo - 7218 McNeil Dr is located in the area Austin, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 14-02-2014.",zColo - 7218 McNeil Dr,USA,Texas,78729,Austin,zColo - 7218 McNeil Dr,zColo
+"
+	Aktifnet is located in the area Selangor, Malaysia, and the colocation data center is  carrier neutral. The data center was last updated on 02-06-2011.",Aktifnet,Malaysia,Selangor,47800,Petaling Jaya,Aktifnet,Aktif Setegap Sdn Bhd
+"
+	Broadnet Colocation Forus Stavanger is located in the area Forus, Norway (Norge), and the colocation data center is not  carrier neutral. The data center was last updated on 23-03-2015.",Broadnet Colocation Forus Stavanger,Norway,,4033,Stavanger,Broadnet Colocation Forus Stavanger,Broadnet AS
+"
+	DartPoints - DAL.01 is located in the area Dallas, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 25-03-2015.",DartPoints - DAL.01,USA,Texas,75201,Dallas,DartPoints - DAL.01,DartPoints
+"
+	Bahnhof - Sterik is located in the area Stockholm, Sweden (Sverige), and the colocation data center is not  carrier neutral. The data center was last updated on 23-03-2012.",Bahnhof - Sterik,Sweden,,11343,Stockholm,Bahnhof - Sterik,Bahnhof
+"
+	Dream Line is located in the area Kiev, Ukraine (Ukrayina), and the colocation data center is not  carrier neutral. The data center was last updated on 03-06-2011.",Dream Line,Ukraine,,03680,Kiev,,Dream Line
+"
+	zColo - 10300 6th Ave is located in the area Minneapolis, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 21-10-2014.",zColo - 10300 6th Ave,USA,Minnesota,55441,Plymouth,zColo - 10300 6th Ave,zColo
+"
+	LINK Datacenter is located in the area Cairo (Al Qahirah), Egypt, and the colocation data center is not  carrier neutral. The data center was last updated on 07-06-2011.",LINK Datacenter,Egypt,-,11431,Cairo,,LINK Datacenter
+"
+	3500 NW is located in the area Boca Raton, USA (America).",3500 NW,,,,,,
+"
+	Voonami Orem Data Center is located in the area Orem, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 10-06-2011.",Voonami Orem Data Center,USA,Utah,84097,Orem,Voonami Orem Data Center,Voonami Inc
+"
+	zColo - 334 Gest St is located in the area Cincinnati, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 13-02-2014.",zColo - 334 Gest St,USA,Ohio,45203,Cincinnati,zColo - 334 Gest St,zColo
+"
+	TW Telecom - Bothell is located in the area Seattle, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 08-06-2011.",TW Telecom - Bothell,USA,Washington,98021,Bothell,TW Telecom - Bothell,tw telecom
+"
+	1505 5th is located in the area Seattle, USA (America).",1505 5th,,,,,,
+"
+	Telekom DataCenter is located in the area Bratislava, Slovakia (Slovak Republic), and the colocation data center is  carrier neutral. The data center was last updated on 11-05-2012.",Telekom DataCenter,Slovakia,,821 09,Bratislava,Telekom DataCenter,Slovak Telekom
+"
+	ARIMA Networks is located in the area Vancouver, Canada, and the colocation data center is not  carrier neutral. The data center was last updated on 17-10-2013.",ARIMA Networks,Canada,BC,V3K7B8,Coquitlam,ARIMA Networks,ARIMA Networks Inc.
+"
+	RackCentral DC-2 is located in the area Melbourne (Victoria), Australia, and the colocation data center is  carrier neutral. The data center was last updated on 09-06-2011.",RackCentral DC-2,Australia,Victoria,3000,Melbourne,RackCentral DC-2,RackCentral
+"
+	Raya Data Center is located in the area Cairo (Al Qahirah), Egypt, and the colocation data center is  carrier neutral. The data center was last updated on 13-03-2013.",Raya Data Center,Egypt,,12568,6 of October,,Raya Data Center
+"
+	Tata Communications Mumbai BKC is located in the area Mumbai, India, and the colocation data center is  carrier neutral. The data center was last updated on 20-02-2013.",Tata Communications Mumbai BKC,India,Maharashtra,400053,Mumbai,Tata Communications Mumbai BKC,Tata Communications
+"
+	zColo - 209 10th Ave South is located in the area Nashville, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 21-10-2014.",zColo - 209 10th Ave South,USA,Tennessee,37203,Nashville,zColo - 209 10th Ave South,zColo
+"
+	Nordata Srl is located in the area Padova, Italy (Italia), and the colocation data center is  carrier neutral. The data center was last updated on 14-06-2011.",Nordata Srl,Italy,,35129,Padova,,Nordata Srl
+"
+	NEXTDC - B1 is located in the area Brisbane (Queensland), Australia, and the colocation data center is  carrier neutral. The data center was last updated on 19-04-2012.",NEXTDC - B1,Australia,Queensland,4000,Brisbane,NEXTDC - B1,NEXTDC
+"
+	NEXTDC - C1 is located in the area Canberra, Australia, and the colocation data center is  carrier neutral. The data center was last updated on 18-04-2012.",NEXTDC - C1,Australia,ACT,2617,Bruce,NEXTDC - C1,NEXTDC
+"
+	Store Data is located in the area Moscow, Russia, and the colocation data center is not  carrier neutral. The data center was last updated on 18-04-2012.",Store Data,Russia,,123789,Moscow,Store Data,Pallada Web Service
+"
+	zColo - 7620 Appling Center Dr is located in the area Memphis, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 13-02-2014.",zColo - 7620 Appling Center Dr,USA,Tennessee,38133,Memphis,zColo - 7620 Appling Center Dr,zColo
+"
+	SafeHouse Datacenter is located in the area Fort Wayne, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 20-06-2011.",SafeHouse Datacenter,USA,Indiana,46825,Fort Wayne,SafeHouse Datacenter,safehosue datacenter
+"
+	Gorelovo Data Center is located in the area Saint Petersburg (Sankt-Peterburg), Russia, and the colocation data center is  carrier neutral. The data center was last updated on 28-06-2011.",Gorelovo Data Center,Russia,,188522,Sint Petersburg,Gorelovo Data Center,Gorelovo DataCenter
+"
+	Infobox is located in the area Saint Petersburg (Sankt-Peterburg), Russia, and the colocation data center is  carrier neutral. The data center was last updated on 28-06-2011.",Infobox,Russia,,192102,Saint-Petersburg,,Infobox
+"
+	Altitude Center is located in the area ROUEN, France (Française).",Altitude Center,,,,,,
+"
+	Netshield is located in the area Walsall, United Kingdom (UK), and the colocation data center is not  carrier neutral. The data center was last updated on 06-06-2014.",Netshield,United Kingdom,,WS9 8TP,Aldridge,,Netshield
+"
+	Netshield is located in the area Walsall, United Kingdom (UK), and the colocation data center is not  carrier neutral. The data center was last updated on 06-06-2014.",Netshield,United Kingdom,,WS9 8TP,Aldridge,,Netshield
+"
+	KingHost is located in the area Porto Alegre, Brazil (Brasil), and the colocation data center is not  carrier neutral. The data center was last updated on 01-07-2011.",KingHost,Brazil,RS,90560-002,Porto Alegre,,KingHost
+"
+	Stafford Assoicates is located in the area Long Island, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 01-07-2011.",Stafford Assoicates,USA,New York,11733,Setauket,Stafford Assoicates,Stafford Associates
+"
+	Onyx Group Yorkshire Data Centre is located in the area Sheffield, United Kingdom (UK), and the colocation data center is not  carrier neutral. The data center was last updated on 25-06-2012.",Onyx Group Yorkshire Data Centre,United Kingdom,,S63 7JZ,Sheffield,Onyx Group Yorkshire Data Centre,Onyx Group
+"
+	Capnova Klingendahl is located in the area Tampere, Finland (Suomi), and the colocation data center is not  carrier neutral. The data center was last updated on 08-07-2011.",Capnova Klingendahl,Finland,,33200,Tampere,Capnova Klingendahl,Oy Capnova Ltd
+"
+	TierPoint Valley Forge, PA is located in the area Valley Forge, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 23-02-2017.","TierPoint Valley Forge, PA",USA,Pennsylvania,19403,Valley Forge,"TierPoint Valley Forge, PA",TierPoint
+"
+	TierPoint Bethlehem, PA is located in the area Bethlehem, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 23-02-2017.","TierPoint Bethlehem, PA",USA,Pennsylvania,18017,Bethlehem,"TierPoint Bethlehem, PA",TierPoint
+"
+	TierPoint Allentown-TekPark, PA is located in the area Allentown, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 23-02-2017.","TierPoint Allentown-TekPark, PA",USA,Pennsylvania,18031,Allentown,"TierPoint Allentown-TekPark, PA",TierPoint
+"
+	Mediaport Junglinster is located in the area Luxembourg, Luxembourg (Luxemburg), and the colocation data center is  carrier neutral. The data center was last updated on 13-07-2011.",Mediaport Junglinster,Luxembourg,,L-6141,Junglinster,Mediaport Junglinster,Broadcasting Center Europe
+"
+	SunGard - Gärdet Technology Center is located in the area Stockholm, Sweden (Sverige), and the colocation data center is  carrier neutral. The data center was last updated on 15-07-2011.",SunGard - Gärdet Technology Center,Sweden,,102 52,Stockholm,SunGard - Gärdet Technology Center,Sungard Availability Services
+"
+	C7 Data Centers is located in the area Salt Lake City, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 15-07-2011.",C7 Data Centers,USA,Utah,84065,Bluffdale,C7 Data Centers,"C7 Data Centers, Inc."
+"
+	Lifeline Data Centers Eastgate is located in the area Indianapolis, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 19-07-2011.",Lifeline Data Centers Eastgate,USA,Indiana,46219,Indianapolis,Lifeline Data Centers Eastgate,"Lifeline Data Centers, LLC"
+"
+	WORLDLINK South Datacenter is located in the area Seattle, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 30-08-2011.",WORLDLINK South Datacenter,USA,Washington,98057,Tukwila,WORLDLINK South Datacenter,WORLDLINK
+"
+	Ar Telecom - Lisboa is located in the area Lisbon (Lisboa), Portugal, and the colocation data center is not  carrier neutral. The data center was last updated on 20-07-2011.",Ar Telecom - Lisboa,Portugal,,1350-352,Lisboa,Ar Telecom - Lisboa,Ar Telecom
+"
+	Ar Telecom - Porto is located in the area Porto, Portugal, and the colocation data center is  carrier neutral. The data center was last updated on 20-07-2011.",Ar Telecom - Porto,Portugal,,4350,Porto,Ar Telecom - Porto,Ar Telecom
+"
+	Ar Telecom - Viseu is located in the area Viseu, Portugal, and the colocation data center is not  carrier neutral. The data center was last updated on 20-07-2011.",Ar Telecom - Viseu,Portugal,,3500-147,Viseu,Ar Telecom - Viseu,Ar Telecom
+"
+	Acropolis Paris-Nation is located in the area Paris, France (Française), and the colocation data center is  carrier neutral. The data center was last updated on 01-12-2011.",Acropolis Paris-Nation,France,,75012,Paris,Acropolis Paris-Nation,Acropolis Telecom
+"
+	Acropolis DatAix is located in the area Marseille, France (Française), and the colocation data center is  carrier neutral. The data center was last updated on 01-12-2011.",Acropolis DatAix,France,,13290,Aix-les-Milles,Acropolis DatAix,Acropolis Telecom
+"
+	IDX is located in the area Shanghai, China, and the colocation data center is  carrier neutral. The data center was last updated on 27-07-2011.",IDX,China,,201203,Shanghai,IDX,"Shanghai Data Solution Co., Ltd"
+"
+	Convergence Center is located in the area Whippany, USA (America).",Convergence Center,,,,,,
+"
+	Colo@34 is located in the area Atlanta, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 28-07-2011.",Colo@34,USA,Georgia,30303,Atlanta,Colo@34,Colo@
+"
+	Selectel ""Tsvetochnaya"" is located in the area Saint Petersburg (Sankt-Peterburg), Russia, and the colocation data center is  carrier neutral. The data center was last updated on 10-08-2011.","Selectel ""Tsvetochnaya""",Russia,,196006,Saint-Petersburg,"Selectel ""Tsvetochnaya""",Selectel
+"
+	Selectel ""Tehnodom"" is located in the area Saint Petersburg (Sankt-Peterburg), Russia, and the colocation data center is  carrier neutral. The data center was last updated on 10-08-2011.","Selectel ""Tehnodom""",Russia,,190000,Saint-Petersburg,"Selectel ""Tehnodom""",Selectel
+"
+	Selectel ""Berzarina"" is located in the area Moscow, Russia, and the colocation data center is  carrier neutral. The data center was last updated on 10-08-2011.","Selectel ""Berzarina""",Russia,,000000,Moscow,"Selectel ""Berzarina""",Selectel
+"
+	Selectel ""Dubrovka"" is located in the area Saint Petersburg (Sankt-Peterburg), Russia, and the colocation data center is not  carrier neutral. The data center was last updated on 10-08-2011.","Selectel ""Dubrovka""",Russia,,000000,Dubrovka,"Selectel ""Dubrovka""",Selectel
+"
+	Selectel ""Dubrovka 2"" is located in the area Saint Petersburg (Sankt-Peterburg), Russia, and the colocation data center is  carrier neutral. The data center was last updated on 10-08-2011.","Selectel ""Dubrovka 2""",Russia,,000000,Dubrovka,"Selectel ""Dubrovka 2""",Selectel
+"
+	DataGalaxy is located in the area Pune, India, and the colocation data center is  carrier neutral. The data center was last updated on 10-08-2011.",DataGalaxy,India,Maharashtra,411006,Pune,,DataGalaxy
+"
+	3S Data Center is located in the area Katowice, Poland (Polska), and the colocation data center is  carrier neutral. The data center was last updated on 18-02-2016.",3S Data Center,Poland,,40-432,Katowice,3S Data Center,3S Data Center S.A.
+"
+	Teknowan Telekom is located in the area Ankara, Turkey (Türkiye), and the colocation data center is not  carrier neutral. The data center was last updated on 22-02-2016.",Teknowan Telekom,Turkey,yenimahalle,06530,Ankara,Teknowan Telekom,Teknowan Telecommunication
+"
+	Charlotte Gateway Data Center is located in the area Charlotte, USA (America).",Charlotte Gateway Data Center,,,,,,
+"
+	Mediactive Network Paris 10 is located in the area Paris, France (Française), and the colocation data center is not  carrier neutral. The data center was last updated on 29-09-2011.",Mediactive Network Paris 10,France,,75010,Paris,Mediactive Network Paris 10,Mediactive Network
+"
+	NC Data Center Park is located in the area Catawba, USA (America).",NC Data Center Park,,,,,,
+"
+	Data Foundry- Houston 2 Data Center is located in the area Houston, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 13-07-2016.",Data Foundry- Houston 2 Data Center,USA,Texas,77067,Houston,Data Foundry- Houston 2 Data Center,Data Foundry
+"
+	Raleigh NC Data Center is located in the area Raleigh, USA (America).",Raleigh NC Data Center,,,,,,
+"
+	AkashiQ is located in the area Coimbatore, India, and the colocation data center is  carrier neutral. The data center was last updated on 17-08-2011.",AkashiQ,India,Tamilnadu,641028,Coimbatore,AkashiQ,AkashiQ Data Care India Pvt.Ltd.
+"
+	Sleepless is located in the area Galway, Ireland (Éire), and the colocation data center is not  carrier neutral. The data center was last updated on 19-06-2015.",Sleepless,Ireland,Galway,Galway,Galway,,Sleepless
+"
+	NETDOOR JXN is located in the area Jackson MS, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 19-03-2014.",NETDOOR JXN,USA,Mississippi,39202,Jackson,NETDOOR JXN,NETDOOR
+"
+	Shore.Net is located in the area Boston, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 23-08-2011.",Shore.Net,USA,Massachusetts,01901,Lynn,,Shore.Net
+"
+	Davey Holdings LLC is located in the area Louisville, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 05-10-2011.",Davey Holdings LLC,USA,Kentucky,40059,Prospect,,Davey Holdings LLC
+"
+	maghost | DataCenter is located in the area Timisoara, Romania, and the colocation data center is not  carrier neutral. The data center was last updated on 19-01-2017.",maghost | DataCenter,Romania,-,300571,Timisoara,maghost | DataCenter,MAGIT'ST SRL
+"
+	Tallinn TVTower DC is located in the area Tallinn, Estonia (Eesti Vabariik), and the colocation data center is  carrier neutral. The data center was last updated on 29-08-2014.",Tallinn TVTower DC,Estonia,,15026,Tallinn,Tallinn TVTower DC,AS Levira
+"
+	acens is located in the area Madrid, Spain (España), and the colocation data center is not  carrier neutral. The data center was last updated on 06-09-2011.",acens,Spain,Madrid,28108,Alcobendas,acens,Acens Technologies
+"
+	acens Barcelona is located in the area Barcelona, Spain (España), and the colocation data center is not  carrier neutral. The data center was last updated on 06-09-2011.",acens Barcelona,Spain,Barcelona,08014,Barcelona,acens Barcelona,Acens Technologies
+"
+	NEXNOC-1 is located in the area Lahore, Pakistan (Islamic Republic of Pakistan), and the colocation data center is  carrier neutral. The data center was last updated on 07-09-2011.",NEXNOC-1,Pakistan,,54000,Lahore,NEXNOC-1,NEXLINX
+"
+	Volico Broward is located in the area Boca Raton, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 28-02-2013.",Volico Broward,USA,Florida,33064,Pompano,Volico Broward,Volico Data Centers
+"
+	SKYONLINE is located in the area Buenos Aires, Argentina (Argentine Republic), and the colocation data center is  carrier neutral. The data center was last updated on 12-09-2011.",SKYONLINE,Argentina,CABA,C1064AAH,Buenos Aires,SKYONLINE,SkyOnline
+"
+	Virtustream Vienna is located in the area Vienna Virginia, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 13-09-2011.",Virtustream Vienna,USA,Virginia,22182,Vienna,Virtustream Vienna,Virtustream
+"
+	Heywood House is located in the area Douglas, Isle of Man, and the colocation data center is  carrier neutral. The data center was last updated on 13-09-2011.",Heywood House,Isle of Man,Isle of Man,IM1 1EW,Douglas,Heywood House,Wi-Manx Limited - Isle of Man
+"
+	Vivio Technologies - WW UG Site is located in the area Walla Walla, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 06-05-2013.",Vivio Technologies - WW UG Site,USA,Washington,99362,Walla Walla,Vivio Technologies - WW UG Site,Vivio Technologies
+"
+	Vivio Technologies - WW TS Site is located in the area Walla Walla, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 18-03-2015.",Vivio Technologies - WW TS Site,USA,Washington,99362,Walla Walla,Vivio Technologies - WW TS Site,Vivio Technologies
+"
+	Sleek Networks Angel House 1 is located in the area Leeds, United Kingdom (UK), and the colocation data center is  carrier neutral. The data center was last updated on 15-09-2011.",Sleek Networks Angel House 1,United Kingdom,Yorkshire,LS3 1BS,Leeds,Sleek Networks Angel House 1,Sleek Networks
+"
+	Anacondaweb is located in the area Santiago, Chile (República de Chile), and the colocation data center is not  carrier neutral. The data center was last updated on 16-02-2012.",Anacondaweb,Chile,Metropolitana,8330045,Santiago,Anacondaweb,Anacondaweb S.A.
+"
+	Net Group S.A is located in the area Cali, Colombia, and the colocation data center is not  carrier neutral. The data center was last updated on 10-02-2012.",Net Group S.A,Colombia,Valle,760044,Cali,,Net Group S.A
+"
+	Datacenter WEDOS is located in the area Ceske Budejovice, Czech republic, and the colocation data center is not  carrier neutral. The data center was last updated on 17-11-2014.",Datacenter WEDOS,Czech republic,,373 41,Hluboka nad Vltavou,Datacenter WEDOS,"WEDOS Internet, a.s."
+"
+	CITIC Telecom Tower Data Centre is located in the area Hong Kong, Hong Kong (Hong Kong, SAR of China), and the colocation data center is  carrier neutral. The data center was last updated on 29-04-2015.",CITIC Telecom Tower Data Centre,Hong Kong,,n/a,Kwai Chung,CITIC Telecom Tower Data Centre,CITIC Telecom International Holdings Limited
+"
+	Foneo Datacenter is located in the area Tongeren, Belgium, and the colocation data center is  carrier neutral. The data center was last updated on 16-06-2015.",Foneo Datacenter,Belgium,,3700,Tongeren,,Foneo Datacenter
+"
+	Kennedy Building is located in the area Tulsa, USA (America).",Kennedy Building,,,,,,
+"
+	Logic Plus is located in the area Adelaide (South Australia), Australia, and the colocation data center is not  carrier neutral. The data center was last updated on 17-02-2013.",Logic Plus,Australia,SA,5000,Adelaide,,Logic Plus
+"
+	ARCTUR datacenter is located in the area Nova Gorica, Slovenia (Republika Slovenija), and the colocation data center is  carrier neutral. The data center was last updated on 21-09-2011.",ARCTUR datacenter,Slovenia,,5000,Nova Gorica,ARCTUR datacenter,Arctur d.o.o.
+"
+	Sontius data center is located in the area Nova Gorica, Slovenia (Republika Slovenija), and the colocation data center is  carrier neutral. The data center was last updated on 21-09-2011.",Sontius data center,Slovenia,,5290,Sempeter pri Gorici,Sontius data center,Sontius d.o.o.
+"
+	Fogo Data Centers - Atlanta Region is located in the area Carrollton, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 26-09-2011.",Fogo Data Centers - Atlanta Region,USA,Georgia,30117,Carrollton,Fogo Data Centers - Atlanta Region,Fogo Data Centers
+"
+	Fogo Data Centers - New Orleans is located in the area New Orleans, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 26-09-2011.",Fogo Data Centers - New Orleans,USA,Louisiana,70112,New Orleans,Fogo Data Centers - New Orleans,Fogo Data Centers
+"
+	FIBERTOWN HOUSTON is located in the area Houston, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 26-09-2011.",FIBERTOWN HOUSTON,USA,Texas,77067,Houston,FIBERTOWN HOUSTON,FIBERTOWN
+"
+	CELESTE-Marilyn is located in the area Paris, France (Française), and the colocation data center is  carrier neutral. The data center was last updated on 24-10-2011.",CELESTE-Marilyn,France,,77420,Champs-sur-Marne,CELESTE-Marilyn,CELESTE
+"
+	731 E Trade Data Center is located in the area Charlotte, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 30-07-2014.",731 E Trade Data Center,USA,North Carolina,28202,Charlotte,731 E Trade Data Center,"Five 9s Digital, LLC"
+"
+	Expedient Cleveland 152 is located in the area Cleveland, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 04-10-2011.",Expedient Cleveland 152,USA,Ohio,44128,Cleveland,Expedient Cleveland 152,Expedient Data Centers
+"
+	Nusantara Data Center Medan is located in the area Medan, Indonesia, and the colocation data center is  carrier neutral. The data center was last updated on 03-02-2012.",Nusantara Data Center Medan,Indonesia,Sumatra,55405,Medan,Nusantara Data Center Medan,PT. Mora Telematika Indonesia
+"
+	Nusantara data center Palembang is located in the area Palembang, Indonesia, and the colocation data center is  carrier neutral. The data center was last updated on 03-02-2012.",Nusantara data center Palembang,Indonesia,Sumatra,30151,Palembang,Nusantara data center Palembang,PT. Mora Telematika Indonesia
+"
+	Nusantara Data Center Surabaya is located in the area Surabaya, Indonesia, and the colocation data center is  carrier neutral. The data center was last updated on 03-02-2012.",Nusantara Data Center Surabaya,Indonesia,East Java,60291,Surabaya,Nusantara Data Center Surabaya,PT. Mora Telematika Indonesia
+"
+	Nusantara Data Center Bali is located in the area Denpasar, Indonesia, and the colocation data center is  carrier neutral. The data center was last updated on 06-10-2011.",Nusantara Data Center Bali,Indonesia,Bali,80111,Bali,Nusantara Data Center Bali,PT. Mora Telematika Indonesia
+"
+	ONI is located in the area Luton, United Kingdom (UK), and the colocation data center is not  carrier neutral. The data center was last updated on 06-10-2011.",ONI,United Kingdom,,LU2 0QX,Luton,ONI,ONI (plc)
+"
+	Varna Data Center is located in the area Varna, Bulgaria, and the colocation data center is  carrier neutral. The data center was last updated on 06-10-2011.",Varna Data Center,Bulgaria,,9000,Varna,,Varna Data Center
+"
+	Claranet - Porto is located in the area Porto, Portugal, and the colocation data center is not  carrier neutral. The data center was last updated on 28-02-2012.",Claranet - Porto,Portugal,,4425-510,Maia,Claranet - Porto,Claranet Portugal
+"
+	Latechco WTC FZ is located in the area Montevideo, Uruguay (Oriental Republic of Uruguay), and the colocation data center is not  carrier neutral. The data center was last updated on 10-10-2011.",Latechco WTC FZ,Uruguay,Montevideo,11300,Montevideo,Latechco WTC FZ,Latechco
+"
+	Chicago Exchange is located in the area Chicago, USA (America).",Chicago Exchange,,,,,,
+"
+	Ann Arbor 2 Data Center is located in the area Detroit, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 26-02-2015.",Ann Arbor 2 Data Center,USA,Michigan,48108,Ann Arbor,Ann Arbor 2 Data Center,Online Tech
+"
+	Internap Dallas is located in the area Dallas, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 27-07-2012.",Internap Dallas,USA,Texas,75075,Plano,Internap Dallas,Internap Network Services Corporation
+"
+	FRIKTORIA-VOL-GR is located in the area Volos, Greece (Hellenic Republic), and the colocation data center is not  carrier neutral. The data center was last updated on 18-01-2012.",FRIKTORIA-VOL-GR,Greece,Magnesia,383 33,Volos,FRIKTORIA-VOL-GR,FRIKTORIA - Data Center Services
+"
+	Data Center 360 Spear Street is located in the area San Francisco, USA (America), and the colocation data center is not  carrier neutral. The data center was last updated on 18-10-2011.",Data Center 360 Spear Street,USA,california,94105,San Francisco,Data Center 360 Spear Street,"Fastmetrics, Inc."
+"
+	NS3-DC-PD is located in the area Padova, Italy (Italia), and the colocation data center is  carrier neutral. The data center was last updated on 19-10-2011.",NS3-DC-PD,Italy,,35127,Padova,NS3-DC-PD,NS3 SRL
+"
+	NETBONE DIGITAL is located in the area Zürich, Switzerland (Schweiz), and the colocation data center is not  carrier neutral. The data center was last updated on 19-10-2011.",NETBONE DIGITAL,Switzerland,ZH,8400,Winterthur,NETBONE DIGITAL,NETBONE DIGITAL AG
+"
+	Letzigraben 75 is located in the area Zürich, Switzerland (Schweiz).",Letzigraben 75,,,,,,
+"
+	Ontario Datacenter is located in the area Inland Empire, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 16-05-2015.",Ontario Datacenter,USA,California,91761,Ontario,,Ontario Datacenter
+"
+	United Networks of Ukraine is located in the area kiev, Ukraine (Ukrayina), and the colocation data center is  carrier neutral. The data center was last updated on 11-11-2011.",United Networks of Ukraine,Ukraine,,01191,Kiev,United Networks of Ukraine,UNITED
+"
+	Iran Data Center is located in the area Mashhad, Iran, and the colocation data center is not  carrier neutral. The data center was last updated on 22-10-2011.",Iran Data Center,Iran,,9185697875,Mashad,Iran Data Center,KEYANA IT Co. Ltd.
+"
+	Metro Point is located in the area London, United Kingdom (UK), and the colocation data center is  carrier neutral. The data center was last updated on 04-09-2014.",Metro Point,United Kingdom,,EN4 9JQ,Cockfosters,Metro Point,Sovereign Data Connect Ltd
+"
+	Vaultas Alexandria is located in the area Alexandria MN, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 05-03-2014.",Vaultas Alexandria,USA,Minnesota,56308,Alexandria,Vaultas Alexandria,Vaultas
+"
+	Vaultas St. Cloud is located in the area St. Cloud, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 05-03-2014.",Vaultas St. Cloud,USA,Minnesota,56303,St. Cloud,Vaultas St. Cloud,Vaultas
+"
+	Civicos Networking Main is located in the area Canary Islands (Canaries), spain (España), and the colocation data center is not  carrier neutral. The data center was last updated on 30-10-2011.",Civicos Networking Main,spain,,38205,La Laguna,Civicos Networking Main,Civicos Networking
+"
+	Comtec House is located in the area Reigate, United Kingdom (UK), and the colocation data center is  carrier neutral. The data center was last updated on 31-10-2011.",Comtec House,United Kingdom,Surrey,RH2 9EL,Reigate,Comtec House,Sargasso Networks Inc.
+"
+	ACME Cloud Centre (Connet) is located in the area Hong Kong, Hong Kong (Hong Kong, SAR of China), and the colocation data center is  carrier neutral. The data center was last updated on 14-05-2013.",ACME Cloud Centre (Connet),Hong Kong,,N/A,Hong Kong,ACME Cloud Centre (Connet),ACME Universal Communications
+"
+	Holly Data Center is located in the area Kansas City MO, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 06-01-2012.",Holly Data Center,USA,Missouri,64108,Kansas City,Holly Data Center,KC NAP
+"
+	Nexus Management is located in the area Brunswick, USA (America), and the colocation data center is  carrier neutral. The data center was last updated on 10-01-2012.",Nexus Management,USA,Maine,04011,Brunswick,Nexus Management,"Nexus Management, Inc."
+"
+	ACME Cloud Centre (China) is located in the area Shenzhen, China, and the colocation data center is not  carrier neutral. The data center was last updated on 14-05-2013.",ACME Cloud Centre (China),China,,N/A,Shenzhen,ACME Cloud Centre (China),ACME Universal Communications
+"
+	Sentrum Colo Hayes is located in the area London, United Kingdom (UK), and the colocation data center is  carrier neutral. The data center was last updated on 21-05-2014.",Sentrum Colo Hayes,United Kingdom,London,UB4 0SL,Hayes,Sentrum Colo Hayes,Sentrum Colo Ltd
+"
+	Oliver Street, LLC is located in the area Indianapolis, USA (America).","Oliver Street, LLC",,,,,,
+"
+	Netwise Hosting London South is located in the area London, United Kingdom (UK), and the colocation data center is not  carrier neutral. The data center was last updated on 21-05-2014.",Netwise Hosting London South,United Kingdom,Surrey,SM1 4SL,Sutton,Netwise Hosting London South,Netwise Hosting
+"
+	VERnet DC is located in the area Riga, Latvia (Latvija), and the colocation data center is not  carrier neutral. The data center was last updated on 08-11-2011.",VERnet DC,Latvia,,LV-1011,Riga,VERnet DC,Versija Ltd.
+"
+	CDrom is located in the area Jura, Switzerland (Schweiz), and the colocation data center is  carrier neutral. The data center was last updated on 18-11-2011.",CDrom,Switzerland,,2340,Le Noirmont,CDrom,CDROM
+"
+	Accelerated IT Services is located in the area Frankfurt (Frankfurt am Main), Germany (Deutschland), and the colocation data center is not  carrier neutral. The data center was last updated on 07-06-2012.",Accelerated IT Services,Germany,,60388,Frankfurt am Main,Accelerated IT Services,Accelerated IT Services GmbH

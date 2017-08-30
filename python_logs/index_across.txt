@@ -1,0 +1,51 @@
+import json
+import csv
+import os
+
+output_path = r'C:\Users\orzoc\bestiario\databases_scrap\scrapper\outputs'
+profiles_path = r'C:\Users\orzoc\bestiario\databases_scrap\scrapper\outputs\profiles'
+json_path = r'C:\Users\orzoc\bestiario\databases_scrap\scrapper\jsons'
+
+files = [file for file in os.listdir(profiles_path) if 'profiles' in file]
+
+profiles_matrix = []
+
+for file in files:
+    with open(profiles_path + '/' + file,'r') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            profiles_matrix.append(row)
+
+points_json = json.load(open(json_path + '/objects.geojson','r'))
+
+index = []
+
+with open(output_path + '/index.csv','r') as file:
+    reader = csv.DictReader(file)
+    for row in reader:
+        index.append(row)
+
+main = []
+
+for row in index:
+    new_row = {}
+    new_row['url'] = row['url']
+    for feature in points_json['features']:
+        if int(feature['properties']['id']) == int(row['id']):
+            new_row['coordinates'] = {}
+            new_row['coordinates']['lat'] = feature['geometry']['coordinates'][1]
+            new_row['coordinates']['lng'] = feature['geometry']['coordinates'][0]
+	    new_row['type'] = feature['properties']['type']
+ 	    new_row['type_text'] = feature['properties']['type_text']
+    for line in profiles_matrix:
+        if row['name'] in line['title']:
+            for key,val in line.items():
+                new_row[key] = val
+    main.append(new_row)
+
+with open(output_path + '/main.csv','w') as outfile:
+    titles = main[0].keys()
+    writer = csv.DictWriter(outfile, fieldnames=titles)
+    writer.writeheader()
+    for row in main:
+        writer.writerow(row)

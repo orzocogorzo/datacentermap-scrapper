@@ -1,0 +1,2599 @@
+{
+	"type": "FeatureCollection",
+	"features": [{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [138.58429,
+			-34.930979]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "adelaide"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [72.56602,
+			23.039574]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "ahmedabad"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.519005,
+			41.081445]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "akron"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-8.583535,
+			38.681039]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "alentejo"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [35.901947,
+			31.957833]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "amman"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [4.814758,
+			52.366376]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "amsterdam"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [32.489975,
+			34.754452]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "anatoliko"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [30.70563,
+			36.88414]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "antalya"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-77.490005,
+			39.039986]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "ashburn"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-82.554155,
+			35.581699]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "asheville"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [23.716647,
+			37.97918]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "athens"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-84.396973,
+			33.776864]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "atlanta"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [77.594376,
+			12.971606]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "bangalore"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [100.476232,
+			13.723419]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "bangkok"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [2.156067,
+			41.383506]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "barcelona"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-9.079072,
+			38.660815]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "barreiro"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [7.599106,
+			47.564944]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "basel"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [116.408198,
+			39.904667]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "beijing"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-5.930109,
+			54.597269]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "belfast"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-5.927981499999987,
+			54.6024945]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "belfast"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.669953,
+			45.694903]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "bergamo"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-0.997009,
+			51.438601]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "berkshire"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [13.408813,
+			52.521235]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "berlin"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-1.893621,
+			52.482932]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "birmingham-uk"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-1.890401,
+			52.486243]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "birmingham-uk"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.79999999999995,
+			-6.6]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "bogor"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-74.092484,
+			4.638616]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "bogota"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-116.244278,
+			43.600284]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "boise"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-71.060944,
+			42.385937]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "boston"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [153.06839,
+			-27.514361]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "brisbane"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [4.364319,
+			50.837167]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "brussels"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-78.85437,
+			42.88804]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "buffalo"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [31.2272,
+			30.0571]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "cairo"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-114.062438,
+			51.055149]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "calgary"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [0.131237,
+			52.202544]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "cambridge"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [149.12858,
+			-35.28204]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "canberra"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-66.902061,
+			10.491016]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "caracas"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-7.596359,
+			33.577366]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "casablanca"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.930922,
+			32.776566]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "charleston"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-2.071308,
+			51.897991]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "cheltenham"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [12.921369700000014,
+			50.827845]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "chemnitz"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-87.8302,
+			42.020733]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "chicago"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-82.998962,
+			40.000268]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "columbus"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [12.490082,
+			55.693068]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "copenhagen"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-49.273252,
+			-25.428356]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "curitiba"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [101.657381,
+			2.925088]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "cyberjaya"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-96.981812,
+			32.833443]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "dallas"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-104.974365,
+			39.759991]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "denver"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-93.650208,
+			41.591824]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "des-moines"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-83.196716,
+			42.415346]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "detroit"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-4.482106,
+			54.166997]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "douglas"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [1.3708890000000338,
+			48.736134]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "dreux"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [55.317535,
+			25.258359]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "dubai"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-6.278687,
+			53.347272]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "dublin"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-92.100485,
+			46.786672]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "duluth"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [6.789551,
+			51.165567]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "duesseldorf"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-78.72474260000001,
+			40.4850717]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "ebensburg"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-118.397598,
+			33.913164]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "el-segundo"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [11.02988,
+			50.984768]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "erfurt"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [0.502625,
+			51.76274]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "essex"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [77.31778940000004,
+			28.4089123]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "faridabad"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-5.0,
+			34.033333]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "fez"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-83.680115,
+			43.008664]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "flint"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [8.536377,
+			50.106488]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "frankfurt"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-78.65451000000002,
+			26.52964]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "freeport"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [130.401715,
+			33.590355]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "fukuoka"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [7.285596599999963,
+			61.40830769999999]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "gaupne"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [6.130371,
+			46.149394]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "geneva"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [6.021078,
+			46.243572]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "geneva-fr"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.37504577636719,
+			19.289390288680437]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "george-town"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-5.34811,
+			36.130924]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "gibraltar"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-4.257223,
+			55.865627]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "glasgow"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-49.26763,
+			-16.677715]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "goiania"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-85.665894,
+			42.94235]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "grand-rapids"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [20.610896799999978,
+			52.1005063]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "grodzisk-mazowiecki"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [6.559525,
+			53.215902]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "groningen"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.975586,
+			53.514185]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "hamburg"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [48.53873229999999,
+			34.8005397]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "hamedan"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.869053,
+			43.256692]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "hamilton"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [175.279253,
+			-37.787001]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "hamilton-nz"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [105.854694,
+			21.02425]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "hanoi"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-89.312312,
+			31.303588]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "hattiesburg"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [24.936218,
+			60.190695]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "helsinki"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [132.455293,
+			34.385203]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "hiroshima"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.659393,
+			10.780698]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "ho-chi-minh-city"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [147.337646,
+			-42.87999]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "hobart"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [114.124603,
+			22.372936]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "hong-kong"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-74.094543,
+			40.738413]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "hudson-county"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-117.847595,
+			33.655781]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "irvine"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [28.975926,
+			41.012379]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "istanbul"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [75.797424,
+			26.907294]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "jaipur"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [106.83041,
+			-6.197515]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "jakarta"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [11.587011,
+			50.926999]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "jena"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.318244,
+			27.702871]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "kathmandu"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [85.318244,
+			27.702871]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "kathmandu"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [139.724171,
+			35.807738]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "kawaguchi"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [15.317688,
+			-4.330664]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "kinshasa"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [10.803890499999966,
+			59.8105598]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "kolbotn"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [8.005943298339844,
+			58.14931830597335]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "kristiansand"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [47.944336,
+			29.209713]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "kuwait-city"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [3.395833,
+			6.453056]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "lagos"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [33.623172299999965,
+			34.9002535]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "larnaca"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-115.172424,
+			36.166705]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "las-vegas"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-1.54911,
+			53.799637]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "leeds"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-1.129443,
+			52.63457]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "leicester"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [12.371301,
+			51.33968]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "leipzig"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [3.6015207000000373,
+			6.4589849]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "lekki"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-112.84184,
+			49.69349]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "lethbridge"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-0.19997,
+			53.217882]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "lincolnshire"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [15.621373,
+			58.410807]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "linkoping"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-9.140625,
+			38.702659]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "lisbon"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [14.505966,
+			46.051426]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "ljubljana"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-0.142822,
+			51.467697]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "london"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-117.855835,
+			33.838483]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "los-angeles"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [8.315613,
+			47.050335]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "lucerne"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [75.85727580000002,
+			30.900965]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "ludhiana"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [4.838104,
+			45.766565]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "lyon"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-3.658447,
+			40.405131]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "madrid"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-2.248077,
+			53.480282]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "manchester"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-71.548805,
+			42.348903]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "marlborough"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [5.398407,
+			43.307192]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "marseille"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [145.041504,
+			-37.874853]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "melbourne"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.177704,
+			45.468799]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "milan"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-0.69957,
+			52.044041]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "milton-keynes"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-93.208008,
+			44.964798]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "minneapolis"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-73.674316,
+			45.521744]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "montreal"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [37.619934,
+			55.739482]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "moscow"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-119.29573059082031,
+			47.13923067964535]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "moses-lake"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [72.856178,
+			19.017656]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "mumbai"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [11.557617,
+			48.136767]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "munich"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [136.906398,
+			35.181446]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "nagoya"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [127.68911,
+			26.22853]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "naha"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [36.813106,
+			-1.274359]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "nairobi"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-1.553192,
+			47.219568]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "nantes"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-86.777573,
+			36.167814]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "nashville"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-77.345,
+			25.06]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "nassau"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-74.439899,
+			40.487206]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "new-brunswick"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [77.229767,
+			28.634997]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "new-delhi"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-73.922882,
+			40.761821]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "new-york"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-74.226379,
+			40.699381]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "newark"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-1.547699,
+			54.958694]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "newcastle"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [33.366667,
+			35.166667]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "nicosia"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [77.39102649999995,
+			28.5355161]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "noida"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-0.836974,
+			52.310536]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "northamptonshire"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-1.14931,
+			52.955108]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "nottingham"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-1.7728260000000091,
+			46.536402]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "olonne-sur-mer"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.393585,
+			28.5411]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "orlando"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [1.909251,
+			47.902964]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "orleans"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [135.502165,
+			34.693738]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "osaka"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [10.739136,
+			59.908222]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "oslo"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-75.698194,
+			45.411572]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "ottawa"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [6.311646,
+			52.449314]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "overijssel"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [139.800131,
+			36.314671]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "oyama"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.51149,
+			9.021406]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "panama-city"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [2.334595,
+			48.839413]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "paris"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [115.86731,
+			-31.982453]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "perth"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-75.154724,
+			39.958175]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "philadelphia"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-111.997375,
+			33.461234]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "phoenix"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-74.472542,
+			40.5412]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "piscataway"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [21.481283,
+			65.318146]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "pitea"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.944763,
+			40.438586]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "pittsburgh"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [25.56995,
+			-33.93264]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "port-elizabeth"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [16.925812,
+			52.404932]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "poznan"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [73.856621,
+			18.520469]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "pune"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-71.267624,
+			46.795359]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "quebec"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-78.64263,
+			35.78552]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "raleigh"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [49.583055599999966,
+			37.2808333]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "rasht"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-75.932693,
+			40.334507]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "reading"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-21.89521,
+			64.135338]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "reykjavik"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [24.098511,
+			56.947221]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "riga"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [46.708374,
+			24.676803]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "riyadh"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [4.465321,
+			51.535849]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "roosendaal"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [4.468689,
+			51.919285]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "rotterdam"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-81.909826,
+			35.425874]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "rutherford"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-121.419525,
+			38.611505]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "sacramento"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [4.898102,
+			46.071935]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "saint-trivier-sur-moignans"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-111.888189,
+			40.771592]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "salt-lake-city"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-98.511658,
+			29.473079]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "san-antonio"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-122.401428,
+			37.790252]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "san-francisco"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-121.946869,
+			37.339592]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "san-jose"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-84.082012,
+			9.927128]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "san-jose-cr"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-121.948242,
+			37.343959]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "santa-clara"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-63.197418,
+			-17.78879]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "santa-cruz-de-la-sierra"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-105.937799,
+			35.686975]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "santa-fe"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-46.638818,
+			-23.548943]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "sao-paulo"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [141.354376,
+			43.062096]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "sapporo"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-122.349243,
+			47.602459]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "seattle"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [140.869356,
+			38.268215]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "sendai"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.475916,
+			31.224353]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "shanghai"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-1.464795,
+			53.383055]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "sheffield"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [114.057868,
+			22.543099]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "shenzhen"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [103.854446,
+			1.300052]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "singapore"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-0.595665,
+			51.509918]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "slough"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [23.345947,
+			42.703632]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "sofia"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-93.304138,
+			37.199706]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "springfield"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [14.44904,
+			35.881602]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "st-venera"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-64.83787536621094,
+			17.719255894595467]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "st-croix"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-90.31311,
+			38.664067]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "st-louis"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-77.405891,
+			38.999576]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "sterling"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [18.07251,
+			59.328987]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "stockholm"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [33.359836599999994,
+			35.1338417]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "strovolos"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.180107,
+			48.777687]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "stuttgart"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [112.734398,
+			-7.289166]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "surabaya"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-1.779718,
+			51.555774]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "swindon"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [151.169128,
+			-33.870416]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "sydney"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [114.164743,
+			22.440897]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "tai-po"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [121.541748,
+			25.024557]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "taipei"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-82.54303,
+			27.953165]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "tampa"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [51.422945,
+			35.696216]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "tehran"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [21.23,
+			45.759722]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "timisoara"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [139.872437,
+			35.85344]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "tokyo"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [7.661591,
+			45.065762]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "torino"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-79.420166,
+			43.723475]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "toronto"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [1.429596,
+			43.601279]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "toulouse"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [146.79553985595703,
+			-19.279106798451497]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "townsville"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-110.943959,
+			32.227832]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "tucson"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [21.871206,
+			61.42851]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "ulvila"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [5.122748,
+			52.091262]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "utrecht"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.520168,
+			47.141161]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "vaduz"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-122.816162,
+			49.188884]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "vancouver"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [16.347656,
+			48.151428]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "vienna"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-77.258778,
+			38.900452]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "vienna-virginia"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [28.46821699999998,
+			49.233083]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "vinnytsia"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-1.50135,
+			53.682679]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "wakefield"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [21.012229,
+			52.229676]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "warsaw"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-77.01004,
+			38.889964]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "washington-dc"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-120.324728,
+			47.426178]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "wenatchee"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-75.546589,
+			39.745947]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "wilmington"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-97.152921,
+			49.886083]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "winnipeg"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-0.563736,
+			51.316337]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "woking"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [150.893149,
+			-34.425073]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "wollongong"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [9.953572,
+			49.791595]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "wuerzburg"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [139.638026,
+			35.443708]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "yokohama"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [-80.650648,
+			41.09832]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "youngstown"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [8.515414,
+			47.166192]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "zug"
+		}
+	},
+	{
+		"geometry": {
+			"type": "Point",
+			"coordinates": [8.524017,
+			47.394631]
+		},
+		"type": "Feature",
+		"properties": {
+			"city": "zurich"
+		}
+	}]
+}

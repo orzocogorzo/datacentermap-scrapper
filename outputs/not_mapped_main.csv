@@ -1,0 +1,237 @@
+lat,city,lng,name
+-34.930979,Adelaide,138.58429,amcom Adelaide
+23.039574,Ahmedabad,72.56602,Sify Technologies Ltd
+41.081445,Akron,-81.519005,Involta-Akron
+38.681039,Alentejo,-8.583535,Evora
+31.957833,Amman,35.901947,Zain Jordan Co-Location DC
+52.366376,Amsterdam,4.814758,Interxion AMS1 (Amsterdam)
+34.754452,Anatoliko,32.489975,Paphos (Landing Station)
+36.88414,Antalya,30.70563,Teknet Data Center
+39.039986,Ashburn,-77.490005,DuPont Fabros ACC4
+35.581699,Asheville,-82.554155,Automated Results Data Center
+37.97918,Athens,23.716647,LAMDA HELLIX Athens 1
+33.776864,Atlanta,-84.396973,CenturyLink AT1
+12.971606,Bangalore,77.594376,India Bangalore 2 Data Center
+13.723419,Bangkok,100.476232,Thailand Bangkok 1 Data Center
+41.383506,Barcelona,2.156067,Colt Barcelona 1
+38.660815,Barreiro,-9.079072,100LIMITE
+47.564944,Basel,7.599106,Quickline Datacube
+39.904667,Beijing,116.408198,TELEHOUSE Beijing BDA - 2
+54.597269,Belfast,-5.930109,Biznet IIS Limited
+54.6024945,Belfast,-5.927981499999987,Biznet IIS Limited
+45.694903,Bergamo,9.669953,Bergamo DC
+51.438601,Berkshire,-0.997009,iomart Maidenhead
+52.521235,Berlin,13.408813,"Colt Berlin, Tiergarten"
+52.482932,,-1.893621,
+52.486243,,-1.890401,
+-6.6,Bogor,106.79999999999995,Telkomsigma Data Center Sentul
+4.638616,Bogota,-74.092484,NXnet Colombia
+43.600284,Boise,-116.244278,Involta-Boise
+42.385937,Boston,-71.060944,CenturyLink BO1
+-27.514361,Brisbane,153.06839,Metronode Brisbane 1
+50.837167,Brussels,4.364319,"Interxion BRU1 (Brussels, Belgium)"
+42.88804,Buffalo,-78.85437,Victory Technology Center
+30.0571,Cairo,31.2272,GPX MEIX Cairo
+51.055149,Calgary,-114.062438,1313
+52.202544,Cambridge,0.131237,OCSL Managed Services
+-35.28204,Canberra,149.12858,Metronode Canberra 1
+10.491016,Caracas,-66.902061,Gconex.net
+33.577366,Casablanca,-7.596359,Etix Casablanca #1
+32.776566,Charleston,-79.930922,EBS Data
+51.897991,Cheltenham,-2.071308,Safehosts Cheltenham
+50.827845,Chemnitz,12.921369700000014,Datacenter Chemnitz
+42.020733,Chicago,-87.8302,CenturyLink CH2
+40.000268,Columbus,-82.998962,CenturyLink CL1
+55.693068,Copenhagen,12.490082,Interxion CPH1 (Copenhagen)
+-25.428356,Curitiba,-49.273252,ASAWEB
+2.925088,Cyberjaya,101.657381,Malaysia Cyberjaya 2 Data Center
+32.833443,Dallas,-96.981812,ViaWest - Plano 1
+39.759991,Denver,-104.974365,CenturyLink DN1
+41.591824,,-93.650208,
+42.415346,Detroit,-83.196716,Riverfront DC1
+54.166997,Douglas,-4.482106,Continent 8 Isle of Man
+48.736134,Dreux,1.3708890000000338,DCH1
+25.258359,Dubai,55.317535,Equinix Dubai (DX1)
+53.347272,Dublin,-6.278687,"Interxion DUB1 (Dublin, Ireland)"
+46.786672,Duluth,-92.100485,Involta-Duluth
+51.165567,,6.789551,
+40.4850717,Ebensburg,-78.72474260000001,viLogics_South Park Building
+33.913164,,-118.397598,
+50.984768,Erfurt,11.02988,Keyweb Data Center
+51.76274,Essex,0.502625,Chunky DC1
+28.4089123,Faridabad,77.31778940000004,Faridabad DC
+34.033333,Fez,-5.0,HOSTOWEB.COM
+43.008664,Flint,-83.680115,Riverfront DC2
+50.106488,Frankfurt,8.536377,"Interxion FRA1 (Frankfurt, Germany)"
+26.52964,Freeport,-78.65451000000002,Freeport IDC
+33.590355,Fukuoka,130.401715,TELEHOUSE Fukuoka
+61.40830769999999,Gaupne,7.285596599999963,BlueFjords AS
+46.149394,Geneva,6.130371,Equinix Geneva
+46.243572,,6.021078,
+19.289390288680437,,-81.37504577636719,
+36.130924,Gibraltar,-5.34811,Continent 8 Gibraltar
+55.865627,Glasgow,-4.257223,Iomart Glasgow DC1
+-16.677715,Goiania,-49.26763,Link Data Center
+42.94235,,-85.665894,
+52.1005063,,20.610896799999978,
+53.215902,Groningen,6.559525,Data Hotel Eemshaven
+53.514185,Hamburg,9.975586,"Colt Hamburg, Gross Borstel"
+34.8005397,Hamedan,48.53873229999999,Mizban Gostar dade alvand
+43.256692,Hamilton,-79.869053,AllCore.ca Hamilton Data Center
+-37.787001,,175.279253,
+21.02425,Hanoi,105.854694,TELEHOUSE Vietnam Hanoi
+31.303588,Hattiesburg,-89.312312,MegaGate Broadband Data Center
+60.190695,Helsinki,24.936218,Mediam Helsinki DC
+34.385203,Hiroshima,132.455293,TELEHOUSE Hiroshima
+10.780698,,106.659393,
+-42.87999,Hobart,147.337646,BBW Telecom
+22.372936,,114.124603,
+40.738413,,-74.094543,
+33.655781,Irvine,-117.847595,Aecero
+41.012379,Istanbul,28.975926,Sadecehosting.Com Ist2
+26.907294,Jaipur,75.797424,Jaipur DC
+-6.197515,Jakarta,106.83041,Telkomsigma Data Center Serpong
+50.926999,Jena,11.587011,ISPpro RZJ1-B
+27.702871,Kathmandu,85.318244,Government Integrated Data Center
+27.702871,Kathmandu,85.318244,Government Integrated Data Center
+35.807738,Kawaguchi,139.724171,Saitama No. 1 Data Center
+-4.330664,Kinshasa,15.317688,GBSDC1
+59.8105598,Kolbotn,10.803890499999966,DigiPlex Rosenholm
+58.14931830597335,Kristiansand,8.005943298339844,NO1
+29.209713,,47.944336,
+6.453056,Lagos,3.395833,MDXi Lekki DC
+34.9002535,Larnaca,33.623172299999965,NSCY04
+36.166705,,-115.172424,
+53.799637,Leeds,-1.54911,Computacenter - Leeds
+52.63457,Leicester,-1.129443,iomart Leicester
+51.33968,Leipzig,12.371301,Datacenter Leipzig
+6.4589849,Lekki,3.6015207000000373,MainData Nigeria Limited (MDXi)
+49.69349,Lethbridge,-112.84184,LDC01
+53.217882,Lincolnshire,-0.19997,Smartbunker
+58.410807,,15.621373,
+38.702659,Lisbon,-9.140625,ALLBS
+46.051426,Ljubljana,14.505966,Datacenter DC02
+51.467697,London,-0.142822,"Interxion LON1 (London, UK)"
+33.838483,,-117.855835,
+47.050335,Lucerne,8.315613,DC LuZ Luzern Mitte
+30.900965,Ludhiana,75.85727580000002,Ludhiana DC
+45.766565,Lyon,4.838104,SHD - SOLUTION HEBERGEMENT DURABLE
+40.405131,Madrid,-3.658447,"Interxion MAD1 (Madrid, Spain)"
+53.480282,Manchester,-2.248077,Computacenter - Manchester
+42.348903,Marlborough,-71.548805,SunGard 250 Locke
+43.307192,Marseille,5.398407,"Interxion MRS1 (Marseille, France)"
+-37.874853,Melbourne,145.041504,530 Collins St
+45.468799,Milan,9.177704,"Colt Milan, Lancetti"
+52.044041,,-0.69957,
+44.964798,Minneapolis,-93.208008,CenturyLink MP2
+45.521744,Montreal,-73.674316,CenturyLink MR1
+55.739482,Moscow,37.619934,SAFEDATA Moscow-I
+47.13923067964535,,-119.29573059082031,
+19.017656,Mumbai,72.856178,GPX Mumbai
+48.136767,Munich,11.557617,Equinix Münich #1
+35.181446,Nagoya,136.906398,Nagoya Daikancho  Data Center
+26.22853,Naha,127.68911,TELEHOUSE Naha
+-1.274359,Nairobi,36.813106,Gestalt Gild
+47.219568,Nantes,-1.553192,Etix Nantes #1
+36.167814,Nashville,-86.777573,Nexus NREP
+25.06,Nassau,-77.345,Nassau IDC
+40.487206,,-74.439899,
+28.634997,,77.229767,
+40.761821,,-73.922882,
+40.699381,Newark,-74.226379,Equinix Newark
+54.958694,Newcastle,-1.547699,DC1 Cobalt data Campus
+35.166667,Nicosia,33.366667,NSCY01
+28.5355161,Noida,77.39102649999995,India Noida Data Cnter
+52.310536,Northamptonshire,-0.836974,Node4 (Northampton)
+52.955108,Nottingham,-1.14931,iomart Nottingham
+46.536402,,-1.7728260000000091,
+28.5411,Orlando,-81.393585,DataSite Orlando
+47.902964,Orleans,1.909251,SCITIS-ZEN
+34.693738,Osaka,135.502165,Osaka 5  Data Center
+59.908222,Oslo,10.739136,Broadnet Colocation Oslo
+45.411572,Ottawa,-75.698194,Ottawa-Headquarters
+52.449314,Overijssel,6.311646,Equinix Enschede
+36.314671,Oyama,139.800131,TELEHOUSE Oyama
+9.021406,,-79.51149,
+48.839413,Paris,2.334595,"Interxion PAR1 (Paris, France)"
+-31.982453,Perth,115.86731,amcom Osborne Park
+39.958175,Philadelphia,-75.154724,Keystone NAP 1
+33.461234,Phoenix,-111.997375,Phoenix AZ
+40.5412,Piscataway,-74.472542,24Shells NJ1
+65.318146,Pitea,21.481283,Fortlax
+40.438586,Pittsburgh,-79.944763,Management Science Associates
+-33.93264,,25.56995,
+52.404932,Poznan,16.925812,itelligence data center
+18.520469,Pune,73.856621,Hostin Services Private Limited
+46.795359,Quebec,-71.267624,MegaQuebec Internet Data Center
+35.78552,Raleigh,-78.64263,Sentinel NC-1
+37.2808333,Rasht,49.583055599999966,Negah Roshan Pars - Nrp Network
+40.334507,Reading,-75.932693,IPR Reading BCC
+64.135338,Reykjavik,-21.89521,Basis
+56.947221,Riga,24.098511,"LVRTC Data Center ""Zakusala"""
+24.676803,Riyadh,46.708374,Gateway Gulf
+51.535849,Roosendaal,4.465321,"Colt Rotterdam, Roosendaal"
+51.919285,Rotterdam,4.468689,BT DC Rotterdam
+35.425874,Rutherford,-81.909826,Rutherford NC Data Center
+38.611505,Sacramento,-121.419525,Gold Data Centers
+46.071935,,4.898102,
+40.771592,,-111.888189,
+29.473079,,-98.511658,
+37.790252,,-122.401428,
+37.339592,,-121.946869,
+9.927128,,-84.082012,
+37.343959,,-121.948242,
+-17.78879,,-63.197418,
+35.686975,,-105.937799,
+-23.548943,,-46.638818,
+43.062096,Sapporo,141.354376,TELEHOUSE Sapporo
+47.602459,Seattle,-122.349243,Adtaq Issaquah
+38.268215,Sendai,140.869356,TELEHOUSE Sendai
+31.224353,Shanghai,121.475916,Shanghai Pudong Data Center
+53.383055,Sheffield,-1.464795,Sheffield Data Centre
+22.543099,Shenzhen,114.057868,Pacnet Shenzen(SZDS1)
+1.300052,Singapore,103.854446,CenturyLink SG8
+51.509918,Slough,-0.595665,Equinix LD4 Slough
+42.703632,Sofia,23.345947,TelecityGroup (Sofia-1)
+37.199706,Springfield,-93.304138,SpringNet Underground
+35.881602,,14.44904,
+17.719255894595467,,-64.83787536621094,
+38.664067,,-90.31311,
+38.999576,Sterling,-77.405891,CenturyLink DC2
+59.328987,Stockholm,18.07251,"Interxion STO1 (Stockholm, Sweden)"
+35.1338417,Strovolos,33.359836599999994,LogosNet
+48.777687,Stuttgart,9.180107,Centralsystems GmbH  - Stuttgart 1
+-7.289166,Surabaya,112.734398,Telkomsigma Data Center Surabaya
+51.555774,Swindon,-1.779718,Eduserv Swindon
+-33.870416,Sydney,151.169128,Australia Sydney 1 Data Center
+22.440897,,114.164743,
+25.024557,Taipei,121.541748,iVisions DC2
+27.953165,Tampa,-82.54303,CenturyLink TP1
+35.696216,Tehran,51.422945,MahanServer
+45.759722,Timisoara,21.23,LiveHosting Datacenter
+35.85344,Tokyo,139.872437,CenturyLink TY6
+45.065762,Torino,7.661591,"Colt Turin, Livorno"
+43.723475,Toronto,-79.420166,CenturyLink TR1
+43.601279,Toulouse,1.429596,NFrance Ramonville
+-19.279106798451497,Townsville,146.79553985595703,On Q Townsville CBD
+32.227832,Tucson,-110.943959,Involta-Tucson
+61.42851,Ulvila,21.871206,Ficolo
+52.091262,Utrecht,5.122748,BT DC Nieuwegein
+47.141161,Vaduz,9.520168,ICT-Center Vaduz
+49.188884,Vancouver,-122.816162,CenturyLink VC1
+48.151428,Vienna,16.347656,"Interxion VIE1 (Vienna, Austria)"
+38.900452,,-77.258778,
+49.233083,Vinnytsia,28.46821699999998,DC-16
+53.682679,Wakefield,-1.50135,Node4 (Leeds)
+52.229676,Warsaw,21.012229,TelecityGroup Warsaw-1 (LIM)
+38.889964,,-77.01004,
+47.426178,Wenatchee,-120.324728,ASICSPACE Bitcoin Data Center
+39.745947,Wilmington,-75.546589,RAYNET WILMINGTON DE
+49.886083,Winnipeg,-97.152921,Manitoba Hydro Telecom
+51.316337,Woking,-0.563736,SunGard TC3 - Woking
+-34.425073,Wollongong,150.893149,Metronode Illawarra 1
+49.791595,Wuerzburg,9.953572,Datacenter Mainfranken
+35.443708,Yokohama,139.638026,Yokohama No. 1 Data Center
+41.09832,Youngstown,-80.650648,DRS Youngstown South Datacenter
+47.166192,Zug,8.515414,Lets Host Datacenter
+47.394631,,8.524017,

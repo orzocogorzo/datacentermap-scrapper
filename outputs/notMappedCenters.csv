@@ -1,0 +1,519 @@
+url,city,name
+http://www.datacentermap.com/australia/adelaide/metronode-adelaide-1.html,Adelaide,Metronode Adelaide 1
+http://www.datacentermap.com/australia/adelaide/amcom-adelaide.html,Adelaide,amcom Adelaide
+http://www.datacentermap.com/cyprus/anatoliko/paphos-landing-station.html,Anatoliko,Paphos (Landing Station)
+http://www.datacentermap.com/portugal/alentejo/evora.html,Alentejo,Evora
+http://www.datacentermap.com/turkey/antalya/teknet.html,Antalya,Teknet Data Center
+http://www.datacentermap.com/india/ahmedabad/sify-technologies.html,Ahmedabad,Sify Technologies Ltd
+http://www.datacentermap.com/jordan/amman/zain-co-location-dc.html,Amman,Zain Jordan Co-Location DC
+http://www.datacentermap.com/usa/virginia/ashburn/ntta-asbburn.html,Ashburn,Virginia Ashburn Data Center
+http://www.datacentermap.com/usa/ohio/akron/involta-akron.html,Akron,Involta-Akron
+http://www.datacentermap.com/the-netherlands/amsterdam/media-gateway.html,Amsterdam,Media Gateway
+http://www.datacentermap.com/usa/virginia/ashburn/net2ez-iad4.html,Ashburn,NetDC IAD4 Data Center
+http://www.datacentermap.com/usa/virginia/ashburn/net2ez-iad1.html,Ashburn,NetDC IAD1 Data Center
+http://www.datacentermap.com/usa/virginia/ashburn/equinix-dc6.html,Ashburn,Equinix DC6
+http://www.datacentermap.com/usa/virginia/ashburn/equinix-ashburn4.html,Ashburn,Equinix DC4
+http://www.datacentermap.com/usa/virginia/ashburn/equinix-ashburn3.html,Ashburn,Equinix DC3
+http://www.datacentermap.com/usa/virginia/ashburn/equinix-ashburn2.html,Ashburn,Equinix DC2
+http://www.datacentermap.com/usa/virginia/ashburn/equinix-dc11.html,Ashburn,Equinix DC11
+http://www.datacentermap.com/usa/virginia/ashburn/equinix-dc10.html,Ashburn,Equinix DC10
+http://www.datacentermap.com/usa/virginia/ashburn/equinix-ashburn1.html,Ashburn,Equinix DC1
+http://www.datacentermap.com/usa/virginia/ashburn/dupont-fabros-acc5.html,Ashburn,DuPont Fabros ACC5
+http://www.datacentermap.com/usa/virginia/ashburn/dupont-fabros-acc4.html,Ashburn,DuPont Fabros ACC4
+http://www.datacentermap.com/the-netherlands/amsterdam/global-switch-amsterdam.html,Amsterdam,Global Switch Amsterdam
+http://www.datacentermap.com/the-netherlands/amsterdam/equinix-am3.html,Amsterdam,Equinix AM3
+http://www.datacentermap.com/the-netherlands/amsterdam/equinix-am2.html,Amsterdam,Equinix AM2
+http://www.datacentermap.com/the-netherlands/amsterdam/virtu-amsterdam.html,Amsterdam,Equinix AM1
+http://www.datacentermap.com/the-netherlands/amsterdam/colt-amsterdam2.html,Amsterdam,"Colt Amsterdam, Oud-Zuid"
+http://www.datacentermap.com/the-netherlands/amsterdam/colt-amsterdam1.html,Amsterdam,"Colt Amsterdam, Duivendrecht"
+http://www.datacentermap.com/the-netherlands/amsterdam/bt-dc-amsterdam.html,Amsterdam,BT DC Amsterdam
+http://www.datacentermap.com/the-netherlands/amsterdam/interxion-ams7.html,Amsterdam,Interxion AMS7 (Amsterdam)
+http://www.datacentermap.com/the-netherlands/amsterdam/interxion-ams6.html,Amsterdam,Interxion AMS6 (Amsterdam)
+http://www.datacentermap.com/the-netherlands/amsterdam/interxion-ams5.html,Amsterdam,Interxion AMS5 (Amsterdam)
+http://www.datacentermap.com/the-netherlands/amsterdam/interxion-amsterdam4.html,Amsterdam,Interxion AMS4 (Amsterdam)
+http://www.datacentermap.com/the-netherlands/amsterdam/interxion-amsterdam3.html,Amsterdam,Interxion AMS3 (Amsterdam)
+http://www.datacentermap.com/the-netherlands/amsterdam/interxion-amsterdam2.html,Amsterdam,Interxion AMS2 (Amsterdam)
+http://www.datacentermap.com/the-netherlands/amsterdam/interxion-amsterdam1.html,Amsterdam,Interxion AMS1 (Amsterdam)
+http://www.datacentermap.com/usa/north-carolina/asheville/automated-results-data-center.html,Asheville,Automated Results Data Center
+http://www.datacentermap.com/greece/athens/athens-2.html,Athens,LAMDA HELLIX Athens 2
+http://www.datacentermap.com/usa/georgia/atlanta/equinix-at3.html,Atlanta,Equinix AT3
+http://www.datacentermap.com/india/bangalore/tulip-data-city.html,Bangalore,Tulip Data City
+http://www.datacentermap.com/thailand/bangkok/ntt-thailand.html,Bangkok,Thailand Bangkok 2 Data Center
+http://www.datacentermap.com/spain/barcelona/colt-barcelona1.html,Barcelona,Colt Barcelona 1
+http://www.datacentermap.com/portugal/barreiro/100limite.html,Barreiro,100LIMITE
+http://www.datacentermap.com/switzerland/basel/quickline-datacube.html,Basel,Quickline Datacube
+http://www.datacentermap.com/greece/athens/lamda-hellix-athens-1.html,Athens,LAMDA HELLIX Athens 1
+http://www.datacentermap.com/usa/georgia/atlanta/equinix-at2.html,Atlanta,Equinix AT2
+http://www.datacentermap.com/usa/georgia/atlanta/equinix-at1.html,Atlanta,Equinix AT1
+http://www.datacentermap.com/usa/georgia/atlanta/savvis-at1.html,Atlanta,CenturyLink AT1
+http://www.datacentermap.com/india/bangalore/ntt-bangalore2.html,Bangalore,India Bangalore 2 Data Center
+http://www.datacentermap.com/thailand/bangkok/nttc-thailand-bangna-dc.html,Bangkok,Thailand Bangkok 1 Data Center
+http://www.datacentermap.com/china/beijing/telehouse-beijing-bda.html,Beijing,TELEHOUSE Beijing BDA - 2
+http://www.datacentermap.com/united-kingdom/belfast/dce-titanic-exchange.html,Belfast,DCE Titanic Exchange
+http://www.datacentermap.com/united-kingdom/belfast/dce-titanic-exchange.html,Belfast,DCE Titanic Exchange
+http://www.datacentermap.com/italy/bergamo/bergamo-dc.html,Bergamo,Bergamo DC
+http://www.datacentermap.com/united-kingdom/berkshire/slough-interchange.html,Berkshire,Slough Interchange
+http://www.datacentermap.com/germany/berlin/colt-berlin.html,Berlin,"Colt Berlin, Tiergarten"
+http://www.datacentermap.com/united-kingdom/birmingham-uk/midlands-technology-centre.html,Birmingham UK,VeloxServ Datacentre
+http://www.datacentermap.com/united-kingdom/birmingham-uk/midlands-technology-centre.html,Birmingham UK,VeloxServ Datacentre
+http://www.datacentermap.com/united-kingdom/belfast/biznet-iis.html,Belfast,Biznet IIS Limited
+http://www.datacentermap.com/united-kingdom/belfast/biznet-iis.html,Belfast,Biznet IIS Limited
+http://www.datacentermap.com/united-kingdom/berkshire/iomart-maidenhead.html,Berkshire,iomart Maidenhead
+http://www.datacentermap.com/united-kingdom/birmingham-uk/dce-central-exchange.html,Birmingham UK,DCE Central Exchange
+http://www.datacentermap.com/united-kingdom/birmingham-uk/dce-central-exchange.html,Birmingham UK,DCE Central Exchange
+http://www.datacentermap.com/indonesia/bogor/telkomsigma-sentul.html,Bogor,Telkomsigma Data Center Sentul
+http://www.datacentermap.com/colombia/bogota/nxnet-colombia.html,Bogota,NXnet Colombia
+http://www.datacentermap.com/usa/idaho/boise/involta-boise.html,Boise,Involta-Boise
+http://www.datacentermap.com/usa/massachusetts/boston/switchdata-boston.html,Boston,Equinix BO1
+http://www.datacentermap.com/usa/massachusetts/boston/savvis-bo3.html,Boston,CenturyLink BO3
+http://www.datacentermap.com/usa/massachusetts/boston/savvis-bo2.html,Boston,CenturyLink BO2
+http://www.datacentermap.com/usa/massachusetts/boston/savvis-bo1.html,Boston,CenturyLink BO1
+http://www.datacentermap.com/australia/brisbane/brisbane-1.html,Brisbane,Metronode Brisbane 1
+http://www.datacentermap.com/belgium/brussels/colt-brussels.html,Brussels,Colt Brussels 1
+http://www.datacentermap.com/belgium/brussels/interxion-brussels.html,Brussels,"Interxion BRU1 (Brussels, Belgium)"
+http://www.datacentermap.com/canada/calgary/rigstar-data-center.html,Calgary,Rigstar Data Center
+http://www.datacentermap.com/united-kingdom/cambridge/ocsl-managed-services.html,Cambridge,OCSL Managed Services
+http://www.datacentermap.com/australia/canberra/transact-telehousing.html,Canberra,TransACT Telehousing
+http://www.datacentermap.com/venezuela/caracas/gconexnet.html,Caracas,Gconex.net
+http://www.datacentermap.com/usa/south-carolina/charleston/ebs-data.html,Charleston,EBS Data
+http://www.datacentermap.com/morocco/casablanca/casablanca-datacenter.html,Casablanca,N+ONE Casablanca Datacenter
+http://www.datacentermap.com/usa/new-york/buffalo/victory-technology-center.html,Buffalo,Victory Technology Center
+http://www.datacentermap.com/egypt/cairo/middle-east-internet-exchange.html,Cairo,GPX MEIX Cairo
+http://www.datacentermap.com/canada/calgary/care-factor-fa.html,Calgary,Care Factor FA
+http://www.datacentermap.com/canada/calgary/dc1313.html,Calgary,1313
+http://www.datacentermap.com/australia/canberra/metronode-canberra-1.html,Canberra,Metronode Canberra 1
+http://www.datacentermap.com/morocco/casablanca/etix-casablanca-1.html,Casablanca,Etix Casablanca #1
+http://www.datacentermap.com/united-kingdom/cheltenham/safehosts-cheltenham.html,Cheltenham,Safehosts Cheltenham
+http://www.datacentermap.com/germany/chemnitz/datacenter-chemnitz.html,Chemnitz,Datacenter Chemnitz
+http://www.datacentermap.com/usa/illinois/chicago/worknet-naperville.html,Chicago,Worknet Naperville
+http://www.datacentermap.com/usa/ohio/columbus/ceranet-dc2.html,Columbus,CeraNet DC2
+http://www.datacentermap.com/denmark/copenhagen/colt-copenhagen1.html,Copenhagen,Colt Copenhagen 1
+http://www.datacentermap.com/brazil/curitiba/asaweb.html,Curitiba,ASAWEB
+http://www.datacentermap.com/malaysia/cyberjaya/malaysia-cyberjaya-3.html,Cyberjaya,Malaysia Cyberjaya 3 Data Center
+http://www.datacentermap.com/usa/texas/dallas/riverfront-dc5.html,Dallas,Riverfront DC5
+http://www.datacentermap.com/usa/illinois/chicago/elk-grove-village.html,Chicago,ServerCentral DFT
+http://www.datacentermap.com/usa/illinois/chicago/equinix-ch4.html,Chicago,Equinix CH4
+http://www.datacentermap.com/usa/illinois/chicago/equinix-ch3.html,Chicago,Equinix CH3
+http://www.datacentermap.com/usa/illinois/chicago/equinix-chicago-2.html,Chicago,Equinix CH2
+http://www.datacentermap.com/usa/illinois/chicago/equinix-chicago.html,Chicago,Equinix CH1
+http://www.datacentermap.com/usa/illinois/chicago/dupont-fabros-ch1.html,Chicago,DuPont Fabros CH1
+http://www.datacentermap.com/usa/illinois/chicago/savvis-ch4.html,Chicago,CenturyLink CH4
+http://www.datacentermap.com/usa/illinois/chicago/savvis-ch3.html,Chicago,CenturyLink CH3
+http://www.datacentermap.com/usa/illinois/chicago/savvis-ch2.html,Chicago,CenturyLink CH2
+http://www.datacentermap.com/usa/ohio/columbus/savvis-cl1.html,Columbus,CenturyLink CL1
+http://www.datacentermap.com/denmark/copenhagen/interxion-copenhagen.html,Copenhagen,Interxion CPH1 (Copenhagen)
+http://www.datacentermap.com/malaysia/cyberjaya/cyberjaya-2.html,Cyberjaya,Malaysia Cyberjaya 2 Data Center
+http://www.datacentermap.com/usa/texas/dallas/switch-data-dallas1.html,Dallas,Equinix DA4
+http://www.datacentermap.com/usa/texas/dallas/switch-data-dallas3.html,Dallas,Equinix DA3
+http://www.datacentermap.com/usa/texas/dallas/equinix-da2.html,Dallas,Equinix DA2
+http://www.datacentermap.com/usa/texas/dallas/equinix-dallas.html,Dallas,Equinix DA1
+http://www.datacentermap.com/usa/texas/dallas/savvis-dl2.html,Dallas,CenturyLink DL2
+http://www.datacentermap.com/usa/texas/dallas/savvis-dl1.html,Dallas,CenturyLink DL1
+http://www.datacentermap.com/usa/texas/dallas/viawest-plano-1.html,Dallas,ViaWest - Plano 1
+http://www.datacentermap.com/usa/colorado/denver/icelab-networks.html,Denver,Icelab Networks
+http://www.datacentermap.com/usa/iowa/des-moines/westown-communications-center.html,Des Moines,Westown Communications Center
+http://www.datacentermap.com/usa/colorado/denver/savvis-dn3.html,Denver,CenturyLink DN3
+http://www.datacentermap.com/usa/colorado/denver/savvis-dn2.html,Denver,CenturyLink DN2
+http://www.datacentermap.com/usa/colorado/denver/savvis-dn1.html,Denver,CenturyLink DN1
+http://www.datacentermap.com/usa/michigan/detroit/riverfront-dc3.html,Detroit,Riverfront DC3
+http://www.datacentermap.com/isle-of-man/douglas/continent8-isle-of-man.html,Douglas,Continent 8 Isle of Man
+http://www.datacentermap.com/usa/michigan/detroit/colomichigan.html,Detroit,Riverfront DC1
+http://www.datacentermap.com/france/dreux/dch1.html,Dreux,DCH1
+http://www.datacentermap.com/united-arab-emirates/dubai/equinix-dx1.html,Dubai,Equinix Dubai (DX1)
+http://www.datacentermap.com/ireland/dublin/telecitygroup-dub4.html,Dublin,TelecityGroup DUB4
+http://www.datacentermap.com/usa/minnesota/duluth/involta-duluth.html,Duluth,Involta-Duluth
+http://www.datacentermap.com/ireland/dublin/digiweb-datacentre.html,Dublin,Digiweb Datacentre
+http://www.datacentermap.com/ireland/dublin/bt-dublin-citywest.html,Dublin,BT Ireland (Site 1)
+http://www.datacentermap.com/ireland/dublin/interxion-ireland-dub2.html,Dublin,"Interxion DUB2 (Dublin, Ireland)"
+http://www.datacentermap.com/ireland/dublin/interxion-dublin.html,Dublin,"Interxion DUB1 (Dublin, Ireland)"
+http://www.datacentermap.com/germany/duesseldorf/equinix-dusseldorf.html,Düsseldorf,Equinix Düsseldorf
+http://www.datacentermap.com/usa/pennsylvania/ebensburg/south-park-building.html,Ebensburg,viLogics_South Park Building
+http://www.datacentermap.com/germany/duesseldorf/interxion-dusseldorf.html,Düsseldorf,Interxion DUS1 (Düsseldorf)
+http://www.datacentermap.com/usa/california/el-segundo/equinix-el-segundo.html,El Segundo,Equinix El Segundo
+http://www.datacentermap.com/germany/erfurt/keyweb-data-center.html,Erfurt,Keyweb Data Center
+http://www.datacentermap.com/united-kingdom/essex/chunky-dc1.html,Essex,Chunky DC1
+http://www.datacentermap.com/india/faridabad/faridabad-dc.html,Faridabad,Faridabad DC
+http://www.datacentermap.com/morocco/fez/hostoweb-maroc.html,Fez,HOSTOWEB.COM
+http://www.datacentermap.com/usa/michigan/flint/riverfront-dc2.html,Flint,Riverfront DC2
+http://www.datacentermap.com/germany/frankfurt/global-switch-frankfurt.html,Frankfurt,Global Switch Frankfurt
+http://www.datacentermap.com/the-bahamas/freeport/freeport-idc.html,Freeport,Freeport IDC
+http://www.datacentermap.com/germany/frankfurt/ntt-frankfurt2.html,Frankfurt,Germany Frankfurt 2
+http://www.datacentermap.com/germany/frankfurt/first-colo.html,Frankfurt,First Colo Datacenter
+http://www.datacentermap.com/germany/frankfurt/equinix-frankfurt-north.html,Frankfurt,Equinix Frankfurt North
+http://www.datacentermap.com/germany/frankfurt/equinix-frankfurt-city.html,Frankfurt,Equinix Frankfurt City
+http://www.datacentermap.com/germany/frankfurt/colt-frankfurt1.html,Frankfurt,Colt Frankfurt 1
+http://www.datacentermap.com/japan/fukuoka/telehouse-fukuoka.html,Fukuoka,TELEHOUSE Fukuoka
+http://www.datacentermap.com/norway/gaupne/bluefjords-as.html,Gaupne,BlueFjords AS
+http://www.datacentermap.com/germany/frankfurt/bt-fra-sossenheim.html,Frankfurt,BT Data Center Frankfurt-Sossenheim
+http://www.datacentermap.com/germany/frankfurt/interxion-fra9.html,Frankfurt,"Interxion FRA9 (Frankfurt, Germany)"
+http://www.datacentermap.com/germany/frankfurt/interxion-fra8.html,Frankfurt,"Interxion FRA8 (Frankfurt, Germany)"
+http://www.datacentermap.com/germany/frankfurt/interxion-fra7.html,Frankfurt,"Interxion FRA7 (Frankfurt, Germany)"
+http://www.datacentermap.com/germany/frankfurt/interxion-fra6.html,Frankfurt,"Interxion FRA6 (Frankfurt, Germany)"
+http://www.datacentermap.com/germany/frankfurt/interxion-fra5.html,Frankfurt,"Interxion FRA5 (Frankfurt, Germany)"
+http://www.datacentermap.com/germany/frankfurt/interxion-frankfurt4.html,Frankfurt,"Interxion FRA4 (Frankfurt, Germany)"
+http://www.datacentermap.com/germany/frankfurt/interxion-frankfurt3.html,Frankfurt,"Interxion FRA3 (Frankfurt, Germany)"
+http://www.datacentermap.com/germany/frankfurt/interxion-frankfurt2.html,Frankfurt,"Interxion FRA2 (Frankfurt, Germany)"
+http://www.datacentermap.com/germany/frankfurt/interxion-frankfurt1.html,Frankfurt,"Interxion FRA1 (Frankfurt, Germany)"
+http://www.datacentermap.com/switzerland/geneva/diii.html,Geneva,Infomaniak DIII
+http://www.datacentermap.com/france/geneva-fr/thdglobal2.html,Geneva FR,THDGlobal2
+http://www.datacentermap.com/switzerland/geneva/infomaniak-dii.html,Geneva,Infomaniak DII
+http://www.datacentermap.com/switzerland/geneva/equinix-gv2.html,Geneva,Equinix GV2
+http://www.datacentermap.com/switzerland/geneva/equinix-geneva.html,Geneva,Equinix Geneva
+http://www.datacentermap.com/france/geneva-fr/rges.html,Geneva FR,THDGlobal1
+http://www.datacentermap.com/cayman-islands/george-town/bic2.html,George Town,BIC2
+http://www.datacentermap.com/gibraltar/gibraltar/continent8-gibraltar.html,Gibraltar,Continent 8 Gibraltar
+http://www.datacentermap.com/united-kingdom/glasgow/iomart-glasgow-dc1.html,Glasgow,Iomart Glasgow DC1
+http://www.datacentermap.com/brazil/goiania/link-data-center.html,Goiania,Link Data Center
+http://www.datacentermap.com/usa/michigan/grand-rapids/riverfront-dc4.html,Grand Rapids,Riverfront DC4
+http://www.datacentermap.com/poland/grodzisk-mazowiecki/plus-data-center.html,Grodzisk Mazowiecki,Plus Data Center
+http://www.datacentermap.com/the-netherlands/groningen/tcn-sig-eemsdelta.html,Groningen,Data Hotel Eemshaven
+http://www.datacentermap.com/germany/hamburg/datacenter-hamburg.html,Hamburg,Datacenter-Hamburg
+http://www.datacentermap.com/germany/hamburg/colt-hamburg1.html,Hamburg,"Colt Hamburg, Gross Borstel"
+http://www.datacentermap.com/iran/hamedan/mizban-gostar-dade-alvand.html,Hamedan,Mizban Gostar dade alvand
+http://www.datacentermap.com/canada/hamilton/allcoreca-hamilton.html,Hamilton,AllCore.ca Hamilton Data Center
+http://www.datacentermap.com/new-zealand/hamilton-nz/waikatoone.html,Hamilton NZ,WaikatoOne
+http://www.datacentermap.com/vietnam/hanoi/ntt-thang-long.html,Hanoi,Hanoi Thang Long Data Center
+http://www.datacentermap.com/vietnam/hanoi/hanoi-thanglong.html,Hanoi,GDS Hanoi Thanglong
+http://www.datacentermap.com/vietnam/hanoi/telehouse-vietnam.html,Hanoi,TELEHOUSE Vietnam Hanoi
+http://www.datacentermap.com/usa/mississippi/hattiesburg/megagate-broadband-data-center.html,Hattiesburg,MegaGate Broadband Data Center
+http://www.datacentermap.com/finland/helsinki/mediam-helsinki-dc.html,Helsinki,Mediam Helsinki DC
+http://www.datacentermap.com/japan/hiroshima/telehouse-hiroshima.html,Hiroshima,TELEHOUSE Hiroshima
+http://www.datacentermap.com/vietnam/ho-chi-minh-city/edatacenter.html,Ho Chi Minh City,eDatacenter
+http://www.datacentermap.com/australia/hobart/bbw-telecom.html,Hobart,BBW Telecom
+http://www.datacentermap.com/hong-kong/hong-kong/hknets-kwai-chung.html,Hong Kong,Hong Kong Kwai Chung Data Center
+http://www.datacentermap.com/hong-kong/hong-kong/ntt-com-hk-financial.html,Hong Kong,Hong Kong Financial Data Center
+http://www.datacentermap.com/hong-kong/hong-kong/hgc-wong-chuk-hang.html,Hong Kong,HGC GlobalCentre - Wong Chuk Hang
+http://www.datacentermap.com/hong-kong/hong-kong/hgc-kwai-chung.html,Hong Kong,HGC GlobalCentre - Kwai Chung
+http://www.datacentermap.com/hong-kong/hong-kong/equinix-hong-kong.html,Hong Kong,Equinix Hong Kong
+http://www.datacentermap.com/hong-kong/hong-kong/savvis-hk7.html,Hong Kong,CenturyLink HK7
+http://www.datacentermap.com/hong-kong/hong-kong/asix-chk.html,Hong Kong,ASIX-CHK
+http://www.datacentermap.com/usa/new-jersey/hudson-county/equinix-secaucus-3.html,Hudson County,Equinix Secaucus #3
+http://www.datacentermap.com/usa/california/irvine/savvis-oc2.html,Irvine,CenturyLink OC2
+http://www.datacentermap.com/usa/new-jersey/hudson-county/equinix-secaucus-2.html,Hudson County,Equinix Secaucus #2
+http://www.datacentermap.com/usa/new-jersey/hudson-county/equinix-secaucus.html,Hudson County,Equinix Secaucus #1
+http://www.datacentermap.com/usa/new-jersey/hudson-county/equinix-ny4.html,Hudson County,Equinix NY4
+http://www.datacentermap.com/usa/new-jersey/hudson-county/savvis-nj2.html,Hudson County,CenturyLink NJ2
+http://www.datacentermap.com/usa/new-jersey/hudson-county/savvis-nj1.html,Hudson County,CenturyLink NJ1
+http://www.datacentermap.com/usa/california/irvine/streaming-media-hosting.html,Irvine,Aecero
+http://www.datacentermap.com/turkey/istanbul/sadece-ist2.html,Istanbul,Sadecehosting.Com Ist2
+http://www.datacentermap.com/india/jaipur/jaipur-dc.html,Jaipur,Jaipur DC
+http://www.datacentermap.com/indonesia/jakarta/telkomsigma-serpong.html,Jakarta,Telkomsigma Data Center Serpong
+http://www.datacentermap.com/germany/jena/isppro-rzj1-b.html,Jena,ISPpro RZJ1-B
+http://www.datacentermap.com/nepal/kathmandu/government-integrated-dc.html,Kathmandu,Government Integrated Data Center
+http://www.datacentermap.com/nepal/kathmandu/government-integrated-dc.html,Kathmandu,Government Integrated Data Center
+http://www.datacentermap.com/japan/kawaguchi/saitama-no-1.html,Kawaguchi,Saitama No. 1 Data Center
+http://www.datacentermap.com/dr-congo/kinshasa/gbsdc1.html,Kinshasa,GBSDC1
+http://www.datacentermap.com/norway/kolbotn/digiplex-rosenholm.html,Kolbotn,DigiPlex Rosenholm
+http://www.datacentermap.com/norway/kristiansand/no1.html,Kristiansand,NO1
+http://www.datacentermap.com/kuwait/kuwait-city/zajil-telecom.html,Kuwait City,Zajil Telecom
+http://www.datacentermap.com/nigeria/lagos/mdxi-lekki-dc.html,Lagos,MDXi Lekki DC
+http://www.datacentermap.com/kuwait/kuwait-city/qualitynet.html,Kuwait City,Qualitynet
+http://www.datacentermap.com/cyprus/larnaca/nscy04.html,Larnaca,NSCY04
+http://www.datacentermap.com/usa/nevada/las-vegas/southwest-data-centers.html,Las Vegas,Southwest Data centers
+http://www.datacentermap.com/united-kingdom/leeds/sungard-tc4-elland.html,Leeds,SunGard TC4 - Elland
+http://www.datacentermap.com/united-kingdom/leicester/iomart-leicester.html,Leicester,iomart Leicester
+http://www.datacentermap.com/united-kingdom/leeds/computacenter-leeds.html,Leeds,Computacenter - Leeds
+http://www.datacentermap.com/germany/leipzig/datacenter-leipzig.html,Leipzig,Datacenter Leipzig
+http://www.datacentermap.com/nigeria/lekki/nigeria-mdxi.html,Lekki,MainData Nigeria Limited (MDXi)
+http://www.datacentermap.com/canada/lethbridge/ldc01.html,Lethbridge,LDC01
+http://www.datacentermap.com/united-kingdom/lincolnshire/smartbunker.html,Lincolnshire,Smartbunker
+http://www.datacentermap.com/sweden/linkoping/rockan-data-center.html,Linköping,Rockan Data Center AB
+http://www.datacentermap.com/portugal/lisbon/telvent.html,Lisbon,Telvent
+http://www.datacentermap.com/portugal/lisbon/ptisp-lis1.html,Lisbon,PTisp Lis1
+http://www.datacentermap.com/portugal/lisbon/nfsi-lisbon1.html,Lisbon,nfsi Lisbon1
+http://www.datacentermap.com/portugal/lisbon/dotsi-lisbon.html,Lisbon,DOTSI - Lisbon
+http://www.datacentermap.com/portugal/lisbon/colt-lisbon1.html,Lisbon,"Colt Lisbon, Carnaxide"
+http://www.datacentermap.com/portugal/lisbon/allbs-lda-lx.html,Lisbon,ALLBS
+http://www.datacentermap.com/slovenia/ljubljana/datacenter-dc02.html,Ljubljana,Datacenter DC02
+http://www.datacentermap.com/united-kingdom/london/virtus-london4.html,London,VIRTUS LONDON4
+http://www.datacentermap.com/united-kingdom/london/virtus-london2.html,London,VIRTUS LONDON2
+http://www.datacentermap.com/united-kingdom/london/virtus-london1.html,London,VIRTUS LONDON1
+http://www.datacentermap.com/united-kingdom/london/virtus-1.html,London,Virtus 1
+http://www.datacentermap.com/united-kingdom/london/ntt-slough.html,London,UK Slough 1  Data Center
+http://www.datacentermap.com/united-kingdom/london/tata-cressex.html,London,Tata Communications Cressex
+http://www.datacentermap.com/united-kingdom/london/sungard-tc2-docklands.html,London,SunGard TC2 - Docklands
+http://www.datacentermap.com/united-kingdom/london/romford-north.html,London,Romford North
+http://www.datacentermap.com/usa/california/los-angeles/equinix-los-angeles2.html,Los Angeles,Equinix Los Angeles #2
+http://www.datacentermap.com/switzerland/lucerne/dc-luz-luzern-ost.html,Lucerne,DC LuZ Luzern Ost
+http://www.datacentermap.com/united-kingdom/london/london-technology-centre.html,London,London Technology Centre
+http://www.datacentermap.com/united-kingdom/london/iomart-london.html,London,iomart London (City of)
+http://www.datacentermap.com/united-kingdom/london/global-switch-london2.html,London,Global Switch London East
+http://www.datacentermap.com/united-kingdom/london/global-switch-london1.html,London,Global Switch London
+http://www.datacentermap.com/usa/california/los-angeles/equinix-los-angeles1.html,Los Angeles,Equinix Los Angeles
+http://www.datacentermap.com/usa/california/los-angeles/savvis-la1.html,Los Angeles,CenturyLink LA1
+http://www.datacentermap.com/usa/california/los-angeles/savvis-br1.html,Los Angeles,CenturyLink BR1
+http://www.datacentermap.com/switzerland/lucerne/dc-luz-luzern-nord.html,Lucerne,DC LuZ Luzern Nord
+http://www.datacentermap.com/switzerland/lucerne/dc-luz-luzern-mitte.html,Lucerne,DC LuZ Luzern Mitte
+http://www.datacentermap.com/united-kingdom/london/equinix-park-royal.html,London,Equinix Park Royal
+http://www.datacentermap.com/united-kingdom/london/equinix-london-city.html,London,Equinix London City
+http://www.datacentermap.com/united-kingdom/london/equinix-heathrow.html,London,Equinix Heathrow
+http://www.datacentermap.com/united-kingdom/london/datatech-london.html,London,Datatech London
+http://www.datacentermap.com/united-kingdom/london/computacenter-romford-tier-iv.html,London,Computacenter - Romford
+http://www.datacentermap.com/united-kingdom/london/colt-london3.html,London,"Colt London, Welwyn Garden City"
+http://www.datacentermap.com/united-kingdom/london/colt-london1.html,London,"Colt London, Princes Court"
+http://www.datacentermap.com/united-kingdom/london/colt-london2.html,London,"Colt London, Powergate"
+http://www.datacentermap.com/united-kingdom/london/savvis-lo6.html,London,CenturyLink LO6
+http://www.datacentermap.com/united-kingdom/london/savvis-lo4.html,London,CenturyLink LO4
+http://www.datacentermap.com/united-kingdom/london/savvis-slough.html,London,CenturyLink LO1
+http://www.datacentermap.com/united-kingdom/london/anchorage-point.html,London,BIS Anchorage Point
+http://www.datacentermap.com/united-kingdom/london/interxion-lon2.html,London,"Interxion LON2 (London, UK)"
+http://www.datacentermap.com/india/ludhiana/ludhiana-dc.html,Ludhiana,Ludhiana DC
+http://www.datacentermap.com/france/lyon/shd-lyon.html,Lyon,SHD - SOLUTION HEBERGEMENT DURABLE
+http://www.datacentermap.com/united-kingdom/london/interxion-london.html,London,"Interxion LON1 (London, UK)"
+http://www.datacentermap.com/spain/madrid/ipcore.html,Madrid,IPCORE
+http://www.datacentermap.com/united-kingdom/manchester/salford.html,Manchester,Salford
+http://www.datacentermap.com/spain/madrid/colt-madrid1.html,Madrid,"Colt Madrid, Manoteras"
+http://www.datacentermap.com/spain/madrid/interxion-mad2.html,Madrid,"Interxion MAD2 (Madrid, Spain)"
+http://www.datacentermap.com/spain/madrid/interxion-madrid.html,Madrid,"Interxion MAD1 (Madrid, Spain)"
+http://www.datacentermap.com/united-kingdom/manchester/ifl3.html,Manchester,IFL3
+http://www.datacentermap.com/united-kingdom/manchester/salford-quays.html,Manchester,Computacenter - Manchester
+http://www.datacentermap.com/usa/massachusetts/marlborough/sungard-250-locke.html,Marlborough,SunGard 250 Locke
+http://www.datacentermap.com/france/marseille/interxion-mrs1.html,Marseille,"Interxion MRS1 (Marseille, France)"
+http://www.datacentermap.com/australia/melbourne/vocus-port-melbourne.html,Melbourne,Vocus Data Centre - Port Melbourne
+http://www.datacentermap.com/italy/milan/colt-milan1.html,Milan,"Colt Milan, Lancetti"
+http://www.datacentermap.com/australia/melbourne/melbourne-2.html,Melbourne,Metronode Melbourne 2
+http://www.datacentermap.com/australia/melbourne/melbourne-1.html,Melbourne,Metronode Melbourne 1
+http://www.datacentermap.com/australia/melbourne/melbourne-data-centre.html,Melbourne,Melbourne Data Centre
+http://www.datacentermap.com/australia/melbourne/mitcham.html,Melbourne,EDC Mitcham
+http://www.datacentermap.com/australia/melbourne/ntt-melbourne1.html,Melbourne,Australia Melbourne 1 Data Center
+http://www.datacentermap.com/australia/melbourne/530-collins-st.html,Melbourne,530 Collins St
+http://www.datacentermap.com/united-kingdom/milton-keynes/myserverplanet-ltd.html,Milton Keynes,MyServerPlanet Ltd
+http://www.datacentermap.com/usa/minnesota/minneapolis/twin-cities-northwest.html,Minneapolis,IronGate Data Centers - Northwest
+http://www.datacentermap.com/united-kingdom/milton-keynes/mkdc.html,Milton Keynes,MKDC-1 - Bletchley
+http://www.datacentermap.com/usa/minnesota/minneapolis/twin-cities-east.html,Minneapolis,IronGate Data Centers -  East
+http://www.datacentermap.com/usa/minnesota/minneapolis/savvis-mp1.html,Minneapolis,CenturyLink MP2
+http://www.datacentermap.com/canada/montreal/sun-hoosting-dles.html,Montreal,Sun Hoosting DLES
+http://www.datacentermap.com/russia/moscow/safedata.html,Moscow,SAFEDATA Moscow-I
+http://www.datacentermap.com/canada/montreal/colo-d.html,Montreal,COLO-D1
+http://www.datacentermap.com/canada/montreal/savvis-mr1.html,Montreal,CenturyLink MR1
+http://www.datacentermap.com/usa/washington/moses-lake/cw1.html,Moses Lake,CW1
+http://www.datacentermap.com/india/mumbai/mumbai-dc.html,Mumbai,Mumbai DC
+http://www.datacentermap.com/india/mumbai/ntt-mumbai5.html,Mumbai,India Mumbai 5 Data Center
+http://www.datacentermap.com/india/mumbai/hns-hosting.html,Mumbai,HNS Hosting
+http://www.datacentermap.com/india/mumbai/gpx-mumbai.html,Mumbai,GPX Mumbai
+http://www.datacentermap.com/germany/munich/premium-datacenter-1.html,Munich,Premium-Datacenter #1
+http://www.datacentermap.com/japan/nagoya/telehouse-nagoya-sakae.html,Nagoya,TELEHOUSE Nagoya Sakae - 1
+http://www.datacentermap.com/germany/munich/equinix-munich-2.html,Munich,Equinix Münich #2
+http://www.datacentermap.com/germany/munich/equinix-munich-1.html,Munich,Equinix Münich #1
+http://www.datacentermap.com/japan/nagoya/telehouse-nagoya-naka.html,Nagoya,TELEHOUSE Nagoya Nagoya-naka - 2
+http://www.datacentermap.com/japan/nagoya/nagoya-daikancho.html,Nagoya,Nagoya Daikancho  Data Center
+http://www.datacentermap.com/japan/naha/telehouse-naha.html,Naha,TELEHOUSE Naha
+http://www.datacentermap.com/kenya/nairobi/gestalt-gild.html,Nairobi,Gestalt Gild
+http://www.datacentermap.com/france/nantes/nc-datacenter-nantes-2.html,Nantes,NC Datacenter - Nantes 2
+http://www.datacentermap.com/usa/tennessee/nashville/nexus-nrep.html,Nashville,Nexus NREP
+http://www.datacentermap.com/france/nantes/etix-nantes1.html,Nantes,Etix Nantes #1
+http://www.datacentermap.com/the-bahamas/nassau/nassau-idc.html,Nassau,Nassau IDC
+http://www.datacentermap.com/usa/new-jersey/new-brunswick/sentinel-nj1.html,New Brunswick,Sentinel NJ1
+http://www.datacentermap.com/india/new-delhi/ghaziabad-dc.html,New Delhi,Ghaziabad DC
+http://www.datacentermap.com/usa/new-york/new-york/savvis-nj5.html,New York,CenturyLink NJ5
+http://www.datacentermap.com/usa/new-york/new-york/savvis-nj4.html,New York,CenturyLink NJ4
+http://www.datacentermap.com/usa/new-jersey/new-york/savvis-nj2x.html,New York,CenturyLink NJ2X
+http://www.datacentermap.com/usa/new-jersey/newark/equinix-newark.html,Newark,Equinix Newark
+http://www.datacentermap.com/united-kingdom/newcastle/north-tyneside-data-centre.html,Newcastle,Knowledge IT North Tyneside
+http://www.datacentermap.com/united-kingdom/newcastle/dc1-cobalt-data-campus.html,Newcastle,DC1 Cobalt data Campus
+http://www.datacentermap.com/cyprus/nicosia/nscy02.html,Nicosia,NSCY02
+http://www.datacentermap.com/india/noida/ntt-noida.html,Noida,India Noida Data Cnter
+http://www.datacentermap.com/cyprus/nicosia/nscy01.html,Nicosia,NSCY01
+http://www.datacentermap.com/united-kingdom/northamptonshire/node4-northampton-data-centre.html,Northamptonshire,Node4 (Northampton)
+http://www.datacentermap.com/united-kingdom/nottingham/iomart-nottingham.html,Nottingham,iomart Nottingham
+http://www.datacentermap.com/france/olonne-sur-mer/etix-olona-11.html,Olonne Sur Mer,Etix Olona #1
+http://www.datacentermap.com/usa/florida/orlando/datasite-orlando.html,Orlando,DataSite Orlando
+http://www.datacentermap.com/france/orléans/scitis-zen.html,Orleans,SCITIS-ZEN
+http://www.datacentermap.com/japan/osaka/telehouse-osaka-suita.html,Osaka,TELEHOUSE Osaka Suita - 1
+http://www.datacentermap.com/japan/osaka/telehouse-osaka-chuo.html,Osaka,TELEHOUSE Osaka Osaka-chuo - 2
+http://www.datacentermap.com/japan/osaka/telehouse-osaka-ibaraki.html,Osaka,TELEHOUSE Osaka Ibaraki - 3
+http://www.datacentermap.com/japan/osaka/ntt-osaka5.html,Osaka,Osaka 5  Data Center
+http://www.datacentermap.com/norway/oslo/fetsund.html,Oslo,DigiPlex Oslo III
+http://www.datacentermap.com/canada/ottawa/ottawa-headquarters.html,Ottawa,Ottawa-Headquarters
+http://www.datacentermap.com/norway/oslo/ostre-aker-vei.html,Oslo,Broadnet Colocation Oslo
+http://www.datacentermap.com/the-netherlands/overijssel/virtu-zwolle.html,Overijssel,Equinix Zwolle
+http://www.datacentermap.com/japan/oyama/telehouse-oyama.html,Oyama,TELEHOUSE Oyama
+http://www.datacentermap.com/the-netherlands/overijssel/virtu-enschede.html,Overijssel,Equinix Enschede
+http://www.datacentermap.com/panama/panama-city/fortatrust-panama.html,Panama City,FortaTrust Panama
+http://www.datacentermap.com/france/paris/global-switch-paris.html,Paris,Global Switch Paris
+http://www.datacentermap.com/france/paris/ntt-paris.html,Paris,France Paris 2 Data Center
+http://www.datacentermap.com/france/paris/equinix-paris-saint-denis.html,Paris,Equinix Paris (Saint-Denis)
+http://www.datacentermap.com/france/paris/equinix-paris-roissy.html,Paris,Equinix Paris (Roissy)
+http://www.datacentermap.com/france/paris/colt-lyon.html,Paris,"Colt Paris, Wattignies"
+http://www.datacentermap.com/france/paris/colt-les-ulis.html,Paris,"Colt Paris, Les Ulis"
+http://www.datacentermap.com/france/paris/colt-bessieres.html,Paris,"Colt Paris, Bessières"
+http://www.datacentermap.com/france/paris/interxion-par7.html,Paris,"Interxion PAR7 (Paris, France)"
+http://www.datacentermap.com/france/paris/interxion-par6.html,Paris,"Interxion PAR6 (Paris, France)"
+http://www.datacentermap.com/france/paris/interxion-par5.html,Paris,"Interxion PAR5 (Paris, France)"
+http://www.datacentermap.com/australia/perth/vocus-perth-ix.html,Perth,Vocus Data Centre - Perth iX
+http://www.datacentermap.com/usa/pennsylvania/philadelphia/keystone-nap-1.html,Philadelphia,Keystone NAP 1
+http://www.datacentermap.com/france/paris/interxion-paris4.html,Paris,"Interxion PAR4 (Paris, France)"
+http://www.datacentermap.com/france/paris/interxion-paris3.html,Paris,"Interxion PAR3 (Paris, France)"
+http://www.datacentermap.com/france/paris/interxion-paris2.html,Paris,"Interxion PAR2 (Paris, France)"
+http://www.datacentermap.com/australia/perth/amc-data-centre.html,Perth,Silverain Data Centre
+http://www.datacentermap.com/australia/perth/metronode-perth-2.html,Perth,Metronode Perth 2
+http://www.datacentermap.com/australia/perth/metronode-perth-1.html,Perth,Metronode Perth 1
+http://www.datacentermap.com/australia/perth/dc-two-osborne-park.html,Perth,DC Two Osborne Park
+http://www.datacentermap.com/australia/perth/amcom-perth2.html,Perth,amcom Perth #2
+http://www.datacentermap.com/australia/perth/amcom-perth1.html,Perth,amcom Perth
+http://www.datacentermap.com/australia/perth/amcom-osborne.html,Perth,amcom Osborne Park
+http://www.datacentermap.com/france/paris/interxion-paris1.html,Paris,"Interxion PAR1 (Paris, France)"
+http://www.datacentermap.com/usa/arizona/phoenix/transcendent-phoenix.html,Phoenix,Phoenix AZ
+http://www.datacentermap.com/usa/new-jersey/piscataway/dupont-fabros-nj1.html,Piscataway,DuPont Fabros NJ1
+http://www.datacentermap.com/usa/new-jersey/piscataway/constant-hosting-pnj1.html,Piscataway,Constant Hosting PNJ1
+http://www.datacentermap.com/usa/new-jersey/piscataway/savvis-nj3.html,Piscataway,CenturyLink NJ3
+http://www.datacentermap.com/usa/new-jersey/piscataway/24shells-nj1.html,Piscataway,24Shells NJ1
+http://www.datacentermap.com/sweden/pitea/fortlax.html,Pitea,Fortlax
+http://www.datacentermap.com/usa/pennsylvania/pittsburgh/management-science-associates.html,Pittsburgh,Management Science Associates
+http://www.datacentermap.com/south-africa/port-elizabeth/is-port-elizabeth.html,Port Elizabeth,internet solutions Port Elizabeth
+http://www.datacentermap.com/poland/poznan/itelligence.html,Poznan,itelligence data center
+http://www.datacentermap.com/india/pune/hostin-services.html,Pune,Hostin Services Private Limited
+http://www.datacentermap.com/canada/quebec/megaquebec-internet-data-center.html,Quebec,MegaQuebec Internet Data Center
+http://www.datacentermap.com/usa/north-carolina/raleigh/sentinel-nc-1.html,Raleigh,Sentinel NC-1
+http://www.datacentermap.com/iran/rasht/negah-roshan-pars.html,Rasht,Negah Roshan Pars - Nrp Network
+http://www.datacentermap.com/usa/pennsylvania/reading/ipr-reading-bcc.html,Reading,IPR Reading BCC
+http://www.datacentermap.com/iceland/reykjavik/datacell-hofdatorg.html,Reykjavik,DataCell Höfdatorg
+http://www.datacentermap.com/iceland/reykjavik/basis.html,Reykjavik,Basis
+http://www.datacentermap.com/latvia/riga/tv-tower-data-center-zakusala.html,Riga,"LVRTC Data Center ""Zakusala"""
+http://www.datacentermap.com/saudi-arabia/riyadh/gateway-gulf.html,Riyadh,Gateway Gulf
+http://www.datacentermap.com/the-netherlands/roosendaal/colt-netherlands3.html,Roosendaal,"Colt Rotterdam, Roosendaal"
+http://www.datacentermap.com/the-netherlands/rotterdam/bt-dc-rotterdam.html,Rotterdam,BT DC Rotterdam
+http://www.datacentermap.com/usa/north-carolina/rutherford/rutherford-data-center.html,Rutherford,Rutherford NC Data Center
+http://www.datacentermap.com/usa/california/sacramento/gold-data-centers.html,Sacramento,Gold Data Centers
+http://www.datacentermap.com/france/saint-trivier-sur-moignans/maxnod.html,Saint Trivier Sur Moignans,Maxnod
+http://www.datacentermap.com/usa/utah/salt-lake-city/consonus-wdc.html,Salt Lake City,Consonus WDC
+http://www.datacentermap.com/usa/utah/salt-lake-city/consonus-sdc.html,Salt Lake City,Consonus SDC
+http://www.datacentermap.com/usa/utah/salt-lake-city/consonus-pdc.html,Salt Lake City,Consonus PDC
+http://www.datacentermap.com/usa/texas/san-antonio/sdc-san-antonio.html,San Antonio,SDC - San Antonio
+http://www.datacentermap.com/usa/california/san-francisco/savvis-sn2.html,San Francisco,CenturyLink SN2
+http://www.datacentermap.com/usa/california/san-francisco/savvis-sn1.html,San Francisco,CenturyLink SN1
+http://www.datacentermap.com/usa/california/san-jose/ntta-lundy.html,San Jose,San Jose Lundy Data Center
+http://www.datacentermap.com/costa-rica/san-jose-cr/costa-rica-data-center.html,San Jose CR,San Jose Data Center
+http://www.datacentermap.com/usa/california/san-jose/equinix-san-jose1.html,San Jose,Equinix San Jose (South)
+http://www.datacentermap.com/usa/california/san-jose/equinix-san-jose2.html,San Jose,Equinix San Jose (North)
+http://www.datacentermap.com/usa/california/san-jose/ntta-santa-clara.html,San Jose,California Santa Clara Data Center
+http://www.datacentermap.com/usa/california/santa-clara/equinix-sunnyvale.html,Santa Clara,Equinix Sunnyvale
+http://www.datacentermap.com/bolivia/santa-cruz-de-la-sierra/itc-servicios.html,Santa Cruz De La Sierra,ITC-SERVICIOS
+http://www.datacentermap.com/usa/california/santa-clara/equinix-santa-clara.html,Santa Clara,Equinix Santa Clara
+http://www.datacentermap.com/usa/california/santa-clara/dupont-fabros-sj1.html,Santa Clara,DuPont Fabros SJ1
+http://www.datacentermap.com/usa/california/santa-clara/savvis-sc9.html,Santa Clara,CenturyLink SC9
+http://www.datacentermap.com/usa/california/santa-clara/savvis-sc8.html,Santa Clara,CenturyLink SC8
+http://www.datacentermap.com/usa/california/santa-clara/savvis-sc5.html,Santa Clara,CenturyLink SC5
+http://www.datacentermap.com/usa/california/santa-clara/savvis-sc4.html,Santa Clara,CenturyLink SC4
+http://www.datacentermap.com/usa/new-mexico/santa-fe/savvis-ab3.html,Santa FE,CenturyLink AB3
+http://www.datacentermap.com/brazil/sao-paulo/tambore.html,Sao Paulo,Tamboré
+http://www.datacentermap.com/brazil/sao-paulo/glete.html,Sao Paulo,Glete
+http://www.datacentermap.com/japan/sapporo/telehouse-sapporo.html,Sapporo,TELEHOUSE Sapporo
+http://www.datacentermap.com/usa/washington/seattle/savvis-se4.html,Seattle,CenturyLink SE4
+http://www.datacentermap.com/usa/washington/seattle/savvis-se3.html,Seattle,CenturyLink SE3
+http://www.datacentermap.com/usa/washington/seattle/savvis-se2.html,Seattle,CenturyLink SE2
+http://www.datacentermap.com/usa/washington/seattle/adtaq-issaquah.html,Seattle,Adtaq Issaquah
+http://www.datacentermap.com/japan/sendai/telehouse-sendai.html,Sendai,TELEHOUSE Sendai
+http://www.datacentermap.com/china/shanghai/telehouse-shanghai.html,Shanghai,TELEHOUSE Shanghai Zhangjiang - 1
+http://www.datacentermap.com/china/shanghai/ntt-shanghai-pudong.html,Shanghai,Shanghai Pudong Data Center
+http://www.datacentermap.com/united-kingdom/sheffield/sheffield-data-centre.html,Sheffield,Sheffield Data Centre
+http://www.datacentermap.com/china/shenzhen/pacnet-szds1.html,Shenzhen,Pacnet Shenzen(SZDS1)
+http://www.datacentermap.com/singapore/singapore/singapore-serangoon.html,Singapore,Singapore Serangoon Data Center
+http://www.datacentermap.com/united-kingdom/slough/ntt-hemel-hempsted2.html,Slough,UK Hemel Hempstead 2 Data Center
+http://www.datacentermap.com/singapore/singapore/keppel-digihub.html,Singapore,Keppel Digihub
+http://www.datacentermap.com/singapore/singapore/keppel-datahub2.html,Singapore,Keppel Datahub 2
+http://www.datacentermap.com/singapore/singapore/keppel-datahub.html,Singapore,Keppel Datahub
+http://www.datacentermap.com/singapore/singapore/ivisions-dc1.html,Singapore,iVisions DC1
+http://www.datacentermap.com/singapore/singapore/global-switch-singapore.html,Singapore,Global Switch Singapore
+http://www.datacentermap.com/singapore/singapore/equinix-singapore.html,Singapore,Equinix Singapore
+http://www.datacentermap.com/singapore/singapore/savvis-sg8.html,Singapore,CenturyLink SG8
+http://www.datacentermap.com/united-kingdom/slough/slough-trading-estate.html,Slough,Slough Trading Estate
+http://www.datacentermap.com/united-kingdom/slough/rrdc01.html,Slough,RRDC01
+http://www.datacentermap.com/united-kingdom/slough/equinix-ld5-slough.html,Slough,Equinix LD5 Slough
+http://www.datacentermap.com/united-kingdom/slough/equinix-slough.html,Slough,Equinix LD4 Slough
+http://www.datacentermap.com/bulgaria/sofia/telecity-sofia1.html,Sofia,TelecityGroup (Sofia-1)
+http://www.datacentermap.com/usa/missouri/springfield/springnet-underground.html,Springfield,SpringNet Underground
+http://www.datacentermap.com/malta/st-venera/vodafone-malta.html,St Venera,Vodafone Malta
+http://www.datacentermap.com/us-virgin-islands/st-croix/centrilogic-usvi.html,St. Croix,CentriLogic USVI
+http://www.datacentermap.com/malta/st-venera/alert-data-centre.html,St Venera,Alert Data Centre
+http://www.datacentermap.com/usa/missouri/st-louis/savvis-sl1.html,St. Louis,CenturyLink SL1
+http://www.datacentermap.com/usa/virginia/sterling/ntta-sterling.html,Sterling,Virginia Sterling  Data Center
+http://www.datacentermap.com/usa/virginia/sterling/savvis-dc7.html,Sterling,CenturyLink DC7
+http://www.datacentermap.com/usa/district-of-columbia/sterling/savvis-dc6.html,Sterling,CenturyLink DC6
+http://www.datacentermap.com/usa/virginia/sterling/savvis-dc5.html,Sterling,CenturyLink DC5
+http://www.datacentermap.com/usa/virginia/sterling/savvis-dc4.html,Sterling,CenturyLink DC4
+http://www.datacentermap.com/usa/virginia/sterling/savvis-dc3.html,Sterling,CenturyLink DC3
+http://www.datacentermap.com/usa/virginia/sterling/savvis-dc2.html,Sterling,CenturyLink DC2
+http://www.datacentermap.com/sweden/stockholm/stc-satra-technology-center.html,Stockholm,SunGard - Sätra Technology Center
+http://www.datacentermap.com/cyprus/strovolos/logosnet.html,Strovolos,LogosNet
+http://www.datacentermap.com/sweden/stockholm/stockholm-2.html,Stockholm,Stockholm 2
+http://www.datacentermap.com/sweden/stockholm/portlane-sickla.html,Stockholm,Portlane Sickla
+http://www.datacentermap.com/sweden/stockholm/ip-only-stockholm-syd.html,Stockholm,IP-Only Stockholm Syd
+http://www.datacentermap.com/sweden/stockholm/ip-only-stockholm-jarfalla.html,Stockholm,IP-Only Stockholm Järfälla
+http://www.datacentermap.com/sweden/stockholm/interxion-sto3.html,Stockholm,"Interxion STO3 (Stockholm, Sweden)"
+http://www.datacentermap.com/sweden/stockholm/interxion-sto2.html,Stockholm,"Interxion STO2 (Stockholm, Sweden)"
+http://www.datacentermap.com/sweden/stockholm/interxion-akalla.html,Stockholm,"Interxion STO1 (Stockholm, Sweden)"
+http://www.datacentermap.com/germany/stuttgart/centralsystems-isp----stuttgart.html,Stuttgart,Centralsystems GmbH  - Stuttgart 1
+http://www.datacentermap.com/indonesia/surabaya/telkomsigma-surabaya.html,Surabaya,Telkomsigma Data Center Surabaya
+http://www.datacentermap.com/united-kingdom/swindon/eduserv.html,Swindon,Eduserv Swindon
+http://www.datacentermap.com/australia/sydney/vocus-doody-street.html,Sydney,Vocus Data Centre - Sydney
+http://www.datacentermap.com/australia/sydney/sydney-2.html,Sydney,Metronode Sydney 2
+http://www.datacentermap.com/australia/sydney/sydney-1.html,Sydney,Metronode Sydney 1
+http://www.datacentermap.com/australia/sydney/global-switch-sydney.html,Sydney,Global Switch Sydney
+http://www.datacentermap.com/australia/sydney/equinix-sydney.html,Sydney,Equinix Sydney
+http://www.datacentermap.com/australia/sydney/ntt-sydney1.html,Sydney,Australia Sydney 1 Data Center
+http://www.datacentermap.com/hong-kong/tai-po/ntt-com-asia-data-centre.html,Tai PO,Hong Kong Tai Po Data Center
+http://www.datacentermap.com/taiwan/taipei/ntt-taipei.html,Taipei,Taiwan Taipei 3 Data Center
+http://www.datacentermap.com/taiwan/taipei/ivisions-dc2.html,Taipei,iVisions DC2
+http://www.datacentermap.com/usa/florida/tampa/savvis-tp1.html,Tampa,CenturyLink TP1
+http://www.datacentermap.com/iran/tehran/mizban-dadeh-pasargad.html,Tehran,mizban dadeh pasargad
+http://www.datacentermap.com/iran/tehran/mahanserver.html,Tehran,MahanServer
+http://www.datacentermap.com/romania/timisoara/livehosting-datacenter.html,Timisoara,LiveHosting Datacenter
+http://www.datacentermap.com/japan/tokyo/tokyo-no-6.html,Tokyo,Tokyo No. 6 Data Center
+http://www.datacentermap.com/japan/tokyo/tokyo-no-5.html,Tokyo,Tokyo No. 5 Data Center
+http://www.datacentermap.com/japan/tokyo/tokyo-no-4.html,Tokyo,Tokyo No. 4 Data Center
+http://www.datacentermap.com/japan/tokyo/tokyo-no-3.html,Tokyo,Tokyo No. 3 Data Center
+http://www.datacentermap.com/japan/tokyo/tokyo-no-1.html,Tokyo,Tokyo No. 1 Data Center
+http://www.datacentermap.com/japan/tokyo/tokyo-no-2.html,Tokyo,Tokyo  No. 2 Data Center
+http://www.datacentermap.com/japan/tokyo/telehouse-tokyo-tama.html,Tokyo,TELEHOUSE Tokyo Tama - 2
+http://www.datacentermap.com/japan/tokyo/telehouse-tokyo-tama1.html,Tokyo,TELEHOUSE Tokyo Tama - 1
+http://www.datacentermap.com/japan/tokyo/telehouse-tokyo-shinjuku.html,Tokyo,TELEHOUSE Tokyo Shinjuku
+http://www.datacentermap.com/japan/tokyo/telehouse-tokyo-shibuya.html,Tokyo,TELEHOUSE Tokyo Shibuya
+http://www.datacentermap.com/japan/tokyo/telehouse-tokyo-odaiba.html,Tokyo,TELEHOUSE Tokyo Odaiba
+http://www.datacentermap.com/japan/tokyo/telehouse-tokyo-mejirozaka.html,Tokyo,TELEHOUSE Tokyo Mejirozaka
+http://www.datacentermap.com/japan/tokyo/telehouse-tokyo-koto.html,Tokyo,TELEHOUSE Tokyo Koto
+http://www.datacentermap.com/japan/tokyo/telehouse-tokyo-kashiwa.html,Tokyo,TELEHOUSE Tokyo Kashiwa
+http://www.datacentermap.com/japan/tokyo/telehouse-tokyo-iidabashi.html,Tokyo,TELEHOUSE Tokyo Iidabashi
+http://www.datacentermap.com/japan/tokyo/telehouse-tokyo-fuchu.html,Tokyo,TELEHOUSE Tokyo Fuchu
+http://www.datacentermap.com/japan/tokyo/equinix-tokyo.html,Tokyo,Equinix Tokyo
+http://www.datacentermap.com/japan/tokyo/savvis-ty6.html,Tokyo,CenturyLink TY6
+http://www.datacentermap.com/italy/torino/colt-turin1.html,Torino,"Colt Turin, Livorno"
+http://www.datacentermap.com/canada/toronto/terago-mississauga.html,Toronto,TeraGo Mississauga Data Centre
+http://www.datacentermap.com/canada/toronto/pathway-primary-dc.html,Toronto,Pathway Primary DC
+http://www.datacentermap.com/canada/toronto/ice-datacenters-markham.html,Toronto,I.C.E Datacenters - Markham
+http://www.datacentermap.com/canada/toronto/savvis-tr1.html,Toronto,CenturyLink TR1
+http://www.datacentermap.com/france/toulouse/nfrance-ramonville.html,Toulouse,NFrance Ramonville
+http://www.datacentermap.com/australia/townsville/on-q-townsville-cbd.html,Townsville,On Q Townsville CBD
+http://www.datacentermap.com/usa/arizona/tucson/involta-tucson.html,Tucson,Involta-Tucson
+http://www.datacentermap.com/finland/ulvila/ficolo.html,Ulvila,Ficolo
+http://www.datacentermap.com/the-netherlands/utrecht/bt-dc-nieuwegein.html,Utrecht,BT DC Nieuwegein
+http://www.datacentermap.com/liechtenstein/vaduz/ict-center-vaduz.html,Vaduz,ICT-Center Vaduz
+http://www.datacentermap.com/canada/vancouver/newgen.html,Vancouver,NewGen
+http://www.datacentermap.com/austria/vienna/huemer-dc2.html,Vienna,Huemer-DC 2
+http://www.datacentermap.com/canada/vancouver/savvis-vc1.html,Vancouver,CenturyLink VC1
+http://www.datacentermap.com/austria/vienna/huemer-dc1.html,Vienna,Huemer-DC 1
+http://www.datacentermap.com/austria/vienna/interxion-vie2.html,Vienna,Interxion VIE2 (Vienna Austria)
+http://www.datacentermap.com/austria/vienna/interxion-vienna.html,Vienna,"Interxion VIE1 (Vienna, Austria)"
+http://www.datacentermap.com/usa/virginia/vienna-virginia/switchdata-vienna1.html,Vienna Virginia,Equinix DC8
+http://www.datacentermap.com/ukraine/vinnytsia/dc-16.html,Vinnytsia,DC-16
+http://www.datacentermap.com/usa/virginia/vienna-virginia/switchdata-vienna2.html,Vienna Virginia,Equinix DC7
+http://www.datacentermap.com/united-kingdom/wakefield/node4-dc3.html,Wakefield,Node4 (Leeds)
+http://www.datacentermap.com/poland/warsaw/telecity-warsaw1-lim.html,Warsaw,TelecityGroup Warsaw-1 (LIM)
+http://www.datacentermap.com/usa/maryland/washington-dc/mosaic-data-belt.html,Washington D.C.,MOSAIC DATA - BELT
+http://www.datacentermap.com/usa/washington/wenatchee/asicspace-bitcoin-dc.html,Wenatchee,ASICSPACE Bitcoin Data Center
+http://www.datacentermap.com/usa/virginia/washington-dc/equinix-dc5.html,Washington D.C.,Equinix DC5
+http://www.datacentermap.com/usa/delaware/wilmington/ipr-wilmington-bcc.html,Wilmington,IPR Wilmington CCC
+http://www.datacentermap.com/canada/winnipeg/mts-data-centre.html,Winnipeg,MTS Data Centre
+http://www.datacentermap.com/usa/delaware/wilmington/raynet-wilmington-de.html,Wilmington,RAYNET WILMINGTON DE
+http://www.datacentermap.com/canada/winnipeg/manitoba-hydro-telecom.html,Winnipeg,Manitoba Hydro Telecom
+http://www.datacentermap.com/united-kingdom/woking/sungard-tc3-woking.html,Woking,SunGard TC3 - Woking
+http://www.datacentermap.com/australia/wollongong/illawarra-1.html,Wollongong,Metronode Illawarra 1
+http://www.datacentermap.com/germany/wuerzburg/datacenter-mainfranken.html,Wuerzburg,Datacenter Mainfranken
+http://www.datacentermap.com/japan/yokohama/yokohama-no-1.html,Yokohama,Yokohama No. 1 Data Center
+http://www.datacentermap.com/usa/ohio/youngstown/youngstown-south-datacenter.html,Youngstown,DRS Youngstown South Datacenter
+http://www.datacentermap.com/switzerland/zug/lets-host.html,Zug,Lets Host Datacenter
+http://www.datacentermap.com/switzerland/zurich/ict-center-zurich.html,Zürich,ICT-Center Zürich
+http://www.datacentermap.com/switzerland/zurich/equinix-zurich3.html,Zürich,Equinix Zürich #3
+http://www.datacentermap.com/switzerland/zurich/equinix-zurich2.html,Zürich,Equinix Zürich #2
+http://www.datacentermap.com/switzerland/zurich/equinix-zurich1.html,Zürich,Equinix Zürich #1
+http://www.datacentermap.com/switzerland/zurich/colt-zurich1.html,Zürich,"Colt Zurich, Altstetten"
